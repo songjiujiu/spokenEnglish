@@ -1,0 +1,777 @@
+{
+  "book": 2,
+  "checkedAt": "2026-09-30",
+  "root": "D:\\BaiduNetdiskDownload\\新概念二",
+  "method": "只读文件清点；ffprobe测全部主精讲291片；样读5份逐课PDF全页与学生用书docx相应章节；未复制完整教材、未上传原文。",
+  "confirmedLessonCount": 96,
+  "lessonCoverage": [
+    1,
+    96
+  ],
+  "mainFolders": 98,
+  "mainLessonGroups": 4,
+  "lessonsPerGroup": 24,
+  "handoutPdfCount": 96,
+  "inventory": [
+    {
+      "folder": "剑桥标准流利口语-Book2（卓越四六级拓展）",
+      "files": 79,
+      "extensions": {
+        ".flv": 63,
+        ".pdf": 16
+      }
+    },
+    {
+      "folder": "新概念2 教材笔记讲义习题详解",
+      "files": 922,
+      "extensions": {
+        ".docx": 10,
+        ".pdf": 110,
+        ".xls": 1,
+        ".ppt": 801
+      }
+    },
+    {
+      "folder": "新概念2 语法提升精讲视频",
+      "files": 16,
+      "extensions": {
+        ".wmv": 16
+      }
+    },
+    {
+      "folder": "新概念2 课文精讲精练视频 新版",
+      "files": 291,
+      "extensions": {
+        ".flv": 195,
+        ".mp4": 96
+      }
+    },
+    {
+      "folder": "新概念二册 语法伴侣",
+      "files": 65,
+      "extensions": {
+        ".mp4": 58,
+        ".rar": 1,
+        ".pdf": 6
+      }
+    },
+    {
+      "folder": "新概念二最新最新直播课",
+      "files": 18,
+      "extensions": {
+        ".flv": 5,
+        ".pdf": 9,
+        ".mp4": 4
+      }
+    },
+    {
+      "folder": "新概念第2册MP3音频",
+      "files": 481,
+      "extensions": {
+        ".mp3": 288,
+        ".txt": 1,
+        ".lrc": 192
+      }
+    },
+    {
+      "folder": "新概念第2册动画",
+      "files": 96,
+      "extensions": {
+        ".rm": 96
+      }
+    }
+  ],
+  "videoSummary": {
+    "videoCount": 291,
+    "hours": 62.157146133888894,
+    "mainLessonCount": 96,
+    "mainHours": 60.42501350444445,
+    "medianLessonMinutes": 37.11023520833333,
+    "maxLessonMinutes": 85.98935463333333,
+    "minLessonMinutes": 15.377986533333333,
+    "samples": [
+      {
+        "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\02.Lesson1Aprivateconversation\\01.Lesson1单词讲解.flv",
+        "name": "01.Lesson1单词讲解.flv",
+        "lesson": 1,
+        "seconds": 949.789022
+      },
+      {
+        "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\02.Lesson1Aprivateconversation\\02.Lesson1课文语法讲解：简单句.mp4",
+        "name": "02.Lesson1课文语法讲解：简单句.mp4",
+        "lesson": 1,
+        "seconds": 2133.147574
+      },
+      {
+        "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\02.Lesson1Aprivateconversation\\03.Lesson1知识拓展：简单陈述句分类.flv",
+        "name": "03.Lesson1知识拓展：简单陈述句分类.flv",
+        "lesson": 1,
+        "seconds": 1306.646444
+      },
+      {
+        "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\25.Lesson24Itcouldbeworse\\01.Lesson24单词讲解.flv",
+        "name": "01.Lesson24单词讲解.flv",
+        "lesson": 24,
+        "seconds": 344.166167
+      },
+      {
+        "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\25.Lesson24Itcouldbeworse\\02.Lesson24课文语法讲解：复习.mp4",
+        "name": "02.Lesson24课文语法讲解：复习.mp4",
+        "lesson": 24,
+        "seconds": 470.78458
+      },
+      {
+        "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\25.Lesson24Itcouldbeworse\\03.Lesson24知识拓展：复习词&词组用法.flv",
+        "name": "03.Lesson24知识拓展：复习词&词组用法.flv",
+        "lesson": 24,
+        "seconds": 385.451244
+      },
+      {
+        "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\49.Lesson48Didyouwanttotellmesomething&\\01.Lesson48单词讲解.flv",
+        "name": "01.Lesson48单词讲解.flv",
+        "lesson": 48,
+        "seconds": 238.766444
+      },
+      {
+        "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\49.Lesson48Didyouwanttotellmesomething&\\02.Lesson48课文语法讲解：复习.mp4",
+        "name": "02.Lesson48课文语法讲解：复习.mp4",
+        "lesson": 48,
+        "seconds": 883.333515
+      },
+      {
+        "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\49.Lesson48Didyouwanttotellmesomething&\\03.Lesson48知识拓展：测试.flv",
+        "name": "03.Lesson48知识拓展：测试.flv",
+        "lesson": 48,
+        "seconds": 405.446444
+      },
+      {
+        "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\73.Lesson72AcarcalledBluebird\\01.Lesson72单词讲解.flv",
+        "name": "01.Lesson72单词讲解.flv",
+        "lesson": 72,
+        "seconds": 316.806444
+      },
+      {
+        "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\73.Lesson72AcarcalledBluebird\\02.Lesson72课文语法讲解：复习课.mp4",
+        "name": "02.Lesson72课文语法讲解：复习课.mp4",
+        "lesson": 72,
+        "seconds": 1438.011791
+      },
+      {
+        "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\73.Lesson72AcarcalledBluebird\\03.Lesson72知识拓展：内容回顾.flv",
+        "name": "03.Lesson72知识拓展：内容回顾.flv",
+        "lesson": 72,
+        "seconds": 789.126444
+      },
+      {
+        "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\97.Lesson96Thedeadreturn\\01.Lesson96单词讲解.flv",
+        "name": "01.Lesson96单词讲解.flv",
+        "lesson": 96,
+        "seconds": 122.486444
+      },
+      {
+        "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\97.Lesson96Thedeadreturn\\02.Lesson96课文语法讲解：分析长难句.mp4",
+        "name": "02.Lesson96课文语法讲解：分析长难句.mp4",
+        "lesson": 96,
+        "seconds": 1865.096417
+      },
+      {
+        "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\97.Lesson96Thedeadreturn\\03.Lesson96知识拓展.flv",
+        "name": "03.Lesson96知识拓展.flv",
+        "lesson": 96,
+        "seconds": 445.206444
+      },
+      {
+        "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\97.Lesson96Thedeadreturn\\04.lesson96知识拓展：不规则变化的动词.flv",
+        "name": "04.lesson96知识拓展：不规则变化的动词.flv",
+        "lesson": 96,
+        "seconds": 327.772878
+      }
+    ],
+    "errors": []
+  },
+  "coreLessonVideoCount": 96,
+  "coreLessonVideoHours": 35.19018445361111,
+  "audioPolicy": "课文英音/美音二选一为主，另有单词录音；288个MP3并非288课。",
+  "supplementPolicy": "逐课讲义+学生用书为主，笔记/练习详解按疑难查询；语法伴侣、直播、剑桥口语仅按薄弱点选看，不要求所有版本全部看完。",
+  "readSources": [
+    {
+      "path": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 教材笔记讲义习题详解\\讲义\\Lesson 1.pdf",
+      "lesson": 1,
+      "pages": 5
+    },
+    {
+      "path": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 教材笔记讲义习题详解\\讲义\\Lesson 24.pdf",
+      "lesson": 24,
+      "pages": 3
+    },
+    {
+      "path": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 教材笔记讲义习题详解\\讲义\\Lesson 48.pdf",
+      "lesson": 48,
+      "pages": 3
+    },
+    {
+      "path": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 教材笔记讲义习题详解\\讲义\\Lesson 72.pdf",
+      "lesson": 72,
+      "pages": 2
+    },
+    {
+      "path": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 教材笔记讲义习题详解\\讲义\\Lesson 96.pdf",
+      "lesson": 96,
+      "pages": 3
+    },
+    {
+      "path": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 教材笔记讲义习题详解\\新概念英语第二册学生用书.docx",
+      "sections": [
+        1,
+        24,
+        48,
+        72,
+        96
+      ]
+    }
+  ],
+  "sourceObservations": [
+    {
+      "lesson": 1,
+      "grammar": "五类简单句、主语谓语、语序与句子扩展。",
+      "writingFromStudentBook": "摘要不超过55词。"
+    },
+    {
+      "lesson": 24,
+      "grammar": "第一单元复习；过去完成时与一般过去时、现在进行时、There be；知识拓展归纳简单句骨架。",
+      "writingFromStudentBook": "摘要不超过55词。"
+    },
+    {
+      "lesson": 48,
+      "grammar": "第二单元复习：并列句与主从复合句、宾语/时间/定语从句、平行结构与省略。",
+      "writingFromStudentBook": "摘要不超过75词；按给定连词合句。"
+    },
+    {
+      "lesson": 72,
+      "grammar": "第三单元复习：从句嵌套、非谓语、被动、让步/原因表达；词汇辨析。",
+      "writingFromStudentBook": "摘要不超过75词；给定要点写2–3句。"
+    },
+    {
+      "lesson": 96,
+      "grammar": "明确复习分析长难句；找主干、定语从句、原因从句、非谓语、被动。",
+      "writingFromStudentBook": "不超过80词的摘要用两种衔接形式；约150词两段作文。"
+    }
+  ],
+  "recommendedPlan": {
+    "dailyMinutes": 45,
+    "daysPerWeek": 6,
+    "weeklyMinutes": 270,
+    "weeklyVideoCapMinutes": 90,
+    "normalLessonsPerWeek": 2,
+    "teachingWeeks": 48,
+    "consolidationWeeks": 8,
+    "baseTotalWeeks": 56,
+    "scheduleRule": "每12课为一个7周小周期：6周每周2课，1周复盘/补重。若须每课全片观看或重难输出不达标，使用复盘周缓冲或总工期顺延，不压缩听说写。",
+    "budgetRule": "每周90分钟以内视频（含暂停记要点），其余180分钟用于听辨、跟读、复述、摘要、练习、间隔复习。视频时长为1倍速素材长度，不等于完成学习用时。",
+    "stages": [
+      {
+        "weeks": [
+          1,
+          14
+        ],
+        "lessons": [
+          1,
+          24
+        ],
+        "focus": "句子骨架、时态基础、叙事顺序；接触被动、情态、条件表达",
+        "plannedOutput": "60秒自述/故事复述，按课本问题写≤55词摘要，错题解释时态选择"
+      },
+      {
+        "weeks": [
+          15,
+          28
+        ],
+        "lessons": [
+          25,
+          48
+        ],
+        "focus": "并列与复合句、从句连接、较完整事件复述",
+        "plannedOutput": "90秒复述；≤75词摘要；用连词合句并改写自己的经历"
+      },
+      {
+        "weeks": [
+          29,
+          42
+        ],
+        "lessons": [
+          49,
+          72
+        ],
+        "focus": "非谓语、省略、条件与虚拟表达，复杂句拆解",
+        "plannedOutput": "2分钟复述；≤75词摘要；标注主干并把要点扩写2–3句"
+      },
+      {
+        "weeks": [
+          43,
+          56
+        ],
+        "lessons": [
+          73,
+          96
+        ],
+        "focus": "综合复习、长难句分析、独立段落表达",
+        "plannedOutput": "2–3分钟主题表达；≤80词摘要；约150词两段作文"
+      }
+    ],
+    "completionGate": "原音不看文字听两遍能答主要情节问题；参考关键词完成口头复述；目标句型能造句；间隔7天抽查仍能完成。80%题目正确率仅作自定复习阈值，不是教材/考试认证。",
+    "heavyPairs": [
+      {
+        "lessons": [
+          1,
+          2
+        ],
+        "coreMinutes": 66.74,
+        "allMinutes": 120.15
+      },
+      {
+        "lessons": [
+          5,
+          6
+        ],
+        "coreMinutes": 42.98,
+        "allMinutes": 90.12
+      },
+      {
+        "lessons": [
+          25,
+          26
+        ],
+        "coreMinutes": 66.03,
+        "allMinutes": 94.86
+      },
+      {
+        "lessons": [
+          49,
+          50
+        ],
+        "coreMinutes": 65.38,
+        "allMinutes": 91.16
+      },
+      {
+        "lessons": [
+          55,
+          56
+        ],
+        "coreMinutes": 85.26,
+        "allMinutes": 124.38
+      },
+      {
+        "lessons": [
+          57,
+          58
+        ],
+        "coreMinutes": 67.36,
+        "allMinutes": 107.46
+      },
+      {
+        "lessons": [
+          63,
+          64
+        ],
+        "coreMinutes": 62.3,
+        "allMinutes": 103.32
+      },
+      {
+        "lessons": [
+          89,
+          90
+        ],
+        "coreMinutes": 58.8,
+        "allMinutes": 108.2
+      }
+    ],
+    "heavyRule": "L1–2合计120.15分钟全片，优先只看66.74分钟主课文语法；L55–56主片85.26分钟，建议降速/挪复盘周，不再叠加所有拓展片。",
+    "notClaimed": "规划不承诺读完两册即可雅思8分；口语时长和周数是本项目建议，摘要字数取自实际学生用书。"
+  },
+  "lessonPairVideoMinutes": [
+    {
+      "lessons": [
+        1,
+        2
+      ],
+      "coreMinutes": 66.74,
+      "allMinutes": 120.15
+    },
+    {
+      "lessons": [
+        3,
+        4
+      ],
+      "coreMinutes": 36.58,
+      "allMinutes": 85.81
+    },
+    {
+      "lessons": [
+        5,
+        6
+      ],
+      "coreMinutes": 42.98,
+      "allMinutes": 90.12
+    },
+    {
+      "lessons": [
+        7,
+        8
+      ],
+      "coreMinutes": 52.95,
+      "allMinutes": 85.01
+    },
+    {
+      "lessons": [
+        9,
+        10
+      ],
+      "coreMinutes": 48.4,
+      "allMinutes": 81.04
+    },
+    {
+      "lessons": [
+        11,
+        12
+      ],
+      "coreMinutes": 33.31,
+      "allMinutes": 62.47
+    },
+    {
+      "lessons": [
+        13,
+        14
+      ],
+      "coreMinutes": 38.57,
+      "allMinutes": 64.72
+    },
+    {
+      "lessons": [
+        15,
+        16
+      ],
+      "coreMinutes": 46.28,
+      "allMinutes": 73.08
+    },
+    {
+      "lessons": [
+        17,
+        18
+      ],
+      "coreMinutes": 44.34,
+      "allMinutes": 64.86
+    },
+    {
+      "lessons": [
+        19,
+        20
+      ],
+      "coreMinutes": 29.64,
+      "allMinutes": 53.2
+    },
+    {
+      "lessons": [
+        21,
+        22
+      ],
+      "coreMinutes": 31.93,
+      "allMinutes": 78.3
+    },
+    {
+      "lessons": [
+        23,
+        24
+      ],
+      "coreMinutes": 15.83,
+      "allMinutes": 35.38
+    },
+    {
+      "lessons": [
+        25,
+        26
+      ],
+      "coreMinutes": 66.03,
+      "allMinutes": 94.86
+    },
+    {
+      "lessons": [
+        27,
+        28
+      ],
+      "coreMinutes": 59.74,
+      "allMinutes": 88.98
+    },
+    {
+      "lessons": [
+        29,
+        30
+      ],
+      "coreMinutes": 36.76,
+      "allMinutes": 60.85
+    },
+    {
+      "lessons": [
+        31,
+        32
+      ],
+      "coreMinutes": 28.48,
+      "allMinutes": 52.96
+    },
+    {
+      "lessons": [
+        33,
+        34
+      ],
+      "coreMinutes": 29.22,
+      "allMinutes": 51.51
+    },
+    {
+      "lessons": [
+        35,
+        36
+      ],
+      "coreMinutes": 31.21,
+      "allMinutes": 66.02
+    },
+    {
+      "lessons": [
+        37,
+        38
+      ],
+      "coreMinutes": 40.45,
+      "allMinutes": 75.92
+    },
+    {
+      "lessons": [
+        39,
+        40
+      ],
+      "coreMinutes": 48.3,
+      "allMinutes": 77.49
+    },
+    {
+      "lessons": [
+        41,
+        42
+      ],
+      "coreMinutes": 45.96,
+      "allMinutes": 67.22
+    },
+    {
+      "lessons": [
+        43,
+        44
+      ],
+      "coreMinutes": 40.34,
+      "allMinutes": 75.35
+    },
+    {
+      "lessons": [
+        45,
+        46
+      ],
+      "coreMinutes": 41.46,
+      "allMinutes": 77.49
+    },
+    {
+      "lessons": [
+        47,
+        48
+      ],
+      "coreMinutes": 26.28,
+      "allMinutes": 54.97
+    },
+    {
+      "lessons": [
+        49,
+        50
+      ],
+      "coreMinutes": 65.38,
+      "allMinutes": 91.16
+    },
+    {
+      "lessons": [
+        51,
+        52
+      ],
+      "coreMinutes": 36.85,
+      "allMinutes": 67.9
+    },
+    {
+      "lessons": [
+        53,
+        54
+      ],
+      "coreMinutes": 29.6,
+      "allMinutes": 54.68
+    },
+    {
+      "lessons": [
+        55,
+        56
+      ],
+      "coreMinutes": 85.26,
+      "allMinutes": 124.38
+    },
+    {
+      "lessons": [
+        57,
+        58
+      ],
+      "coreMinutes": 67.36,
+      "allMinutes": 107.46
+    },
+    {
+      "lessons": [
+        59,
+        60
+      ],
+      "coreMinutes": 33.42,
+      "allMinutes": 60.91
+    },
+    {
+      "lessons": [
+        61,
+        62
+      ],
+      "coreMinutes": 57.94,
+      "allMinutes": 89.36
+    },
+    {
+      "lessons": [
+        63,
+        64
+      ],
+      "coreMinutes": 62.3,
+      "allMinutes": 103.32
+    },
+    {
+      "lessons": [
+        65,
+        66
+      ],
+      "coreMinutes": 50.5,
+      "allMinutes": 76.71
+    },
+    {
+      "lessons": [
+        67,
+        68
+      ],
+      "coreMinutes": 54.01,
+      "allMinutes": 80.39
+    },
+    {
+      "lessons": [
+        69,
+        70
+      ],
+      "coreMinutes": 35.19,
+      "allMinutes": 79.08
+    },
+    {
+      "lessons": [
+        71,
+        72
+      ],
+      "coreMinutes": 53.13,
+      "allMinutes": 84.91
+    },
+    {
+      "lessons": [
+        73,
+        74
+      ],
+      "coreMinutes": 44.72,
+      "allMinutes": 66.6
+    },
+    {
+      "lessons": [
+        75,
+        76
+      ],
+      "coreMinutes": 46.37,
+      "allMinutes": 73.47
+    },
+    {
+      "lessons": [
+        77,
+        78
+      ],
+      "coreMinutes": 49.07,
+      "allMinutes": 71.72
+    },
+    {
+      "lessons": [
+        79,
+        80
+      ],
+      "coreMinutes": 44.63,
+      "allMinutes": 62.9
+    },
+    {
+      "lessons": [
+        81,
+        82
+      ],
+      "coreMinutes": 24.42,
+      "allMinutes": 57.46
+    },
+    {
+      "lessons": [
+        83,
+        84
+      ],
+      "coreMinutes": 25.28,
+      "allMinutes": 48.08
+    },
+    {
+      "lessons": [
+        85,
+        86
+      ],
+      "coreMinutes": 37.82,
+      "allMinutes": 72.52
+    },
+    {
+      "lessons": [
+        87,
+        88
+      ],
+      "coreMinutes": 32.92,
+      "allMinutes": 76.36
+    },
+    {
+      "lessons": [
+        89,
+        90
+      ],
+      "coreMinutes": 58.8,
+      "allMinutes": 108.2
+    },
+    {
+      "lessons": [
+        91,
+        92
+      ],
+      "coreMinutes": 46.68,
+      "allMinutes": 66.66
+    },
+    {
+      "lessons": [
+        93,
+        94
+      ],
+      "coreMinutes": 48.19,
+      "allMinutes": 81.63
+    },
+    {
+      "lessons": [
+        95,
+        96
+      ],
+      "coreMinutes": 39.79,
+      "allMinutes": 81.88
+    }
+  ]
+}

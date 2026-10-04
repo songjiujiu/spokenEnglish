@@ -1,0 +1,1956 @@
+{
+  "summary": {
+    "videoCount": 291,
+    "hours": 62.157146133888894,
+    "mainLessonCount": 96,
+    "mainHours": 60.42501350444445,
+    "medianLessonMinutes": 37.11023520833333,
+    "maxLessonMinutes": 85.98935463333333,
+    "minLessonMinutes": 15.377986533333333,
+    "samples": [
+      {
+        "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\02.Lesson1Aprivateconversation\\01.Lesson1单词讲解.flv",
+        "name": "01.Lesson1单词讲解.flv",
+        "lesson": 1,
+        "seconds": 949.789022
+      },
+      {
+        "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\02.Lesson1Aprivateconversation\\02.Lesson1课文语法讲解：简单句.mp4",
+        "name": "02.Lesson1课文语法讲解：简单句.mp4",
+        "lesson": 1,
+        "seconds": 2133.147574
+      },
+      {
+        "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\02.Lesson1Aprivateconversation\\03.Lesson1知识拓展：简单陈述句分类.flv",
+        "name": "03.Lesson1知识拓展：简单陈述句分类.flv",
+        "lesson": 1,
+        "seconds": 1306.646444
+      },
+      {
+        "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\25.Lesson24Itcouldbeworse\\01.Lesson24单词讲解.flv",
+        "name": "01.Lesson24单词讲解.flv",
+        "lesson": 24,
+        "seconds": 344.166167
+      },
+      {
+        "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\25.Lesson24Itcouldbeworse\\02.Lesson24课文语法讲解：复习.mp4",
+        "name": "02.Lesson24课文语法讲解：复习.mp4",
+        "lesson": 24,
+        "seconds": 470.78458
+      },
+      {
+        "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\25.Lesson24Itcouldbeworse\\03.Lesson24知识拓展：复习词&词组用法.flv",
+        "name": "03.Lesson24知识拓展：复习词&词组用法.flv",
+        "lesson": 24,
+        "seconds": 385.451244
+      },
+      {
+        "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\49.Lesson48Didyouwanttotellmesomething&\\01.Lesson48单词讲解.flv",
+        "name": "01.Lesson48单词讲解.flv",
+        "lesson": 48,
+        "seconds": 238.766444
+      },
+      {
+        "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\49.Lesson48Didyouwanttotellmesomething&\\02.Lesson48课文语法讲解：复习.mp4",
+        "name": "02.Lesson48课文语法讲解：复习.mp4",
+        "lesson": 48,
+        "seconds": 883.333515
+      },
+      {
+        "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\49.Lesson48Didyouwanttotellmesomething&\\03.Lesson48知识拓展：测试.flv",
+        "name": "03.Lesson48知识拓展：测试.flv",
+        "lesson": 48,
+        "seconds": 405.446444
+      },
+      {
+        "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\73.Lesson72AcarcalledBluebird\\01.Lesson72单词讲解.flv",
+        "name": "01.Lesson72单词讲解.flv",
+        "lesson": 72,
+        "seconds": 316.806444
+      },
+      {
+        "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\73.Lesson72AcarcalledBluebird\\02.Lesson72课文语法讲解：复习课.mp4",
+        "name": "02.Lesson72课文语法讲解：复习课.mp4",
+        "lesson": 72,
+        "seconds": 1438.011791
+      },
+      {
+        "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\73.Lesson72AcarcalledBluebird\\03.Lesson72知识拓展：内容回顾.flv",
+        "name": "03.Lesson72知识拓展：内容回顾.flv",
+        "lesson": 72,
+        "seconds": 789.126444
+      },
+      {
+        "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\97.Lesson96Thedeadreturn\\01.Lesson96单词讲解.flv",
+        "name": "01.Lesson96单词讲解.flv",
+        "lesson": 96,
+        "seconds": 122.486444
+      },
+      {
+        "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\97.Lesson96Thedeadreturn\\02.Lesson96课文语法讲解：分析长难句.mp4",
+        "name": "02.Lesson96课文语法讲解：分析长难句.mp4",
+        "lesson": 96,
+        "seconds": 1865.096417
+      },
+      {
+        "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\97.Lesson96Thedeadreturn\\03.Lesson96知识拓展.flv",
+        "name": "03.Lesson96知识拓展.flv",
+        "lesson": 96,
+        "seconds": 445.206444
+      },
+      {
+        "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\97.Lesson96Thedeadreturn\\04.lesson96知识拓展：不规则变化的动词.flv",
+        "name": "04.lesson96知识拓展：不规则变化的动词.flv",
+        "lesson": 96,
+        "seconds": 327.772878
+      }
+    ],
+    "errors": []
+  },
+  "lessonSeconds": {
+    "1": 4389.5830399999995,
+    "2": 2819.569713,
+    "3": 2504.679736,
+    "4": 2643.963901,
+    "5": 3042.395103,
+    "6": 2364.511191,
+    "7": 3169.821142,
+    "8": 1930.855325,
+    "9": 2022.7939219999998,
+    "10": 2839.3882169999997,
+    "11": 1263.166711,
+    "12": 2485.1911090000003,
+    "13": 1678.6874440000001,
+    "14": 2204.539147,
+    "15": 1647.22731,
+    "16": 2737.639544,
+    "17": 2258.737967,
+    "18": 1632.72209,
+    "19": 1492.1788739999997,
+    "20": 1699.8595019999998,
+    "21": 2596.980326,
+    "22": 2100.732888,
+    "23": 922.679192,
+    "24": 1200.401991,
+    "25": 3186.32155,
+    "26": 2505.5367880000003,
+    "27": 1712.482457,
+    "28": 3626.4955179999997,
+    "29": 2087.3436819999997,
+    "30": 1563.881998,
+    "31": 1575.459595,
+    "32": 1601.8517960000001,
+    "33": 1971.6545130000002,
+    "34": 1119.239005,
+    "35": 1480.6652239999999,
+    "36": 2480.346395,
+    "37": 1934.2432629999998,
+    "38": 2620.7898379999997,
+    "39": 2355.339325,
+    "40": 2294.198738,
+    "41": 2171.822593,
+    "42": 1861.377877,
+    "43": 2351.146856,
+    "44": 2170.014601,
+    "45": 1199.077378,
+    "46": 3450.11248,
+    "47": 1770.634837,
+    "48": 1527.546403,
+    "49": 3417.8844449999997,
+    "50": 2051.500235,
+    "51": 2428.91121,
+    "52": 1645.2193280000001,
+    "53": 1840.189033,
+    "54": 1440.505314,
+    "55": 5159.361278,
+    "56": 2303.450977,
+    "57": 2036.287533,
+    "58": 4411.406992,
+    "59": 1765.8455330000002,
+    "60": 1888.9461260000003,
+    "61": 3053.757462,
+    "62": 2307.587852,
+    "63": 2424.000723,
+    "64": 3775.4027290000004,
+    "65": 2137.467763,
+    "66": 2464.8910610000003,
+    "67": 1647.179872,
+    "68": 3176.4602350000005,
+    "69": 2248.689078,
+    "70": 2496.1064930000002,
+    "71": 2550.7679900000003,
+    "72": 2543.944679,
+    "73": 2573.567627,
+    "74": 1422.503228,
+    "75": 1955.7483969999998,
+    "76": 2452.455063,
+    "77": 2633.3750480000003,
+    "78": 1669.542412,
+    "79": 2325.5466749999996,
+    "80": 1448.6364709999998,
+    "81": 2050.7863829999997,
+    "82": 1396.784317,
+    "83": 1606.103137,
+    "84": 1278.620768,
+    "85": 2632.9788710000003,
+    "86": 1718.139052,
+    "87": 2146.474467,
+    "88": 2435.286176,
+    "89": 3440.8674,
+    "90": 3051.145405,
+    "91": 1261.740416,
+    "92": 2737.629849,
+    "93": 2626.4887989999997,
+    "94": 2271.437648,
+    "95": 2151.976788,
+    "96": 2760.562183
+  },
+  "videos": [
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\01.新概念2册导学课\\01.新概念2册导学课.flv",
+      "name": "01.新概念2册导学课.flv",
+      "lesson": null,
+      "seconds": 1781.486444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\02.Lesson1Aprivateconversation\\01.Lesson1单词讲解.flv",
+      "name": "01.Lesson1单词讲解.flv",
+      "lesson": 1,
+      "seconds": 949.789022
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\02.Lesson1Aprivateconversation\\02.Lesson1课文语法讲解：简单句.mp4",
+      "name": "02.Lesson1课文语法讲解：简单句.mp4",
+      "lesson": 1,
+      "seconds": 2133.147574
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\02.Lesson1Aprivateconversation\\03.Lesson1知识拓展：简单陈述句分类.flv",
+      "name": "03.Lesson1知识拓展：简单陈述句分类.flv",
+      "lesson": 1,
+      "seconds": 1306.646444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\03.Lesson2Breakfastorlunch&\\01.Lesson2单词讲解.flv",
+      "name": "01.Lesson2单词讲解.flv",
+      "lesson": 2,
+      "seconds": 540.686444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\03.Lesson2Breakfastorlunch&\\02.Lesson2课文语法讲解：现在进行时，一般现在时，感叹句.mp4",
+      "name": "02.Lesson2课文语法讲解：现在进行时，一般现在时，感叹句.mp4",
+      "lesson": 2,
+      "seconds": 1871.156825
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\03.Lesson2Breakfastorlunch&\\03.Lesson2知识拓展：现在进行时vs一般现在时.flv",
+      "name": "03.Lesson2知识拓展：现在进行时vs一般现在时.flv",
+      "lesson": 2,
+      "seconds": 407.726444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\04.Lesson3Pleasesendmeacard\\01.Lesson3单词讲解.flv",
+      "name": "01.Lesson3单词讲解.flv",
+      "lesson": 3,
+      "seconds": 620.166444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\04.Lesson3Pleasesendmeacard\\02.Lesson3课文语法讲解：一般过去时，主谓双宾.mp4",
+      "name": "02.Lesson3课文语法讲解：一般过去时，主谓双宾.mp4",
+      "lesson": 3,
+      "seconds": 856.026848
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\04.Lesson3Pleasesendmeacard\\03.Lesson3知识拓展：一般过去时，主谓双宾练习.flv",
+      "name": "03.Lesson3知识拓展：一般过去时，主谓双宾练习.flv",
+      "lesson": 3,
+      "seconds": 1028.486444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\05.Lesson4Anexcitingtrip\\01.Lesson4单词讲解.flv",
+      "name": "01.Lesson4单词讲解.flv",
+      "lesson": 4,
+      "seconds": 514.693511
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\05.Lesson4Anexcitingtrip\\02.Lesson4课文语法讲解：现在完成时，同位语.mp4",
+      "name": "02.Lesson4课文语法讲解：现在完成时，同位语.mp4",
+      "lesson": 4,
+      "seconds": 1338.583946
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\05.Lesson4Anexcitingtrip\\03.Lesson4知识拓展：动词的过去式和过去分词.flv",
+      "name": "03.Lesson4知识拓展：动词的过去式和过去分词.flv",
+      "lesson": 4,
+      "seconds": 790.686444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\06.Lesson5Nowrongnumbers\\01.Lesson5单词讲解.flv",
+      "name": "01.Lesson5单词讲解.flv",
+      "lesson": 5,
+      "seconds": 422.046444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\06.Lesson5Nowrongnumbers\\02.Lesson5课文语法讲解：现在完成时vs一般过去时.mp4",
+      "name": "02.Lesson5课文语法讲解：现在完成时vs一般过去时.mp4",
+      "lesson": 5,
+      "seconds": 1137.057959
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\06.Lesson5Nowrongnumbers\\03.Lesson5知识拓展：现在完成时.flv",
+      "name": "03.Lesson5知识拓展：现在完成时.flv",
+      "lesson": 5,
+      "seconds": 1483.2907
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\07.Lesson6PercyButtons\\01.Lesson6单词讲解.flv",
+      "name": "01.Lesson6单词讲解.flv",
+      "lesson": 6,
+      "seconds": 360.977411
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\07.Lesson6PercyButtons\\02.Lesson6课文语法讲解：冠词.mp4",
+      "name": "02.Lesson6课文语法讲解：冠词.mp4",
+      "lesson": 6,
+      "seconds": 1441.657324
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\07.Lesson6PercyButtons\\03.Lesson6知识拓展：短语动词put&look&knock.flv",
+      "name": "03.Lesson6知识拓展：短语动词put&look&knock.flv",
+      "lesson": 6,
+      "seconds": 561.876456
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\08.Lesson7Toolate\\01.Lesson7单词讲解.flv",
+      "name": "01.Lesson7单词讲解.flv",
+      "lesson": 7,
+      "seconds": 499.366444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\08.Lesson7Toolate\\02.Lesson7课文语法讲解：过去进行时，过去将来时，陈述句变宾语从句.mp4",
+      "name": "02.Lesson7课文语法讲解：过去进行时，过去将来时，陈述句变宾语从句.mp4",
+      "lesson": 7,
+      "seconds": 2051.088254
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\08.Lesson7Toolate\\03.Lesson7知识拓展：过去进行时，when&while&as.flv",
+      "name": "03.Lesson7知识拓展：过去进行时，when&while&as.flv",
+      "lesson": 7,
+      "seconds": 619.366444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\09.Lesson8Thebestandtheworst\\01.Lesson8单词讲解.flv",
+      "name": "01.Lesson8单词讲解.flv",
+      "lesson": 8,
+      "seconds": 262.339044
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\09.Lesson8Thebestandtheworst\\02.Lesson8课文语法讲解：形容词副词的用法，形容词副词的比较级和最高级.mp4",
+      "name": "02.Lesson8课文语法讲解：形容词副词的用法，形容词副词的比较级和最高级.mp4",
+      "lesson": 8,
+      "seconds": 1125.680181
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\09.Lesson8Thebestandtheworst\\03.Lesson8知识拓展：不规则变化的比较级和最高级.flv",
+      "name": "03.Lesson8知识拓展：不规则变化的比较级和最高级.flv",
+      "lesson": 8,
+      "seconds": 542.8361
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\10.Lesson9Acoldwelcome\\01.Lesson9单词讲解.flv",
+      "name": "01.Lesson9单词讲解.flv",
+      "lesson": 9,
+      "seconds": 489.755278
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\10.Lesson9Acoldwelcome\\02.Lesson9课文语法讲解：表示时间的介词.mp4",
+      "name": "02.Lesson9课文语法讲解：表示时间的介词.mp4",
+      "lesson": 9,
+      "seconds": 1269.9922
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\10.Lesson9Acoldwelcome\\03.Lesson9知识拓展：表示时间的介词.flv",
+      "name": "03.Lesson9知识拓展：表示时间的介词.flv",
+      "lesson": 9,
+      "seconds": 263.046444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\11.Lesson10Notforjazz\\01.Lesson10单词讲解.flv",
+      "name": "01.Lesson10单词讲解.flv",
+      "lesson": 10,
+      "seconds": 485.246444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\11.Lesson10Notforjazz\\02.Lesson10课文语法讲解：被动语态.mp4",
+      "name": "02.Lesson10课文语法讲解：被动语态.mp4",
+      "lesson": 10,
+      "seconds": 1633.895329
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\11.Lesson10Notforjazz\\03.Lesson10知识拓展：双重所有格.flv",
+      "name": "03.Lesson10知识拓展：双重所有格.flv",
+      "lesson": 10,
+      "seconds": 720.246444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\12.Lesson11Onegoodturndeservesanother\\01.Lesson11单词讲解.flv",
+      "name": "01.Lesson11单词讲解.flv",
+      "lesson": 11,
+      "seconds": 296.566444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\12.Lesson11Onegoodturndeservesanother\\02.Lesson11课文语法讲解：复习时态.mp4",
+      "name": "02.Lesson11课文语法讲解：复习时态.mp4",
+      "lesson": 11,
+      "seconds": 658.657234
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\12.Lesson11Onegoodturndeservesanother\\03.Lesson11知识拓展：复习时态.flv",
+      "name": "03.Lesson11知识拓展：复习时态.flv",
+      "lesson": 11,
+      "seconds": 307.943033
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\13.Lesson12Goodbyeandgoodluck\\01.Lesson12单词讲解.flv",
+      "name": "01.Lesson12单词讲解.flv",
+      "lesson": 12,
+      "seconds": 524.846444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\13.Lesson12Goodbyeandgoodluck\\02.Lesson12课文语法讲解：一般将来时，非延续性动词+一段时间.mp4",
+      "name": "02.Lesson12课文语法讲解：一般将来时，非延续性动词+一段时间.mp4",
+      "lesson": 12,
+      "seconds": 1339.861043
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\13.Lesson12Goodbyeandgoodluck\\03.Lesson12知识拓展：be动词搭配的词组.flv",
+      "name": "03.Lesson12知识拓展：be动词搭配的词组.flv",
+      "lesson": 12,
+      "seconds": 620.483622
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\14.Lesson13TheGreenwoodBoys\\01.Lesson13单词讲解.flv",
+      "name": "01.Lesson13单词讲解.flv",
+      "lesson": 13,
+      "seconds": 305.366444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\14.Lesson13TheGreenwoodBoys\\02.Lesson13课文语法讲解：将来进行时.mp4",
+      "name": "02.Lesson13课文语法讲解：将来进行时.mp4",
+      "lesson": 13,
+      "seconds": 951.414422
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\14.Lesson13TheGreenwoodBoys\\03.Lesson13知识拓展：present.flv",
+      "name": "03.Lesson13知识拓展：present.flv",
+      "lesson": 13,
+      "seconds": 421.906578
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\15.Lesson14DoyouspeakEnglish&\\01.Lesson14单词讲解.flv",
+      "name": "01.Lesson14单词讲解.flv",
+      "lesson": 14,
+      "seconds": 354.446444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\15.Lesson14DoyouspeakEnglish&\\02.Lesson14课文语法讲解：过去完成时，过去完成时与一般过去时的搭配使用.mp4",
+      "name": "02.Lesson14课文语法讲解：过去完成时，过去完成时与一般过去时的搭配使用.mp4",
+      "lesson": 14,
+      "seconds": 1362.686259
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\15.Lesson14DoyouspeakEnglish&\\03.Lesson14知识拓展：过去完成时vs现在完成时，过去完成时vs一般过去时vs过去将来时.flv",
+      "name": "03.Lesson14知识拓展：过去完成时vs现在完成时，过去完成时vs一般过去时vs过去将来时.flv",
+      "lesson": 14,
+      "seconds": 487.406444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\16.Lesson15Goodnews\\01.Lesson15单词讲解.flv",
+      "name": "01.Lesson15单词讲解.flv",
+      "lesson": 15,
+      "seconds": 324.446444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\16.Lesson15Goodnews\\02.Lesson15课文语法讲解：直接引语变间接引语.mp4",
+      "name": "02.Lesson15课文语法讲解：直接引语变间接引语.mp4",
+      "lesson": 15,
+      "seconds": 930.934422
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\16.Lesson15Goodnews\\03.Lesson15知识拓展：直接引语变间接引语练习.flv",
+      "name": "03.Lesson15知识拓展：直接引语变间接引语练习.flv",
+      "lesson": 15,
+      "seconds": 391.846444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\17.Lesson16Apoliterequest\\01.Lesson16单词讲解.flv",
+      "name": "01.Lesson16单词讲解.flv",
+      "lesson": 16,
+      "seconds": 355.0331
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\17.Lesson16Apoliterequest\\02.Lesson16课文语法讲解：if条件状语从句（真实条件句）.mp4",
+      "name": "02.Lesson16课文语法讲解：if条件状语从句（真实条件句）.mp4",
+      "lesson": 16,
+      "seconds": 1846.04
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\17.Lesson16Apoliterequest\\03.Lesson16知识拓展：if条件状语从句(真实条件句假设将来）.flv",
+      "name": "03.Lesson16知识拓展：if条件状语从句(真实条件句假设将来）.flv",
+      "lesson": 16,
+      "seconds": 536.566444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\18.Lesson17Alwaysyoung\\01.Lesson17单词讲解.flv",
+      "name": "01.Lesson17单词讲解.flv",
+      "lesson": 17,
+      "seconds": 231.486444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\18.Lesson17Alwaysyoung\\02.Lesson17课文语法讲解：情态动词，must，haveto.mp4",
+      "name": "02.Lesson17课文语法讲解：情态动词，must，haveto.mp4",
+      "lesson": 17,
+      "seconds": 1433.925079
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\18.Lesson17Alwaysyoung\\03.Lesson17知识拓展：must.flv",
+      "name": "03.Lesson17知识拓展：must.flv",
+      "lesson": 17,
+      "seconds": 593.326444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\19.Lesson18Heoftendoesthis!\\01.Lesson18单词讲解.flv",
+      "name": "01.Lesson18单词讲解.flv",
+      "lesson": 18,
+      "seconds": 171.606444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\19.Lesson18Heoftendoesthis!\\02.Lesson18课文语法讲解：have的用法.mp4",
+      "name": "02.Lesson18课文语法讲解：have的用法.mp4",
+      "lesson": 18,
+      "seconds": 1226.733424
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\19.Lesson18Heoftendoesthis!\\03.Lesson18知识拓展：短语动词give.flv",
+      "name": "03.Lesson18知识拓展：短语动词give.flv",
+      "lesson": 18,
+      "seconds": 234.382222
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\20.Lesson19Soldout\\01.Lesson19单词讲解.flv",
+      "name": "01.Lesson19单词讲解.flv",
+      "lesson": 19,
+      "seconds": 217.366444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\20.Lesson19Soldout\\02.Lesson19课文语法讲解：情态动词may&can.mp4",
+      "name": "02.Lesson19课文语法讲解：情态动词may&can.mp4",
+      "lesson": 19,
+      "seconds": 949.045986
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\20.Lesson19Soldout\\03.Lesson19知识拓展：情态动词练习.flv",
+      "name": "03.Lesson19知识拓展：情态动词练习.flv",
+      "lesson": 19,
+      "seconds": 325.766444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\21.Lesson20Onemaninaboat\\01.Lesson20单词讲解.flv",
+      "name": "01.Lesson20单词讲解.flv",
+      "lesson": 20,
+      "seconds": 245.156278
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\21.Lesson20Onemaninaboat\\02.Lesson20课文语法讲解：doing动名词.mp4",
+      "name": "02.Lesson20课文语法讲解：doing动名词.mp4",
+      "lesson": 20,
+      "seconds": 829.41678
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\21.Lesson20Onemaninaboat\\03.Lesson20知识拓展：介词+doing动名词改写句子.flv",
+      "name": "03.Lesson20知识拓展：介词+doing动名词改写句子.flv",
+      "lesson": 20,
+      "seconds": 625.286444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\22.Lesson21Madornot&\\01.Lesson21单词讲解.flv",
+      "name": "01.Lesson21单词讲解.flv",
+      "lesson": 21,
+      "seconds": 334.646444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\22.Lesson21Madornot&\\02.Lesson21课文语法讲解：被动语态与时态&情态相结合.mp4",
+      "name": "02.Lesson21课文语法讲解：被动语态与时态&情态相结合.mp4",
+      "lesson": 21,
+      "seconds": 1230.007438
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\22.Lesson21Madornot&\\03.Lesson21知识拓展：主动语态vs被动语态.flv",
+      "name": "03.Lesson21知识拓展：主动语态vs被动语态.flv",
+      "lesson": 21,
+      "seconds": 1032.326444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\23.Lesson22Aglassenvelope\\01.Lesson22单词讲解.flv",
+      "name": "01.Lesson22单词讲解.flv",
+      "lesson": 22,
+      "seconds": 492.206444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\23.Lesson22Aglassenvelope\\02.Lesson22课文语法讲解：修饰比较级.mp4",
+      "name": "02.Lesson22课文语法讲解：修饰比较级.mp4",
+      "lesson": 22,
+      "seconds": 686.04
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\23.Lesson22Aglassenvelope\\03.Lesson22知识拓展：后面可接of&from&in&on的动词.flv",
+      "name": "03.Lesson22知识拓展：后面可接of&from&in&on的动词.flv",
+      "lesson": 22,
+      "seconds": 922.486444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\24.Lesson23Anewhouse\\01.Lesson23单词讲解.flv",
+      "name": "01.Lesson23单词讲解.flv",
+      "lesson": 23,
+      "seconds": 154.126444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\24.Lesson23Anewhouse\\02.Lesson23课文语法讲解：复习.mp4",
+      "name": "02.Lesson23课文语法讲解：复习.mp4",
+      "lesson": 23,
+      "seconds": 479.306304
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\24.Lesson23Anewhouse\\03.Lesson23知识拓展：Therebe句型.flv",
+      "name": "03.Lesson23知识拓展：Therebe句型.flv",
+      "lesson": 23,
+      "seconds": 289.246444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\25.Lesson24Itcouldbeworse\\01.Lesson24单词讲解.flv",
+      "name": "01.Lesson24单词讲解.flv",
+      "lesson": 24,
+      "seconds": 344.166167
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\25.Lesson24Itcouldbeworse\\02.Lesson24课文语法讲解：复习.mp4",
+      "name": "02.Lesson24课文语法讲解：复习.mp4",
+      "lesson": 24,
+      "seconds": 470.78458
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\25.Lesson24Itcouldbeworse\\03.Lesson24知识拓展：复习词&词组用法.flv",
+      "name": "03.Lesson24知识拓展：复习词&词组用法.flv",
+      "lesson": 24,
+      "seconds": 385.451244
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\26.Lesson25DotheEnglishspeakEnglish&\\01.Lesson25单词讲解.flv",
+      "name": "01.Lesson25单词讲解.flv",
+      "lesson": 25,
+      "seconds": 245.726444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\26.Lesson25DotheEnglishspeakEnglish&\\02.Lesson25课文语法讲解：并列句.mp4",
+      "name": "02.Lesson25课文语法讲解：并列句.mp4",
+      "lesson": 25,
+      "seconds": 2118.588662
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\26.Lesson25DotheEnglishspeakEnglish&\\03.Lesson25知识拓展：并列句.flv",
+      "name": "03.Lesson25知识拓展：并列句.flv",
+      "lesson": 25,
+      "seconds": 822.006444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\27.Lesson26Thebestartcritics\\01.Lesson26单词讲解.flv",
+      "name": "01.Lesson26单词讲解.flv",
+      "lesson": 26,
+      "seconds": 389.606444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\27.Lesson26Thebestartcritics\\02.Lesson26课文语法讲解：宾语从句.mp4",
+      "name": "02.Lesson26课文语法讲解：宾语从句.mp4",
+      "lesson": 26,
+      "seconds": 1843.0839
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\27.Lesson26Thebestartcritics\\03.Lesson26知识拓展：引号.flv",
+      "name": "03.Lesson26知识拓展：引号.flv",
+      "lesson": 26,
+      "seconds": 272.846444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\28.Lesson27Awetnight\\01.Lesson27单词讲解.flv",
+      "name": "01.Lesson27单词讲解.flv",
+      "lesson": 27,
+      "seconds": 510.326444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\28.Lesson27Awetnight\\02.Lesson27课文语法讲解：复习一般过去时.mp4",
+      "name": "02.Lesson27课文语法讲解：复习一般过去时.mp4",
+      "lesson": 27,
+      "seconds": 650.669569
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\28.Lesson27Awetnight\\03.Lesson27知识拓展：短语动词put.flv",
+      "name": "03.Lesson27知识拓展：短语动词put.flv",
+      "lesson": 27,
+      "seconds": 551.486444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\29.Lesson28Noparking\\01.Lesson28单词讲解.flv",
+      "name": "01.Lesson28单词讲解.flv",
+      "lesson": 28,
+      "seconds": 301.326444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\29.Lesson28Noparking\\02.Lesson28课文语法讲解：定语从句，复习现在完成时和宾语从句.mp4",
+      "name": "02.Lesson28课文语法讲解：定语从句，复习现在完成时和宾语从句.mp4",
+      "lesson": 28,
+      "seconds": 2933.56263
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\29.Lesson28Noparking\\03.Lesson28知识拓展：定语从句.flv",
+      "name": "03.Lesson28知识拓展：定语从句.flv",
+      "lesson": 28,
+      "seconds": 391.606444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\30.Lesson29Taxi!\\01.Lesson29单词讲解.flv",
+      "name": "01.Lesson29单词讲解.flv",
+      "lesson": 29,
+      "seconds": 394.406444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\30.Lesson29Taxi!\\02.Lesson29课文语法讲解：复习现在完成时，表语从句.mp4",
+      "name": "02.Lesson29课文语法讲解：复习现在完成时，表语从句.mp4",
+      "lesson": 29,
+      "seconds": 1221.810794
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\30.Lesson29Taxi!\\03.Lesson29知识拓展：现在完成时的常用搭配.flv",
+      "name": "03.Lesson29知识拓展：现在完成时的常用搭配.flv",
+      "lesson": 29,
+      "seconds": 471.126444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\31.Lesson30Footballorpolo&\\01.Lesson30单词讲解.flv",
+      "name": "01.Lesson30单词讲解.flv",
+      "lesson": 30,
+      "seconds": 363.526444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\31.Lesson30Footballorpolo&\\02.Lesson30课文语法讲解：冠词.mp4",
+      "name": "02.Lesson30课文语法讲解：冠词.mp4",
+      "lesson": 30,
+      "seconds": 983.852698
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\31.Lesson30Footballorpolo&\\03.Lesson30知识拓展：some&any.flv",
+      "name": "03.Lesson30知识拓展：some&any.flv",
+      "lesson": 30,
+      "seconds": 216.502856
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\32.Lesson31Successstory\\01.Lesson31单词讲解.flv",
+      "name": "01.Lesson31单词讲解.flv",
+      "lesson": 31,
+      "seconds": 343.144489
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\32.Lesson31Successstory\\02.Lesson31课文语法讲解：复习一般过去时，过去进行时.mp4",
+      "name": "02.Lesson31课文语法讲解：复习一般过去时，过去进行时.mp4",
+      "lesson": 31,
+      "seconds": 725.948662
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\32.Lesson31Successstory\\03.Lesson31知识拓展：it作形式主语，不定式做主语.flv",
+      "name": "03.Lesson31知识拓展：it作形式主语，不定式做主语.flv",
+      "lesson": 31,
+      "seconds": 506.366444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\33.Lesson32Shoppingmadeeady\\01.Lesson32单词讲解.flv",
+      "name": "01.Lesson32单词讲解.flv",
+      "lesson": 32,
+      "seconds": 221.889889
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\33.Lesson32Shoppingmadeeady\\02.Lesson32课文语法讲解：形容词&副词原级比较.mp4",
+      "name": "02.Lesson32课文语法讲解：形容词&副词原级比较.mp4",
+      "lesson": 32,
+      "seconds": 983.08644
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\33.Lesson32Shoppingmadeeady\\03.Lesson32知识拓展：形容词&副词的原级比较.flv",
+      "name": "03.Lesson32知识拓展：形容词&副词的原级比较.flv",
+      "lesson": 32,
+      "seconds": 396.875467
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\34.Lesson33Outofthedarkness\\01.Lesson33单词讲解.flv",
+      "name": "01.Lesson33单词讲解.flv",
+      "lesson": 33,
+      "seconds": 555.885711
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\34.Lesson33Outofthedarkness\\02.Lesson33课文语法讲解：表示地点的介词.mp4",
+      "name": "02.Lesson33课文语法讲解：表示地点的介词.mp4",
+      "lesson": 33,
+      "seconds": 983.922358
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\34.Lesson33Outofthedarkness\\03.Lesson33知识拓展：表示地点的介词.flv",
+      "name": "03.Lesson33知识拓展：表示地点的介词.flv",
+      "lesson": 33,
+      "seconds": 431.846444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\35.Lesson34Quickwork\\01.Lesson34单词讲解.flv",
+      "name": "01.Lesson34单词讲解.flv",
+      "lesson": 34,
+      "seconds": 130.496144
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\35.Lesson34Quickwork\\02.Lesson34课文语法讲解：复习被动语态.mp4",
+      "name": "02.Lesson34课文语法讲解：复习被动语态.mp4",
+      "lesson": 34,
+      "seconds": 769.416417
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\35.Lesson34Quickwork\\03.Lesson34知识拓展：短语动词call.flv",
+      "name": "03.Lesson34知识拓展：短语动词call.flv",
+      "lesson": 34,
+      "seconds": 219.326444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\36.Lesson35Stopthief!\\01.Lesson35单词讲解.flv",
+      "name": "01.Lesson35单词讲解.flv",
+      "lesson": 35,
+      "seconds": 420.086444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\36.Lesson35Stopthief!\\02.Lesson35课文语法讲解：复习.mp4",
+      "name": "02.Lesson35课文语法讲解：复习.mp4",
+      "lesson": 35,
+      "seconds": 698.572336
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\36.Lesson35Stopthief!\\03.Lesson35知识拓展：so.that.和such.that..flv",
+      "name": "03.Lesson35知识拓展：so.that.和such.that..flv",
+      "lesson": 35,
+      "seconds": 362.006444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\37.Lesson36AcrosstheChannel\\01.Lesson36单词讲解.flv",
+      "name": "01.Lesson36单词讲解.flv",
+      "lesson": 36,
+      "seconds": 303.299044
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\37.Lesson36AcrosstheChannel\\02.Lesson36课文语法讲解：表示将来的几种方式.mp4",
+      "name": "02.Lesson36课文语法讲解：表示将来的几种方式.mp4",
+      "lesson": 36,
+      "seconds": 1174.000907
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\37.Lesson36AcrosstheChannel\\03.Lesson36知识拓展：非限定性定语从句.flv",
+      "name": "03.Lesson36知识拓展：非限定性定语从句.flv",
+      "lesson": 36,
+      "seconds": 1003.046444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\38.Lesson37TheOlympicGames\\01.Lesson37单词讲解.flv",
+      "name": "01.Lesson37单词讲解.flv",
+      "lesson": 37,
+      "seconds": 482.926444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\38.Lesson37TheOlympicGames\\02.Lesson37课文语法讲解：将来完成时，复习willbedone、willbedoing.mp4",
+      "name": "02.Lesson37课文语法讲解：将来完成时，复习willbedone、willbedoing.mp4",
+      "lesson": 37,
+      "seconds": 1051.562086
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\38.Lesson37TheOlympicGames\\03.Lesson37知识拓展：总结完成时态.flv",
+      "name": "03.Lesson37知识拓展：总结完成时态.flv",
+      "lesson": 37,
+      "seconds": 399.754733
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\39.Lesson38Everythingexpecttheweather\\01.Lesson38单词讲解.flv",
+      "name": "01.Lesson38单词讲解.flv",
+      "lesson": 38,
+      "seconds": 396.503944
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\39.Lesson38Everythingexpecttheweather\\02.Lesson38课文语法讲解：过去完成时vs一般过去时.mp4",
+      "name": "02.Lesson38课文语法讲解：过去完成时vs一般过去时.mp4",
+      "lesson": 38,
+      "seconds": 1375.410794
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\39.Lesson38Everythingexpecttheweather\\03.Lesson38知识拓展：分析主谓.flv",
+      "name": "03.Lesson38知识拓展：分析主谓.flv",
+      "lesson": 38,
+      "seconds": 848.8751
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\40.Lesson39AmIallright&\\01.Lesson39单词讲解.flv",
+      "name": "01.Lesson39单词讲解.flv",
+      "lesson": 39,
+      "seconds": 424.878733
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\40.Lesson39AmIallright&\\02.Lesson39课文语法讲解：复习直接引语变间接引语.mp4",
+      "name": "02.Lesson39课文语法讲解：复习直接引语变间接引语.mp4",
+      "lesson": 39,
+      "seconds": 1182.68517
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\40.Lesson39AmIallright&\\03.Lesson39知识拓展：直接引语变间接引语练习.flv",
+      "name": "03.Lesson39知识拓展：直接引语变间接引语练习.flv",
+      "lesson": 39,
+      "seconds": 747.775422
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\41.Lesson40Foodandtalk\\01.Lesson40单词讲解.flv",
+      "name": "01.Lesson40单词讲解.flv",
+      "lesson": 40,
+      "seconds": 303.086444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\41.Lesson40Foodandtalk\\02.Lesson40课文语法讲解：if虚拟条件句（虚拟语气）.mp4",
+      "name": "02.Lesson40课文语法讲解：if虚拟条件句（虚拟语气）.mp4",
+      "lesson": 40,
+      "seconds": 1715.02585
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\41.Lesson40Foodandtalk\\03.Lesson40知识拓展：短语动词make&do.flv",
+      "name": "03.Lesson40知识拓展：短语动词make&do.flv",
+      "lesson": 40,
+      "seconds": 276.086444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\42.Lesson41Doyoucallthatahat&\\01.Lesson41单词讲解.flv",
+      "name": "01.Lesson41单词讲解.flv",
+      "lesson": 41,
+      "seconds": 201.446444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\42.Lesson41Doyoucallthatahat&\\02.Lesson41课文语法讲解：need.mp4",
+      "name": "02.Lesson41课文语法讲解：need.mp4",
+      "lesson": 41,
+      "seconds": 1533.329705
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\42.Lesson41Doyoucallthatahat&\\03.Lesson41知识拓展：mustn't&needn't.flv",
+      "name": "03.Lesson41知识拓展：mustn't&needn't.flv",
+      "lesson": 41,
+      "seconds": 437.046444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\43.Lesson42Notverymusical\\01.Lesson42单词讲解.flv",
+      "name": "01.Lesson42单词讲解.flv",
+      "lesson": 42,
+      "seconds": 364.286444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\43.Lesson42Notverymusical\\02.Lesson42课文语法讲解：复习have的用法.mp4",
+      "name": "02.Lesson42课文语法讲解：复习have的用法.mp4",
+      "lesson": 42,
+      "seconds": 1224.364989
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\43.Lesson42Notverymusical\\03.Lesson42知识拓展：havea+n.=对应的v..flv",
+      "name": "03.Lesson42知识拓展：havea+n.=对应的v..flv",
+      "lesson": 42,
+      "seconds": 272.726444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\44.Lesson43OvertheSouthPole\\01.Lesson43单词讲解.flv",
+      "name": "01.Lesson43单词讲解.flv",
+      "lesson": 43,
+      "seconds": 617.366444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\44.Lesson43OvertheSouthPole\\02.Lesson43课文语法讲解：can&beableto，主语从句.mp4",
+      "name": "02.Lesson43课文语法讲解：can&beableto，主语从句.mp4",
+      "lesson": 43,
+      "seconds": 1531.773968
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\44.Lesson43OvertheSouthPole\\03.Lesson43知识拓展：at介词短语.flv",
+      "name": "03.Lesson43知识拓展：at介词短语.flv",
+      "lesson": 43,
+      "seconds": 202.006444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\45.Lesson44Throughtheforest\\01.Lesson44单词讲解.flv",
+      "name": "01.Lesson44单词讲解.flv",
+      "lesson": 44,
+      "seconds": 358.794733
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\45.Lesson44Throughtheforest\\02.Lesson44课文语法讲解：复习doing动名词.mp4",
+      "name": "02.Lesson44课文语法讲解：复习doing动名词.mp4",
+      "lesson": 44,
+      "seconds": 888.813424
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\45.Lesson44Throughtheforest\\03.Lesson44知识拓展：doing动名词的用法.flv",
+      "name": "03.Lesson44知识拓展：doing动名词的用法.flv",
+      "lesson": 44,
+      "seconds": 922.406444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\46.Lesson45Aclearconscience\\01.Lesson45单词讲解.flv",
+      "name": "01.Lesson45单词讲解.flv",
+      "lesson": 45,
+      "seconds": 189.446444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\46.Lesson45Aclearconscience\\02.Lesson45课文语法讲解：复习被动语态.mp4",
+      "name": "02.Lesson45课文语法讲解：复习被动语态.mp4",
+      "lesson": 45,
+      "seconds": 722.02449
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\46.Lesson45Aclearconscience\\03.Lesson45知识拓展：被动语态改写练习.flv",
+      "name": "03.Lesson45知识拓展：被动语态改写练习.flv",
+      "lesson": 45,
+      "seconds": 287.606444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\47.Lesson46Expensiveanduncomfortable\\01.Lesson46单词讲解.flv",
+      "name": "01.Lesson46单词讲解.flv",
+      "lesson": 46,
+      "seconds": 732.966444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\47.Lesson46Expensiveanduncomfortable\\02.Lesson46课文语法讲解：同位语从句，介词后的宾语从句，beingdone.mp4",
+      "name": "02.Lesson46课文语法讲解：同位语从句，介词后的宾语从句，beingdone.mp4",
+      "lesson": 46,
+      "seconds": 1765.459592
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\47.Lesson46Expensiveanduncomfortable\\03.Lesson46知识拓展：to&at&for&with用法搭配.flv",
+      "name": "03.Lesson46知识拓展：to&at&for&with用法搭配.flv",
+      "lesson": 46,
+      "seconds": 951.686444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\48.Lesson47Athirstyghost\\01.Lesson47单词讲解.flv",
+      "name": "01.Lesson47单词讲解.flv",
+      "lesson": 47,
+      "seconds": 475.286444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\48.Lesson47Athirstyghost\\02.Lesson47课文语法讲解：复习.mp4",
+      "name": "02.Lesson47课文语法讲解：复习.mp4",
+      "lesson": 47,
+      "seconds": 693.440726
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\48.Lesson47Athirstyghost\\03.Lesson47知识拓展：梳理知识点（按句子分类）.flv",
+      "name": "03.Lesson47知识拓展：梳理知识点（按句子分类）.flv",
+      "lesson": 47,
+      "seconds": 601.907667
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\49.Lesson48Didyouwanttotellmesomething&\\01.Lesson48单词讲解.flv",
+      "name": "01.Lesson48单词讲解.flv",
+      "lesson": 48,
+      "seconds": 238.766444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\49.Lesson48Didyouwanttotellmesomething&\\02.Lesson48课文语法讲解：复习.mp4",
+      "name": "02.Lesson48课文语法讲解：复习.mp4",
+      "lesson": 48,
+      "seconds": 883.333515
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\49.Lesson48Didyouwanttotellmesomething&\\03.Lesson48知识拓展：测试.flv",
+      "name": "03.Lesson48知识拓展：测试.flv",
+      "lesson": 48,
+      "seconds": 405.446444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\50.Lesson49Theendofadream\\01.Lesson49单词讲解.flv",
+      "name": "01.Lesson49单词讲解.flv",
+      "lesson": 49,
+      "seconds": 664.694422
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\50.Lesson49Theendofadream\\02.Lesson49课文语法讲解：并列句vs.（主从）复合句；状语从句的省略.mp4",
+      "name": "02.Lesson49课文语法讲解：并列句vs.（主从）复合句；状语从句的省略.mp4",
+      "lesson": 49,
+      "seconds": 2257.118912
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\50.Lesson49Theendofadream\\03.Lesson49知识拓展：合并句子.flv",
+      "name": "03.Lesson49知识拓展：合并句子.flv",
+      "lesson": 49,
+      "seconds": 496.071111
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\51.Lesson50Takenforaride\\01.Lesson50单词讲解.flv",
+      "name": "01.Lesson50单词讲解.flv",
+      "lesson": 50,
+      "seconds": 171.046444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\51.Lesson50Takenforaride\\02.Lesson50课文语法讲解：副词doing&done.todo作定语&状语；定语从句的省略.mp4",
+      "name": "02.Lesson50课文语法讲解：副词doing&done.todo作定语&状语；定语从句的省略.mp4",
+      "lesson": 50,
+      "seconds": 1665.567347
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\51.Lesson50Takenforaride\\03.Lesson50知识拓展：易混淆词.flv",
+      "name": "03.Lesson50知识拓展：易混淆词.flv",
+      "lesson": 50,
+      "seconds": 214.886444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\52.Lesson51Rewardforvirtue\\01.Lesson51单词讲解.flv",
+      "name": "01.Lesson51单词讲解.flv",
+      "lesson": 51,
+      "seconds": 695.326444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\52.Lesson51Rewardforvirtue\\02.Lesson51课文语法讲解：复习一般过去时.mp4",
+      "name": "02.Lesson51课文语法讲解：复习一般过去时.mp4",
+      "lesson": 51,
+      "seconds": 1197.058322
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\52.Lesson51Rewardforvirtue\\03.Lesson51知识拓展：易混淆词.flv",
+      "name": "03.Lesson51知识拓展：易混淆词.flv",
+      "lesson": 51,
+      "seconds": 536.526444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\53.Lesson52Aprettycarpet\\01.Lesson52单词讲解.flv",
+      "name": "01.Lesson52单词讲解.flv",
+      "lesson": 52,
+      "seconds": 186.166444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\53.Lesson52Aprettycarpet\\02.Lesson52课文语法讲解：现在完成时；现在完成进行时.mp4",
+      "name": "02.Lesson52课文语法讲解：现在完成时；现在完成进行时.mp4",
+      "lesson": 52,
+      "seconds": 1013.80644
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\53.Lesson52Aprettycarpet\\03.Lesson52知识拓展：句子分析.flv",
+      "name": "03.Lesson52知识拓展：句子分析.flv",
+      "lesson": 52,
+      "seconds": 445.246444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\54.Lesson53Hotsnake\\01.Lesson53单词讲解.flv",
+      "name": "01.Lesson53单词讲解.flv",
+      "lesson": 53,
+      "seconds": 426.646444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\54.Lesson53Hotsnake\\02.Lesson53课文语法讲解：一般过去时&现在完成时&现在完成进行时.mp4",
+      "name": "02.Lesson53课文语法讲解：一般过去时&现在完成时&现在完成进行时.mp4",
+      "lesson": 53,
+      "seconds": 1093.056145
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\54.Lesson53Hotsnake\\03.Lesson53知识拓展：易混淆词.flv",
+      "name": "03.Lesson53知识拓展：易混淆词.flv",
+      "lesson": 53,
+      "seconds": 320.486444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\55.Lesson54Stickyfingers\\01.Lesson54单词讲解.flv",
+      "name": "01.Lesson54单词讲解.flv",
+      "lesson": 54,
+      "seconds": 401.126444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\55.Lesson54Stickyfingers\\02.Lesson54课文语法讲解.mp4",
+      "name": "02.Lesson54课文语法讲解.mp4",
+      "lesson": 54,
+      "seconds": 682.852426
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\55.Lesson54Stickyfingers\\03.Lesson54知识拓展：定冠词the的用法.flv",
+      "name": "03.Lesson54知识拓展：定冠词the的用法.flv",
+      "lesson": 54,
+      "seconds": 356.526444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\56.Lesson55Notagoldmine\\01.Lesson55单词讲解.flv",
+      "name": "01.Lesson55单词讲解.flv",
+      "lesson": 55,
+      "seconds": 725.966444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\56.Lesson55Notagoldmine\\02.Lesson55课文语法讲解：非谓语动词.mp4",
+      "name": "02.Lesson55课文语法讲解：非谓语动词.mp4",
+      "lesson": 55,
+      "seconds": 3701.74839
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\56.Lesson55Notagoldmine\\03.Lesson55知识拓展：写作拓展；易混淆词组.flv",
+      "name": "03.Lesson55知识拓展：写作拓展；易混淆词组.flv",
+      "lesson": 55,
+      "seconds": 731.646444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\57.Lesson56Fasterthansound!\\01.Lesson56单词讲解.flv",
+      "name": "01.Lesson56单词讲解.flv",
+      "lesson": 56,
+      "seconds": 442.804533
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\57.Lesson56Fasterthansound!\\02.Lesson56课文语法讲解：复习形容词&副词的比较级&最高级；其他表示比较的词&词组.mp4",
+      "name": "02.Lesson56课文语法讲解：复习形容词&副词的比较级&最高级；其他表示比较的词&词组.mp4",
+      "lesson": 56,
+      "seconds": 1414.04
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\57.Lesson56Fasterthansound!\\03.Lesson56知识拓展：易混淆词.flv",
+      "name": "03.Lesson56知识拓展：易混淆词.flv",
+      "lesson": 56,
+      "seconds": 446.606444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\58.Lesson57CanIhelpyou,madam&\\01.Lesson57单词讲解.flv",
+      "name": "01.Lesson57单词讲解.flv",
+      "lesson": 57,
+      "seconds": 248.606444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\58.Lesson57CanIhelpyou,madam&\\02.Lesson57课文语法讲解：介词.mp4",
+      "name": "02.Lesson57课文语法讲解：介词.mp4",
+      "lesson": 57,
+      "seconds": 1514.382222
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\58.Lesson57CanIhelpyou,madam&\\03.Lesson57知识拓展：使役动词.flv",
+      "name": "03.Lesson57知识拓展：使役动词.flv",
+      "lesson": 57,
+      "seconds": 273.298867
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\59.Lesson58Ablessingindisguise&\\01.Lesson58单词讲解.flv",
+      "name": "01.Lesson58单词讲解.flv",
+      "lesson": 58,
+      "seconds": 803.766444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\59.Lesson58Ablessingindisguise&\\02.Lesson58课文语法讲解：复习被动语态；强调句.mp4",
+      "name": "02.Lesson58课文语法讲解：复习被动语态；强调句.mp4",
+      "lesson": 58,
+      "seconds": 2527.074104
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\59.Lesson58Ablessingindisguise&\\03.Lesson58知识拓展：双宾语动词的被动语态；被动语态在写作中的应用.flv",
+      "name": "03.Lesson58知识拓展：双宾语动词的被动语态；被动语态在写作中的应用.flv",
+      "lesson": 58,
+      "seconds": 1080.566444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\60.Lesson59Inorout&\\01.Lesson59单词讲解.flv",
+      "name": "01.Lesson59单词讲解.flv",
+      "lesson": 59,
+      "seconds": 276.549656
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\60.Lesson59Inorout&\\02.Lesson59课文语法讲解：复习课；表示目的的几种方式.mp4",
+      "name": "02.Lesson59课文语法讲解：复习课；表示目的的几种方式.mp4",
+      "lesson": 59,
+      "seconds": 976.329433
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\60.Lesson59Inorout&\\03.Lesson59知识拓展：表示目的的几种方式.flv",
+      "name": "03.Lesson59知识拓展：表示目的的几种方式.flv",
+      "lesson": 59,
+      "seconds": 512.966444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\61.Lesson60Thefuture\\01.Lesson60单词讲解.flv",
+      "name": "01.Lesson60单词讲解.flv",
+      "lesson": 60,
+      "seconds": 303.046444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\61.Lesson60Thefuture\\02.Lesson60课文语法讲解：复习表示将来的各种时态.mp4",
+      "name": "02.Lesson60课文语法讲解：复习表示将来的各种时态.mp4",
+      "lesson": 60,
+      "seconds": 1028.620771
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\61.Lesson60Thefuture\\03.Lesson60知识拓展：复习表示将来的各种时态.flv",
+      "name": "03.Lesson60知识拓展：复习表示将来的各种时态.flv",
+      "lesson": 60,
+      "seconds": 557.278911
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\62.Lesson61TroublewiththeHubble\\01.Lesson61单词讲解.flv",
+      "name": "01.Lesson61单词讲解.flv",
+      "lesson": 61,
+      "seconds": 654.199
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\62.Lesson61TroublewiththeHubble\\02.Lesson61课文语法讲解：将来进行时；将来完成时；将来完成进行时.mp4",
+      "name": "02.Lesson61课文语法讲解：将来进行时；将来完成时；将来完成进行时.mp4",
+      "lesson": 61,
+      "seconds": 2048.952018
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\62.Lesson61TroublewiththeHubble\\03.Lesson61知识拓展：将来完成时；将来完成进行时.flv",
+      "name": "03.Lesson61知识拓展：将来完成时；将来完成进行时.flv",
+      "lesson": 61,
+      "seconds": 350.606444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\63.Lesson62Afterthefire\\01.Lesson62单词讲解.flv",
+      "name": "01.Lesson62单词讲解.flv",
+      "lesson": 62,
+      "seconds": 658.332156
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\63.Lesson62Afterthefire\\02.Lesson62课文语法讲解：过去完成时；过去完成进行时.mp4",
+      "name": "02.Lesson62课文语法讲解：过去完成时；过去完成进行时.mp4",
+      "lesson": 62,
+      "seconds": 1427.609252
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\63.Lesson62Afterthefire\\03.Lesson62知识拓展：复习表示过去的时态.flv",
+      "name": "03.Lesson62知识拓展：复习表示过去的时态.flv",
+      "lesson": 62,
+      "seconds": 221.646444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\64.Lesson63Shewasnotamused\\01.Lesson63单词讲解.flv",
+      "name": "01.Lesson63单词讲解.flv",
+      "lesson": 63,
+      "seconds": 382.339767
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\64.Lesson63Shewasnotamused\\02.Lesson63课文语法讲解：复习课.mp4",
+      "name": "02.Lesson63课文语法讲解：复习课.mp4",
+      "lesson": 63,
+      "seconds": 1004.657778
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\64.Lesson63Shewasnotamused\\03.Lesson63知识拓展：直接引语变间接引语.flv",
+      "name": "03.Lesson63知识拓展：直接引语变间接引语.flv",
+      "lesson": 63,
+      "seconds": 1037.003178
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\65.Lesson64TheChannelTunnel\\01.Lesson64单词讲解.flv",
+      "name": "01.Lesson64单词讲解.flv",
+      "lesson": 64,
+      "seconds": 497.006444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\65.Lesson64TheChannelTunnel\\02.Lesson64课文语法讲解：if条件句；宾语从句的虚拟.mp4",
+      "name": "02.Lesson64课文语法讲解：if条件句；宾语从句的虚拟.mp4",
+      "lesson": 64,
+      "seconds": 2733.429841
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\65.Lesson64TheChannelTunnel\\03.Lesson64知识拓展：if虚拟条件句（假设将来）.flv",
+      "name": "03.Lesson64知识拓展：if虚拟条件句（假设将来）.flv",
+      "lesson": 64,
+      "seconds": 544.966444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\66.Lesson65Jumboversusthepolice\\01.Lesson65单词讲解.flv",
+      "name": "01.Lesson65单词讲解.flv",
+      "lesson": 65,
+      "seconds": 468.046444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\66.Lesson65Jumboversusthepolice\\02.Lesson65课文语法讲解：复习must&haveto；情态动词的虚拟；复习非谓语动词.mp4",
+      "name": "02.Lesson65课文语法讲解：复习must&haveto；情态动词的虚拟；复习非谓语动词.mp4",
+      "lesson": 65,
+      "seconds": 1507.694875
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\66.Lesson65Jumboversusthepolice\\03.Lesson65知识拓展：短语动词let.flv",
+      "name": "03.Lesson65知识拓展：短语动词let.flv",
+      "lesson": 65,
+      "seconds": 161.726444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\67.Lesson66Sweetashoney!\\01.Lesson66单词讲解.flv",
+      "name": "01.Lesson66单词讲解.flv",
+      "lesson": 66,
+      "seconds": 566.056056
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\67.Lesson66Sweetashoney!\\02.Lesson66课文语法讲解：have使役动词.mp4",
+      "name": "02.Lesson66课文语法讲解：have使役动词.mp4",
+      "lesson": 66,
+      "seconds": 1522.300227
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\67.Lesson66Sweetashoney!\\03.Lesson66知识拓展：使役动词的用法（havesth.done）.flv",
+      "name": "03.Lesson66知识拓展：使役动词的用法（havesth.done）.flv",
+      "lesson": 66,
+      "seconds": 376.534778
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\68.Lesson67Volcanoes\\01.Lesson67单词讲解.flv",
+      "name": "01.Lesson67单词讲解.flv",
+      "lesson": 67,
+      "seconds": 334.966444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\68.Lesson67Volcanoes\\02.Lesson67课文语法讲解：复习can&beableto;managedtodo.mp4",
+      "name": "02.Lesson67课文语法讲解：复习can&beableto;managedtodo.mp4",
+      "lesson": 67,
+      "seconds": 1021.886984
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\68.Lesson67Volcanoes\\03.Lesson67知识拓展：区分say和tell.flv",
+      "name": "03.Lesson67知识拓展：区分say和tell.flv",
+      "lesson": 67,
+      "seconds": 290.326444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\69.Lesson68Persistent\\01.Lesson68单词讲解.flv",
+      "name": "01.Lesson68单词讲解.flv",
+      "lesson": 68,
+      "seconds": 434.406444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\69.Lesson68Persistent\\02.Lesson68课文语法讲解：非谓语动词doing.mp4",
+      "name": "02.Lesson68课文语法讲解：非谓语动词doing.mp4",
+      "lesson": 68,
+      "seconds": 2218.527347
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\69.Lesson68Persistent\\03.Lesson68知识拓展：反意疑问句.flv",
+      "name": "03.Lesson68知识拓展：反意疑问句.flv",
+      "lesson": 68,
+      "seconds": 523.526444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\70.Lesson69Butnotmurder!\\01.Lesson69单词讲解.flv",
+      "name": "01.Lesson69单词讲解.flv",
+      "lesson": 69,
+      "seconds": 434.846444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\70.Lesson69Butnotmurder!\\02.Lesson69课文语法讲解：复习被动语态；非谓语动词的变体：havingbeendone.mp4",
+      "name": "02.Lesson69课文语法讲解：复习被动语态；非谓语动词的变体：havingbeendone.mp4",
+      "lesson": 69,
+      "seconds": 1100.55619
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\70.Lesson69Butnotmurder!\\03.Lesson69知识拓展：bedonevsdone；非谓语动词表示被动；非谓语动词vs谓语动词时间关系.flv",
+      "name": "03.Lesson69知识拓展：bedonevsdone；非谓语动词表示被动；非谓语动词vs谓语动词时间关系.flv",
+      "lesson": 69,
+      "seconds": 713.286444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\71.Lesson70Redfordanger\\01.Lesson70单词讲解.flv",
+      "name": "01.Lesson70单词讲解.flv",
+      "lesson": 70,
+      "seconds": 528.086444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\71.Lesson70Redfordanger\\02.Lesson70课文语法讲解：形容词与介词搭配的词组.mp4",
+      "name": "02.Lesson70课文语法讲解：形容词与介词搭配的词组.mp4",
+      "lesson": 70,
+      "seconds": 1010.973605
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\71.Lesson70Redfordanger\\03.Lesson70知识拓展：形容词与介词搭配的词组.flv",
+      "name": "03.Lesson70知识拓展：形容词与介词搭配的词组.flv",
+      "lesson": 70,
+      "seconds": 957.046444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\72.Lesson71Afamousclock\\01.Lesson71单词讲解.flv",
+      "name": "01.Lesson71单词讲解.flv",
+      "lesson": 71,
+      "seconds": 546.806444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\72.Lesson71Afamousclock\\02.Lesson71课文语法讲解：复习课.mp4",
+      "name": "02.Lesson71课文语法讲解：复习课.mp4",
+      "lesson": 71,
+      "seconds": 1749.995102
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\72.Lesson71Afamousclock\\03.Lesson71知识拓展：hang单词讲解.flv",
+      "name": "03.Lesson71知识拓展：hang单词讲解.flv",
+      "lesson": 71,
+      "seconds": 253.966444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\73.Lesson72AcarcalledBluebird\\01.Lesson72单词讲解.flv",
+      "name": "01.Lesson72单词讲解.flv",
+      "lesson": 72,
+      "seconds": 316.806444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\73.Lesson72AcarcalledBluebird\\02.Lesson72课文语法讲解：复习课.mp4",
+      "name": "02.Lesson72课文语法讲解：复习课.mp4",
+      "lesson": 72,
+      "seconds": 1438.011791
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\73.Lesson72AcarcalledBluebird\\03.Lesson72知识拓展：内容回顾.flv",
+      "name": "03.Lesson72知识拓展：内容回顾.flv",
+      "lesson": 72,
+      "seconds": 789.126444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\74.Lesson73Therecord-holder\\01.Lesson73单词讲解.flv",
+      "name": "01.Lesson73单词讲解.flv",
+      "lesson": 73,
+      "seconds": 356.686444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\74.Lesson73Therecord-holder\\02.Lesson73课文语法讲解：复习简单句&并列句&复合句.mp4",
+      "name": "02.Lesson73课文语法讲解：复习简单句&并列句&复合句.mp4",
+      "lesson": 73,
+      "seconds": 1741.194739
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\74.Lesson73Therecord-holder\\03.Lesson73知识拓展：如何连接句子？.flv",
+      "name": "03.Lesson73知识拓展：如何连接句子？.flv",
+      "lesson": 73,
+      "seconds": 475.686444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\75.Lesson74Outofthelimelight\\01.Lesson74单词讲解.flv",
+      "name": "01.Lesson74单词讲解.flv",
+      "lesson": 74,
+      "seconds": 183.406444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\75.Lesson74Outofthelimelight\\02.Lesson74课文语法讲解：复习现在进行时&一般现在时.mp4",
+      "name": "02.Lesson74课文语法讲解：复习现在进行时&一般现在时.mp4",
+      "lesson": 74,
+      "seconds": 942.01034
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\75.Lesson74Outofthelimelight\\03.Lesson74知识拓展：动词get的词组搭配.flv",
+      "name": "03.Lesson74知识拓展：动词get的词组搭配.flv",
+      "lesson": 74,
+      "seconds": 297.086444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\76.Lesson75SOS呼救信号\\01.Lesson75单词讲解.flv",
+      "name": "01.Lesson75单词讲解.flv",
+      "lesson": 75,
+      "seconds": 158.686444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\76.Lesson75SOS呼救信号\\02.Lesson75课文语法讲解：复习一般过去时.mp4",
+      "name": "02.Lesson75课文语法讲解：复习一般过去时.mp4",
+      "lesson": 75,
+      "seconds": 1192.414331
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\76.Lesson75SOS呼救信号\\03.Lesson75知识拓展：表示“变得”.flv",
+      "name": "03.Lesson75知识拓展：表示“变得”.flv",
+      "lesson": 75,
+      "seconds": 604.647622
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\77.Lesson76AprilFool'sDay\\01.Lesson76单词讲解.flv",
+      "name": "01.Lesson76单词讲解.flv",
+      "lesson": 76,
+      "seconds": 505.206444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\77.Lesson76AprilFool'sDay\\02.Lesson76课文语法讲解：复习现在完成时&现在完成进行时.mp4",
+      "name": "02.Lesson76课文语法讲解：复习现在完成时&现在完成进行时.mp4",
+      "lesson": 76,
+      "seconds": 1589.847075
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\77.Lesson76AprilFool'sDay\\03.Lesson76知识拓展：区分易混淆词.flv",
+      "name": "03.Lesson76知识拓展：区分易混淆词.flv",
+      "lesson": 76,
+      "seconds": 357.401544
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\78.Lesson77Asuccessfuloperation\\01.Lesson77单词讲解.flv",
+      "name": "01.Lesson77单词讲解.flv",
+      "lesson": 77,
+      "seconds": 529.275644
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\78.Lesson77Asuccessfuloperation\\02.Lesson77课文语法讲解：一般过去时&现在完成时&现在完成进行时.mp4",
+      "name": "02.Lesson77课文语法讲解：一般过去时&现在完成时&现在完成进行时.mp4",
+      "lesson": 77,
+      "seconds": 1727.564626
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\78.Lesson77Asuccessfuloperation\\03.Lesson77知识拓展：区分ago&since&for.flv",
+      "name": "03.Lesson77知识拓展：区分ago&since&for.flv",
+      "lesson": 77,
+      "seconds": 376.534778
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\79.Lesson78Thelastone&\\01.Lesson78单词讲解.flv",
+      "name": "01.Lesson78单词讲解.flv",
+      "lesson": 78,
+      "seconds": 251.046444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\79.Lesson78Thelastone&\\02.Lesson78课文语法讲解：复习冠词.mp4",
+      "name": "02.Lesson78课文语法讲解：复习冠词.mp4",
+      "lesson": 78,
+      "seconds": 1216.609524
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\79.Lesson78Thelastone&\\03.Lesson78知识拓展：动词keep搭配的词组.flv",
+      "name": "03.Lesson78知识拓展：动词keep搭配的词组.flv",
+      "lesson": 78,
+      "seconds": 201.886444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\80.Lesson79Byair\\01.Lesson79单词讲解.flv",
+      "name": "01.Lesson79单词讲解.flv",
+      "lesson": 79,
+      "seconds": 220.326444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\80.Lesson79Byair\\02.Lesson79课文语法讲解：used短语&倒装句（部分倒装）&复习一般过去时&过去进行时.mp4",
+      "name": "02.Lesson79课文语法讲解：used短语&倒装句（部分倒装）&复习一般过去时&过去进行时.mp4",
+      "lesson": 79,
+      "seconds": 1829.453787
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\80.Lesson79Byair\\03.Lesson79知识拓展：take搭配词组.flv",
+      "name": "03.Lesson79知识拓展：take搭配词组.flv",
+      "lesson": 79,
+      "seconds": 275.766444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\81.Lesson80TheCrystalPalace\\01.Lesson80单词讲解.flv",
+      "name": "01.Lesson80单词讲解.flv",
+      "lesson": 80,
+      "seconds": 306.366444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\81.Lesson80TheCrystalPalace\\02.Lesson80课文语法讲解：复习形容词&副词的比较.mp4",
+      "name": "02.Lesson80课文语法讲解：复习形容词&副词的比较.mp4",
+      "lesson": 80,
+      "seconds": 848.503583
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\81.Lesson80TheCrystalPalace\\03.Lesson80知识拓展：介词on的搭配.flv",
+      "name": "03.Lesson80知识拓展：介词on的搭配.flv",
+      "lesson": 80,
+      "seconds": 293.766444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\82.Lesson81Escape\\01.Lesson81单词讲解.flv",
+      "name": "01.Lesson81单词讲解.flv",
+      "lesson": 81,
+      "seconds": 428.872556
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\82.Lesson81Escape\\02.Lesson81课文语法讲解：复习介词.mp4",
+      "name": "02.Lesson81课文语法讲解：复习介词.mp4",
+      "lesson": 81,
+      "seconds": 609.570249
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\82.Lesson81Escape\\03.Lesson81知识拓展：复习介词.flv",
+      "name": "03.Lesson81知识拓展：复习介词.flv",
+      "lesson": 81,
+      "seconds": 1012.343578
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\83.Lesson82Monsterotfish&\\01.Lesson82单词讲解.flv",
+      "name": "01.Lesson82单词讲解.flv",
+      "lesson": 82,
+      "seconds": 182.046444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\83.Lesson82Monsterotfish&\\02.Lesson82课文语法讲解：复习被动语态.mp4",
+      "name": "02.Lesson82课文语法讲解：复习被动语态.mp4",
+      "lesson": 82,
+      "seconds": 855.771429
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\83.Lesson82Monsterotfish&\\03.Lesson82知识拓展：非谓语动词todo&tohavedone.flv",
+      "name": "03.Lesson82知识拓展：非谓语动词todo&tohavedone.flv",
+      "lesson": 82,
+      "seconds": 358.966444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\84.Lesson83Aftertheelections\\01.Lesson83单词讲解.flv",
+      "name": "01.Lesson83单词讲解.flv",
+      "lesson": 83,
+      "seconds": 457.526444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\84.Lesson83Aftertheelections\\02.Lesson83课文语法讲解：复习课.mp4",
+      "name": "02.Lesson83课文语法讲解：复习课.mp4",
+      "lesson": 83,
+      "seconds": 906.530249
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\84.Lesson83Aftertheelections\\03.Lesson83知识拓展：区分temper&mood.flv",
+      "name": "03.Lesson83知识拓展：区分temper&mood.flv",
+      "lesson": 83,
+      "seconds": 242.046444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\85.Lesson84Onstrike\\01.Lesson84单词讲解.flv",
+      "name": "01.Lesson84单词讲解.flv",
+      "lesson": 84,
+      "seconds": 234.196456
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\85.Lesson84Onstrike\\02.Lesson84课文语法讲解：复习一般将来时.mp4",
+      "name": "02.Lesson84课文语法讲解：复习一般将来时.mp4",
+      "lesson": 84,
+      "seconds": 610.057868
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\85.Lesson84Onstrike\\03.Lesson84知识拓展：形式宾语it&真正的宾语todo或从句.flv",
+      "name": "03.Lesson84知识拓展：形式宾语it&真正的宾语todo或从句.flv",
+      "lesson": 84,
+      "seconds": 434.366444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\86.Lesson85Nevertoooldtolearn\\01.Lesson85单词讲解.flv",
+      "name": "01.Lesson85单词讲解.flv",
+      "lesson": 85,
+      "seconds": 506.286444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\86.Lesson85Nevertoooldtolearn\\02.Lesson85课文语法讲解：复习一般将来时&将来进行时&将来完成进行时.mp4",
+      "name": "02.Lesson85课文语法讲解：复习一般将来时&将来进行时&将来完成进行时.mp4",
+      "lesson": 85,
+      "seconds": 1427.864671
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\86.Lesson85Nevertoooldtolearn\\03.Lesson85知识拓展：too.to.flv",
+      "name": "03.Lesson85知识拓展：too.to.flv",
+      "lesson": 85,
+      "seconds": 698.827756
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\87.Lesson86Outofcontrol\\01.Lesson86单词讲解.flv",
+      "name": "01.Lesson86单词讲解.flv",
+      "lesson": 86,
+      "seconds": 219.707211
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\87.Lesson86Outofcontrol\\02.Lesson86课文语法讲解：复习过去完成时&过去完成进行时.mp4",
+      "name": "02.Lesson86课文语法讲解：复习过去完成时&过去完成进行时.mp4",
+      "lesson": 86,
+      "seconds": 841.305397
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\87.Lesson86Outofcontrol\\03.Lesson86知识拓展：时态总复习.flv",
+      "name": "03.Lesson86知识拓展：时态总复习.flv",
+      "lesson": 86,
+      "seconds": 657.126444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\88.Lesson87Aperfectalibi\\01.Lesson87单词讲解.flv",
+      "name": "01.Lesson87单词讲解.flv",
+      "lesson": 87,
+      "seconds": 481.046444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\88.Lesson87Aperfectalibi\\02.Lesson87课文语法讲解：复习课；平行结构.mp4",
+      "name": "02.Lesson87课文语法讲解：复习课；平行结构.mp4",
+      "lesson": 87,
+      "seconds": 812.141134
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\88.Lesson87Aperfectalibi\\03.Lesson87知识拓展：平行结构.flv",
+      "name": "03.Lesson87知识拓展：平行结构.flv",
+      "lesson": 87,
+      "seconds": 853.286889
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\89.Lesson88Trappedinamine\\01.Lesson88单词讲解.flv",
+      "name": "01.Lesson88单词讲解.flv",
+      "lesson": 88,
+      "seconds": 337.206444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\89.Lesson88Trappedinamine\\02.Lesson88课文语法讲解：if条件状语从句.mp4",
+      "name": "02.Lesson88课文语法讲解：if条件状语从句.mp4",
+      "lesson": 88,
+      "seconds": 1163.273288
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\89.Lesson88Trappedinamine\\03.Lesson88知识拓展：if条件状语从句.flv",
+      "name": "03.Lesson88知识拓展：if条件状语从句.flv",
+      "lesson": 88,
+      "seconds": 934.806444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\90.Lesson89Aslipofthetongue\\01.Lesson89单词讲解.flv",
+      "name": "01.Lesson89单词讲解.flv",
+      "lesson": 89,
+      "seconds": 375.046444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\90.Lesson89Aslipofthetongue\\02.Lesson89课文语法讲解：复习情态动词或词组；复习三大从句；分裂结构.mp4",
+      "name": "02.Lesson89课文语法讲解：复习情态动词或词组；复习三大从句；分裂结构.mp4",
+      "lesson": 89,
+      "seconds": 2051.854512
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\90.Lesson89Aslipofthetongue\\03.Lesson89知识拓展：情态动词；分裂结构.flv",
+      "name": "03.Lesson89知识拓展：情态动词；分裂结构.flv",
+      "lesson": 89,
+      "seconds": 1013.966444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\91.Lesson90What'sforsupper&\\01.Lesson90单词讲解.flv",
+      "name": "01.Lesson90单词讲解.flv",
+      "lesson": 90,
+      "seconds": 301.046444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\91.Lesson90What'sforsupper&\\02.Lesson90课文语法讲解：复习have；it形式主语&todo作真正主语；复习非限定性定语从句；标点：冒号&分号.mp4",
+      "name": "02.Lesson90课文语法讲解：复习have；it形式主语&todo作真正主语；复习非限定性定语从句；标点：冒号&分号.mp4",
+      "lesson": 90,
+      "seconds": 1476.092517
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\91.Lesson90What'sforsupper&\\03.Lesson90知识拓展：主语的变化.flv",
+      "name": "03.Lesson90知识拓展：主语的变化.flv",
+      "lesson": 90,
+      "seconds": 1274.006444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\92.Lesson91Threemeninabasket\\01.Lesson91单词讲解.flv",
+      "name": "01.Lesson91单词讲解.flv",
+      "lesson": 91,
+      "seconds": 200.646444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\92.Lesson91Threemeninabasket\\02.Lesson91课文语法讲解：复习can&beableto&managetodo.mp4",
+      "name": "02.Lesson91课文语法讲解：复习can&beableto&managetodo.mp4",
+      "lesson": 91,
+      "seconds": 773.967528
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\92.Lesson91Threemeninabasket\\03.Lesson91知识拓展：make搭配的词组.flv",
+      "name": "03.Lesson91知识拓展：make搭配的词组.flv",
+      "lesson": 91,
+      "seconds": 287.126444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\93.Lesson92Askingfortrouble\\01.Lesson92单词讲解.flv",
+      "name": "01.Lesson92单词讲解.flv",
+      "lesson": 92,
+      "seconds": 188.006444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\93.Lesson92Askingfortrouble\\02.Lesson92课文语法讲解：复习doing的用法；否定前移.mp4",
+      "name": "02.Lesson92课文语法讲解：复习doing的用法；否定前移.mp4",
+      "lesson": 92,
+      "seconds": 2026.776961
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\93.Lesson92Askingfortrouble\\03.Lesson92知识拓展：So+助动词+I.flv",
+      "name": "03.Lesson92知识拓展：So+助动词+I.flv",
+      "lesson": 92,
+      "seconds": 522.846444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\94.Lesson93Anoblegift\\01.Lesson93单词讲解.flv",
+      "name": "01.Lesson93单词讲解.flv",
+      "lesson": 93,
+      "seconds": 349.831833
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\94.Lesson93Anoblegift\\02.Lesson93课文语法讲解：复习表示被动.mp4",
+      "name": "02.Lesson93课文语法讲解：复习表示被动.mp4",
+      "lesson": 93,
+      "seconds": 1647.850522
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\94.Lesson93Anoblegift\\03.Lesson93知识拓展：谓语动词的四种变化.flv",
+      "name": "03.Lesson93知识拓展：谓语动词的四种变化.flv",
+      "lesson": 93,
+      "seconds": 628.806444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\95.Lesson94Futurechampions\\01.Lesson94单词讲解.flv",
+      "name": "01.Lesson94单词讲解.flv",
+      "lesson": 94,
+      "seconds": 326.766444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\95.Lesson94Futurechampions\\02.Lesson94课文语法讲解：复习课.mp4",
+      "name": "02.Lesson94课文语法讲解：复习课.mp4",
+      "lesson": 94,
+      "seconds": 1243.660771
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\95.Lesson94Futurechampions\\03.Lesson94知识拓展：五步阅读法.flv",
+      "name": "03.Lesson94知识拓展：五步阅读法.flv",
+      "lesson": 94,
+      "seconds": 701.010433
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\96.Lesson95Afantasy\\01.Lesson95单词讲解.flv",
+      "name": "01.Lesson95单词讲解.flv",
+      "lesson": 95,
+      "seconds": 276.046444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\96.Lesson95Afantasy\\02.Lesson95课文语法讲解：复习课.mp4",
+      "name": "02.Lesson95课文语法讲解：复习课.mp4",
+      "lesson": 95,
+      "seconds": 522.1239
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\96.Lesson95Afantasy\\03.Lesson95知识拓展：状语从句.flv",
+      "name": "03.Lesson95知识拓展：状语从句.flv",
+      "lesson": 95,
+      "seconds": 1353.806444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\97.Lesson96Thedeadreturn\\01.Lesson96单词讲解.flv",
+      "name": "01.Lesson96单词讲解.flv",
+      "lesson": 96,
+      "seconds": 122.486444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\97.Lesson96Thedeadreturn\\02.Lesson96课文语法讲解：分析长难句.mp4",
+      "name": "02.Lesson96课文语法讲解：分析长难句.mp4",
+      "lesson": 96,
+      "seconds": 1865.096417
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\97.Lesson96Thedeadreturn\\03.Lesson96知识拓展.flv",
+      "name": "03.Lesson96知识拓展.flv",
+      "lesson": 96,
+      "seconds": 445.206444
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\97.Lesson96Thedeadreturn\\04.lesson96知识拓展：不规则变化的动词.flv",
+      "name": "04.lesson96知识拓展：不规则变化的动词.flv",
+      "lesson": 96,
+      "seconds": 327.772878
+    },
+    {
+      "file": "D:\\BaiduNetdiskDownload\\新概念二\\新概念2 课文精讲精练视频 新版\\98.新概念二册总复习\\01.句法图谱.flv",
+      "name": "01.句法图谱.flv",
+      "lesson": null,
+      "seconds": 4454.191022
+    }
+  ]
+}

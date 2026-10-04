@@ -1,0 +1,15 @@
+{
+  "name": "chuyu-local-learning",
+  "version": "1.0.0",
+  "private": true,
+  "description": "初语：今日学习与新概念英语两册学习路线",
+  "type": "module",
+  "scripts": {
+    "dev": "node build.mjs && node start.mjs",
+    "build": "node build.mjs",
+    "test": "node --test tests/today-progress.test.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

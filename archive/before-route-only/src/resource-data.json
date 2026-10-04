@@ -1,0 +1,60 @@
+{
+  "checkedAt": "2026-09-29",
+  "items": [
+    {
+      "id": "fltrp-nce",
+      "title": "新概念英语教材介绍",
+      "provider": "外研社 · Unischool",
+      "kind": "教材",
+      "books": "全册",
+      "url": "https://www.unischool.cn/cpzy/tzljc/nce/",
+      "description": "了解教材系列，从出版社页面找到对应的数字资源入口。",
+      "access": "公开介绍页；教材培训入口主要面向教师。",
+      "status": "已读取页面"
+    },
+    {
+      "id": "fltrp-audio",
+      "title": "一书一码 · 配套音频使用说明",
+      "provider": "外研社 · Unischool",
+      "kind": "配套音频",
+      "books": "对应教材版本",
+      "url": "https://www.unischool.cn/cpzy/szzy/nceysym/",
+      "description": "查看扫码听音频和教材验证码的说明，先确认手中的教材是否为一书一码版。",
+      "access": "音频通过教材扫码使用；此链接是使用说明。",
+      "status": "已读取说明；未验证教材扫码"
+    },
+    {
+      "id": "xdf-nce",
+      "title": "新概念学习与课程导航",
+      "provider": "北京新东方学校",
+      "kind": "课程入口",
+      "books": "第一至四册",
+      "url": "https://bj.xdf.cn/xingainian/",
+      "description": "按册浏览知识讲解、学习方法与视频栏目，页面另有课程咨询入口。",
+      "access": "公开资料导航；费用和报名条件以课程方为准。",
+      "status": "已读取导航；报名入口未核验"
+    },
+    {
+      "id": "xdf-book1",
+      "title": "第一册 · 知识讲解与练习资料",
+      "provider": "北京新东方学校",
+      "kind": "学习资料",
+      "books": "第一册",
+      "url": "https://bj.xdf.cn/xingainian/jiangjie/yice/",
+      "description": "进入第一册讲解栏目，查找与正在学习的教材章节相关的资料。",
+      "access": "公开栏目；请按自己的教材课次选择。",
+      "status": "已读取目录；未逐篇核验"
+    },
+    {
+      "id": "xdf-videos",
+      "title": "新概念 · 教学视频目录",
+      "provider": "北京新东方学校",
+      "kind": "教学视频",
+      "books": "第一至四册",
+      "url": "https://bj.xdf.cn/xingainian/video/",
+      "description": "包含第一册入门讲解及其他册别的专题视频条目。",
+      "access": "目录中的视频多发布于 2015 年，部分播放器可能失效。",
+      "status": "已读取目录；视频播放未核验"
+    }
+  ]
+}

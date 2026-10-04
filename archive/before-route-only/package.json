@@ -1,0 +1,15 @@
+{
+  "name": "chuyu-local-learning",
+  "version": "1.0.0",
+  "private": true,
+  "description": "初语：本地优先的英语学习程序",
+  "type": "module",
+  "scripts": {
+    "dev": "node start.mjs",
+    "build": "node build.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

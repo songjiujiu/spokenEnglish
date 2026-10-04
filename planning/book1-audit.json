@@ -1,0 +1,2926 @@
+{
+  "source_root": "D:\\BaiduNetdiskDownload\\新概念一",
+  "counts": {
+    "172个自然拼读发音视频": {
+      "files": 172,
+      "extensions": {
+        ".mp4": 172
+      }
+    },
+    "剑桥标准流利口语-Book1": {
+      "files": 80,
+      "extensions": {
+        ".pdf": 16,
+        ".flv": 64
+      }
+    },
+    "新概念1 教材笔记讲义习题详解": {
+      "files": 789,
+      "extensions": {
+        ".xls": 1,
+        ".docx": 4,
+        ".pdf": 8,
+        ".doc": 1,
+        ".ppt": 775
+      }
+    },
+    "新概念一册直播课": {
+      "files": 32,
+      "extensions": {
+        ".mp4": 16,
+        ".pdf": 16
+      }
+    },
+    "新概念第1册 MP3音频": {
+      "files": 549,
+      "extensions": {
+        ".mp3": 404,
+        ".txt": 1,
+        ".lrc": 144
+      }
+    },
+    "新概念第1册动画": {
+      "files": 72,
+      "extensions": {
+        ".rm": 72
+      }
+    },
+    "新概念第1册课文精讲精练视频 新版 霍娜": {
+      "files": 433,
+      "extensions": {
+        ".flv": 289,
+        ".mp4": 144
+      }
+    },
+    "音标入门视频": {
+      "files": 28,
+      "extensions": {
+        ".avi": 27,
+        ".pdf": 1
+      }
+    }
+  },
+  "video": {
+    "files": 433,
+    "hours": 65.397,
+    "failed_probe": 0,
+    "missing_lessons": [],
+    "units": [
+      {
+        "folder": "01.导学课",
+        "lessons": [],
+        "files": 1,
+        "minutes": 6.02,
+        "parts": [
+          {
+            "file": "01.导学课.flv",
+            "minutes": 6.02
+          }
+        ]
+      },
+      {
+        "folder": "02.Lesson1-2Excuseme！",
+        "lessons": [
+          1,
+          2
+        ],
+        "files": 6,
+        "minutes": 49.09,
+        "parts": [
+          {
+            "file": "01.Lesson1&2预习.flv",
+            "minutes": 0.96
+          },
+          {
+            "file": "02.Lesson1单词讲解.mp4",
+            "minutes": 17.83
+          },
+          {
+            "file": "03.Lesson1课文讲解.flv",
+            "minutes": 2.79
+          },
+          {
+            "file": "04.Lesson1语法讲解-一般疑问句.flv",
+            "minutes": 9.02
+          },
+          {
+            "file": "05.Lesson2单词句型讲解.mp4",
+            "minutes": 7.66
+          },
+          {
+            "file": "06.Lesson1&2知识拓展.flv",
+            "minutes": 10.83
+          }
+        ],
+        "core_minutes": 37.3
+      },
+      {
+        "folder": "03.Lesson3-4Sorry,sir",
+        "lessons": [
+          3,
+          4
+        ],
+        "files": 6,
+        "minutes": 59.42,
+        "parts": [
+          {
+            "file": "01.Lesson3&4预习.flv",
+            "minutes": 0.97
+          },
+          {
+            "file": "02.Lesson3单词讲解.mp4",
+            "minutes": 13.97
+          },
+          {
+            "file": "03.Lesson3课文讲解.flv",
+            "minutes": 10.75
+          },
+          {
+            "file": "04.Lesson3语法讲解-否定句.flv",
+            "minutes": 5.3
+          },
+          {
+            "file": "05.Lesson4单词句型讲解.mp4",
+            "minutes": 14.55
+          },
+          {
+            "file": "06.Lesson3&4知识拓展.flv",
+            "minutes": 13.88
+          }
+        ],
+        "core_minutes": 44.57
+      },
+      {
+        "folder": "04.Lesson5-6Nicetomeetyou",
+        "lessons": [
+          5,
+          6
+        ],
+        "files": 6,
+        "minutes": 86.95,
+        "parts": [
+          {
+            "file": "01.Lesson5&6预习.flv",
+            "minutes": 0.71
+          },
+          {
+            "file": "02.Lesson5单词讲解.mp4",
+            "minutes": 35.3
+          },
+          {
+            "file": "03.Lesson5课文讲解.flv",
+            "minutes": 12.02
+          },
+          {
+            "file": "04.Lesson5语法讲解-冠词.flv",
+            "minutes": 16.56
+          },
+          {
+            "file": "05.Lesson6单词句型讲解.mp4",
+            "minutes": 9.05
+          },
+          {
+            "file": "06.Lesson5&6知识拓展.flv",
+            "minutes": 13.32
+          }
+        ],
+        "core_minutes": 72.93
+      },
+      {
+        "folder": "05.Lesson7-8Areyouateacher&",
+        "lessons": [
+          7,
+          8
+        ],
+        "files": 6,
+        "minutes": 61.91,
+        "parts": [
+          {
+            "file": "01.Lesson7&8预习.flv",
+            "minutes": 0.75
+          },
+          {
+            "file": "02.Lesson7单词讲解.mp4",
+            "minutes": 21.43
+          },
+          {
+            "file": "03.Lesson7课文讲解.flv",
+            "minutes": 9.1
+          },
+          {
+            "file": "04.Lesson7语法讲解-一般疑问句复习&特殊疑问句.flv",
+            "minutes": 8.99
+          },
+          {
+            "file": "05.Lesson8单词讲解.mp4",
+            "minutes": 10.37
+          },
+          {
+            "file": "06.Lesson7&8知识拓展.flv",
+            "minutes": 11.27
+          }
+        ],
+        "core_minutes": 49.89
+      },
+      {
+        "folder": "06.Lesson9-10Howareyoutoday&",
+        "lessons": [
+          9,
+          10
+        ],
+        "files": 6,
+        "minutes": 55.43,
+        "parts": [
+          {
+            "file": "01.Lesson9&10预习.flv",
+            "minutes": 0.63
+          },
+          {
+            "file": "02.Lesson9单词讲解.mp4",
+            "minutes": 8.12
+          },
+          {
+            "file": "03.Lesson9课文讲解.flv",
+            "minutes": 8.62
+          },
+          {
+            "file": "04.Lesson9语法讲解-特殊疑问词how.flv",
+            "minutes": 3.02
+          },
+          {
+            "file": "05.Lesson10单词句型讲解.mp4",
+            "minutes": 25.71
+          },
+          {
+            "file": "06.Lesson9&10知识拓展.flv",
+            "minutes": 9.33
+          }
+        ],
+        "core_minutes": 45.47
+      },
+      {
+        "folder": "07.Lesson11-12Isthisyourshirt&",
+        "lessons": [
+          11,
+          12
+        ],
+        "files": 6,
+        "minutes": 72.6,
+        "parts": [
+          {
+            "file": "01.Lesson11&12预习.flv",
+            "minutes": 0.57
+          },
+          {
+            "file": "02.Lesson11单词讲解.mp4",
+            "minutes": 9.16
+          },
+          {
+            "file": "03.Lesson11课文讲解.flv",
+            "minutes": 18.69
+          },
+          {
+            "file": "04.Lesson11语法讲解-谁谁谁“的”.flv",
+            "minutes": 8.23
+          },
+          {
+            "file": "05.Lesson12单词句型讲解.mp4",
+            "minutes": 15.66
+          },
+          {
+            "file": "06.Lesson11&12知识拓展.flv",
+            "minutes": 20.29
+          }
+        ],
+        "core_minutes": 51.74
+      },
+      {
+        "folder": "08.Lesson13-14Anewdress",
+        "lessons": [
+          13,
+          14
+        ],
+        "files": 6,
+        "minutes": 87.67,
+        "parts": [
+          {
+            "file": "01.Lesson13&14预习.flv",
+            "minutes": 0.91
+          },
+          {
+            "file": "02.Lesson13单词讲解.mp4",
+            "minutes": 15.81
+          },
+          {
+            "file": "03.Lesson13课文讲解.flv",
+            "minutes": 12.78
+          },
+          {
+            "file": "04.Lesson13语法讲解-特殊疑问句.flv",
+            "minutes": 7.72
+          },
+          {
+            "file": "05.Lesson14单词句型讲解.mp4",
+            "minutes": 6.49
+          },
+          {
+            "file": "06.Lesson13&14知识拓展.flv",
+            "minutes": 43.96
+          }
+        ],
+        "core_minutes": 42.8
+      },
+      {
+        "folder": "09.Lesson15-16Yourpassports,please",
+        "lessons": [
+          15,
+          16
+        ],
+        "files": 6,
+        "minutes": 87.97,
+        "parts": [
+          {
+            "file": "01.Lesson15&16预习.flv",
+            "minutes": 0.94
+          },
+          {
+            "file": "02.Lesson15单词讲解.mp4",
+            "minutes": 15.48
+          },
+          {
+            "file": "03.Lesson15课文讲解.flv",
+            "minutes": 23.48
+          },
+          {
+            "file": "04.Lesson15语法讲解-名词单复数.flv",
+            "minutes": 21.38
+          },
+          {
+            "file": "05.Lesson16单词句型讲解.mp4",
+            "minutes": 8.56
+          },
+          {
+            "file": "06.Lesson15&16知识拓展.flv",
+            "minutes": 18.13
+          }
+        ],
+        "core_minutes": 68.9
+      },
+      {
+        "folder": "10.Lesson17-18Howdoyoudo&",
+        "lessons": [
+          17,
+          18
+        ],
+        "files": 6,
+        "minutes": 42.37,
+        "parts": [
+          {
+            "file": "01.Lesson17&18预习.flv",
+            "minutes": 0.57
+          },
+          {
+            "file": "02.Lesson17单词讲解.mp4",
+            "minutes": 5.48
+          },
+          {
+            "file": "03.Lesson17课文讲解.flv",
+            "minutes": 10.05
+          },
+          {
+            "file": "04.Lesson17语法讲解-名词单复数&句子的复数.flv",
+            "minutes": 7.97
+          },
+          {
+            "file": "05.Lesson18单词句型讲解.mp4",
+            "minutes": 4.63
+          },
+          {
+            "file": "06.Lesson17&18知识拓展.flv",
+            "minutes": 13.68
+          }
+        ],
+        "core_minutes": 28.13
+      },
+      {
+        "folder": "11.Lesson19-20Tiredandthirsty",
+        "lessons": [
+          19,
+          20
+        ],
+        "files": 6,
+        "minutes": 78.39,
+        "parts": [
+          {
+            "file": "01.Lesson19&20预习.flv",
+            "minutes": 0.64
+          },
+          {
+            "file": "02.Lesson19单词讲解.mp4",
+            "minutes": 14.48
+          },
+          {
+            "file": "03.Lesson19课文讲解.flv",
+            "minutes": 12.73
+          },
+          {
+            "file": "04.Lesson19语法讲解-名词的数.flv",
+            "minutes": 7.08
+          },
+          {
+            "file": "05.Lesson20单词句型讲解.mp4",
+            "minutes": 21.9
+          },
+          {
+            "file": "06.Lesson19&20知识拓展.flv",
+            "minutes": 21.56
+          }
+        ],
+        "core_minutes": 56.19
+      },
+      {
+        "folder": "12.Lesson21-22Whichbook&",
+        "lessons": [
+          21,
+          22
+        ],
+        "files": 6,
+        "minutes": 53.11,
+        "parts": [
+          {
+            "file": "01.Lesson21&22预习.flv",
+            "minutes": 0.55
+          },
+          {
+            "file": "02.Lesson21单词讲解.mp4",
+            "minutes": 7.62
+          },
+          {
+            "file": "03.Lesson21课文讲解.flv",
+            "minutes": 5.51
+          },
+          {
+            "file": "04.Lesson21语法讲解-which用法&简单句的5种结构.flv",
+            "minutes": 9.96
+          },
+          {
+            "file": "05.Lesson22单词句型讲解.mp4",
+            "minutes": 15.52
+          },
+          {
+            "file": "06.Lesson21&22知识拓展.flv",
+            "minutes": 13.95
+          }
+        ],
+        "core_minutes": 38.61
+      },
+      {
+        "folder": "13.Lesson23-24Whichglasses&",
+        "lessons": [
+          23,
+          24
+        ],
+        "files": 6,
+        "minutes": 65.04,
+        "parts": [
+          {
+            "file": "01.Lesson23&24预习.flv",
+            "minutes": 0.8
+          },
+          {
+            "file": "02.Lesson23单词讲解.mp4",
+            "minutes": 3.7
+          },
+          {
+            "file": "03.Lesson23课文讲解.flv",
+            "minutes": 13.46
+          },
+          {
+            "file": "04.Lesson23语法讲解-介词.flv",
+            "minutes": 10.09
+          },
+          {
+            "file": "05.Lesson24单词句型讲解.mp4",
+            "minutes": 18.08
+          },
+          {
+            "file": "06.Lesson23&24知识拓展.flv",
+            "minutes": 18.92
+          }
+        ],
+        "core_minutes": 45.33
+      },
+      {
+        "folder": "14.Lesson25-26Mrs.Smith'skitchen",
+        "lessons": [
+          25,
+          26
+        ],
+        "files": 6,
+        "minutes": 58.38,
+        "parts": [
+          {
+            "file": "01.Lesson25&26预习.flv",
+            "minutes": 0.65
+          },
+          {
+            "file": "02.Lesson25单词讲解.mp4",
+            "minutes": 13.11
+          },
+          {
+            "file": "03.Lesson25课文讲解.flv",
+            "minutes": 14.04
+          },
+          {
+            "file": "04.Lesson25语法讲解&Therebe句型.flv",
+            "minutes": 12.65
+          },
+          {
+            "file": "05.Lesson26单词句型讲解.mp4",
+            "minutes": 8.73
+          },
+          {
+            "file": "06.Lesson25&26知识拓展.flv",
+            "minutes": 9.2
+          }
+        ],
+        "core_minutes": 48.53
+      },
+      {
+        "folder": "15.Lesson27-28Mrs.Smith'slivingroom",
+        "lessons": [
+          27,
+          28
+        ],
+        "files": 6,
+        "minutes": 38.0,
+        "parts": [
+          {
+            "file": "01.Lesson27&28预习.flv",
+            "minutes": 0.45
+          },
+          {
+            "file": "02.Lesson27单词讲解.mp4",
+            "minutes": 6.78
+          },
+          {
+            "file": "03.Lesson27课文讲解.flv",
+            "minutes": 5.54
+          },
+          {
+            "file": "04.Lesson27语法讲解-介词.flv",
+            "minutes": 3.4
+          },
+          {
+            "file": "05.Lesson28单词句型讲解.mp4",
+            "minutes": 5.35
+          },
+          {
+            "file": "06.Lesson27&28知识拓展.flv",
+            "minutes": 16.48
+          }
+        ],
+        "core_minutes": 21.07
+      },
+      {
+        "folder": "16.Lesson29-30Comein,Amy",
+        "lessons": [
+          29,
+          30
+        ],
+        "files": 6,
+        "minutes": 55.91,
+        "parts": [
+          {
+            "file": "01.Lesson29&30预习.flv",
+            "minutes": 0.75
+          },
+          {
+            "file": "02.Lesson29单词讲解.mp4",
+            "minutes": 15.91
+          },
+          {
+            "file": "03.Lesson29课文讲解.flv",
+            "minutes": 7.34
+          },
+          {
+            "file": "04.Lesson29语法讲解-祈使句.flv",
+            "minutes": 2.84
+          },
+          {
+            "file": "05.Lesson30单词句型讲解.mp4",
+            "minutes": 11.79
+          },
+          {
+            "file": "06.Lesson29&30知识拓展.flv",
+            "minutes": 17.3
+          }
+        ],
+        "core_minutes": 37.88
+      },
+      {
+        "folder": "17.Lesson31-32Where'sSally&",
+        "lessons": [
+          31,
+          32
+        ],
+        "files": 6,
+        "minutes": 72.01,
+        "parts": [
+          {
+            "file": "01.Lesson31&32预习.flv",
+            "minutes": 0.7
+          },
+          {
+            "file": "02.Lesson31单词讲解.mp4",
+            "minutes": 21.41
+          },
+          {
+            "file": "03.Lesson31语法讲解-时态&现在进行时.flv",
+            "minutes": 20.16
+          },
+          {
+            "file": "04.Lesson31课文讲解.flv",
+            "minutes": 9.99
+          },
+          {
+            "file": "05.Lesson32单词句型讲解.mp4",
+            "minutes": 9.8
+          },
+          {
+            "file": "06.Lesson31&32知识拓展.flv",
+            "minutes": 9.95
+          }
+        ],
+        "core_minutes": 61.36
+      },
+      {
+        "folder": "18.Lesson33-34Afineday",
+        "lessons": [
+          33,
+          34
+        ],
+        "files": 6,
+        "minutes": 70.32,
+        "parts": [
+          {
+            "file": "01.Lesson33&34预习.flv",
+            "minutes": 0.61
+          },
+          {
+            "file": "02.Lesson33单词讲解.mp4",
+            "minutes": 20.25
+          },
+          {
+            "file": "03.Lesson33语法讲解-时态&现在进行时.flv",
+            "minutes": 11.61
+          },
+          {
+            "file": "04.Lesson33课文讲解.flv",
+            "minutes": 12.46
+          },
+          {
+            "file": "05.Lesson34单词句型讲解.mp4",
+            "minutes": 8.26
+          },
+          {
+            "file": "06.Lesson33&34知识拓展.flv",
+            "minutes": 17.13
+          }
+        ],
+        "core_minutes": 52.58
+      },
+      {
+        "folder": "19.Lesson35-36Ourvillage",
+        "lessons": [
+          35,
+          36
+        ],
+        "files": 6,
+        "minutes": 47.77,
+        "parts": [
+          {
+            "file": "01.Lesson35&36预习.flv",
+            "minutes": 0.75
+          },
+          {
+            "file": "02.Lesson35单词讲解.mp4",
+            "minutes": 14.68
+          },
+          {
+            "file": "03.Lesson35语法讲解-谁谁谁“的”.flv",
+            "minutes": 9.33
+          },
+          {
+            "file": "04.Lesson35课文讲解.flv",
+            "minutes": 13.87
+          },
+          {
+            "file": "05.Lesson36单词句型讲解.mp4",
+            "minutes": 5.63
+          },
+          {
+            "file": "06.Lesson35&36知识拓展.flv",
+            "minutes": 3.51
+          }
+        ],
+        "core_minutes": 43.51
+      },
+      {
+        "folder": "20.Lesson37-38Makingabookcase",
+        "lessons": [
+          37,
+          38
+        ],
+        "files": 6,
+        "minutes": 57.35,
+        "parts": [
+          {
+            "file": "01.Lesson37&38预习.flv",
+            "minutes": 0.73
+          },
+          {
+            "file": "02.Lesson37单词讲解.mp4",
+            "minutes": 15.47
+          },
+          {
+            "file": "03.Lesson37语法讲解-一般将来时begoingto句型.flv",
+            "minutes": 17.91
+          },
+          {
+            "file": "04.Lesson37课文讲解.flv",
+            "minutes": 15.06
+          },
+          {
+            "file": "05.Lesson38单词句型讲解.mp4",
+            "minutes": 3.51
+          },
+          {
+            "file": "06.Lesson37&38知识拓展.flv",
+            "minutes": 4.65
+          }
+        ],
+        "core_minutes": 51.95
+      },
+      {
+        "folder": "21.Lesson39-40Don'tdropit!",
+        "lessons": [
+          39,
+          40
+        ],
+        "files": 6,
+        "minutes": 56.38,
+        "parts": [
+          {
+            "file": "01.Lesson39&40预习.flv",
+            "minutes": 0.61
+          },
+          {
+            "file": "02.Lesson39单词讲解.mp4",
+            "minutes": 6.33
+          },
+          {
+            "file": "03.Lesson39语法讲解-如何说“不”.flv",
+            "minutes": 11.16
+          },
+          {
+            "file": "04.Lesson39课文讲解.flv",
+            "minutes": 26.57
+          },
+          {
+            "file": "05.Lesson40单词句型讲解.mp4",
+            "minutes": 6.13
+          },
+          {
+            "file": "06.Lesson39&40知识拓展.flv",
+            "minutes": 5.59
+          }
+        ],
+        "core_minutes": 50.19
+      },
+      {
+        "folder": "22.Lesson41-42Penny'sbag",
+        "lessons": [
+          41,
+          42
+        ],
+        "files": 6,
+        "minutes": 54.26,
+        "parts": [
+          {
+            "file": "01.Lesson41&42预习.flv",
+            "minutes": 0.63
+          },
+          {
+            "file": "02.Lesson41单词讲解.mp4",
+            "minutes": 6.48
+          },
+          {
+            "file": "03.Lesson41语法讲解-名词.flv",
+            "minutes": 16.92
+          },
+          {
+            "file": "04.Lesson41课文讲解.flv",
+            "minutes": 14.85
+          },
+          {
+            "file": "05.Lesson42单词句型讲解.mp4",
+            "minutes": 8.61
+          },
+          {
+            "file": "06.Lesson41&42知识拓展.flv",
+            "minutes": 6.78
+          }
+        ],
+        "core_minutes": 46.86
+      },
+      {
+        "folder": "23.Lesson43-44Hurryup!",
+        "lessons": [
+          43,
+          44
+        ],
+        "files": 6,
+        "minutes": 61.45,
+        "parts": [
+          {
+            "file": "01.Lesson43&44预习.flv",
+            "minutes": 0.7
+          },
+          {
+            "file": "02.Lesson43单词讲解.mp4",
+            "minutes": 18.3
+          },
+          {
+            "file": "03.Lesson43语法讲解-如何说“可以么”.flv",
+            "minutes": 9.38
+          },
+          {
+            "file": "04.Lesson43课文讲解.flv",
+            "minutes": 13.4
+          },
+          {
+            "file": "05.Lesson44单词句型讲解.mp4",
+            "minutes": 10.72
+          },
+          {
+            "file": "06.Lesson43&44知识拓展.flv",
+            "minutes": 8.93
+          }
+        ],
+        "core_minutes": 51.8
+      },
+      {
+        "folder": "24.Lesson45-46Theboss'sletter",
+        "lessons": [
+          45,
+          46
+        ],
+        "files": 6,
+        "minutes": 55.47,
+        "parts": [
+          {
+            "file": "01.Lesson45&46预习.flv",
+            "minutes": 0.58
+          },
+          {
+            "file": "02.Lesson45单词讲解.mp4",
+            "minutes": 10.01
+          },
+          {
+            "file": "03.Lesson45语法讲解-情态动词.flv",
+            "minutes": 14.12
+          },
+          {
+            "file": "04.Lesson45课文讲解.flv",
+            "minutes": 11.14
+          },
+          {
+            "file": "05.Lesson46单词句型讲解.mp4",
+            "minutes": 6.17
+          },
+          {
+            "file": "06.Lesson45&46知识拓展.flv",
+            "minutes": 13.44
+          }
+        ],
+        "core_minutes": 41.44
+      },
+      {
+        "folder": "25.Lesson47-48Acupofcoffee",
+        "lessons": [
+          47,
+          48
+        ],
+        "files": 6,
+        "minutes": 52.62,
+        "parts": [
+          {
+            "file": "01.Lesson47&48预习.flv",
+            "minutes": 0.59
+          },
+          {
+            "file": "02.Lesson47单词讲解.mp4",
+            "minutes": 6.83
+          },
+          {
+            "file": "03.Lesson47语法讲解-实义动词的疑问和否定.flv",
+            "minutes": 9.72
+          },
+          {
+            "file": "04.Lesson47课文讲解.flv",
+            "minutes": 12.16
+          },
+          {
+            "file": "05.Lesson48单词句型讲解.mp4",
+            "minutes": 18.75
+          },
+          {
+            "file": "06.Lesson47&48知识拓展.flv",
+            "minutes": 4.58
+          }
+        ],
+        "core_minutes": 47.46
+      },
+      {
+        "folder": "26.Lesson49-50Atthebutcher's",
+        "lessons": [
+          49,
+          50
+        ],
+        "files": 6,
+        "minutes": 89.47,
+        "parts": [
+          {
+            "file": "01.Lesson49&50预习.flv",
+            "minutes": 0.61
+          },
+          {
+            "file": "02.Lesson49单词讲解.mp4",
+            "minutes": 15.53
+          },
+          {
+            "file": "03.Lesson49语法讲解-一般现在时态.flv",
+            "minutes": 31.93
+          },
+          {
+            "file": "04.Lesson49课文讲解.flv",
+            "minutes": 21.62
+          },
+          {
+            "file": "05.Lesson50单词句型讲解.mp4",
+            "minutes": 8.82
+          },
+          {
+            "file": "06.Lesson49&50知识拓展.flv",
+            "minutes": 10.95
+          }
+        ],
+        "core_minutes": 77.9
+      },
+      {
+        "folder": "27.Lesson51-52Apleasantclimate",
+        "lessons": [
+          51,
+          52
+        ],
+        "files": 6,
+        "minutes": 59.44,
+        "parts": [
+          {
+            "file": "01.Lesson51&52预习.flv",
+            "minutes": 0.57
+          },
+          {
+            "file": "02.Lesson51单词讲解.mp4",
+            "minutes": 20.18
+          },
+          {
+            "file": "03.Lesson51语法讲解-复习一般现在时&讲解介词.flv",
+            "minutes": 10.36
+          },
+          {
+            "file": "04.Lesson51课文讲解.flv",
+            "minutes": 13.72
+          },
+          {
+            "file": "05.Lesson52单词句型讲解.mp4",
+            "minutes": 6.41
+          },
+          {
+            "file": "06.Lesson51&52知识拓展.flv",
+            "minutes": 8.2
+          }
+        ],
+        "core_minutes": 50.67
+      },
+      {
+        "folder": "28.Lesson53-54Aninterestingclimate",
+        "lessons": [
+          53,
+          54
+        ],
+        "files": 6,
+        "minutes": 60.88,
+        "parts": [
+          {
+            "file": "01.Lesson53&54预习.flv",
+            "minutes": 0.63
+          },
+          {
+            "file": "02.Lesson53单词讲解.mp4",
+            "minutes": 25.77
+          },
+          {
+            "file": "03.Lesson53语法讲解-频率副词.flv",
+            "minutes": 12.12
+          },
+          {
+            "file": "04.Lesson53课文讲解.flv",
+            "minutes": 7.24
+          },
+          {
+            "file": "05.Lesson54单词句型讲解.mp4",
+            "minutes": 5.93
+          },
+          {
+            "file": "06.Lesson53&54知识拓展.flv",
+            "minutes": 9.19
+          }
+        ],
+        "core_minutes": 51.06
+      },
+      {
+        "folder": "29.Lesson55-56TheSawyerfamily",
+        "lessons": [
+          55,
+          56
+        ],
+        "files": 6,
+        "minutes": 52.11,
+        "parts": [
+          {
+            "file": "01.Lesson55&56预习.flv",
+            "minutes": 0.59
+          },
+          {
+            "file": "02.Lesson55单词讲解.mp4",
+            "minutes": 14.8
+          },
+          {
+            "file": "03.Lesson55语法讲解-home&表示地点的副词.flv",
+            "minutes": 4.99
+          },
+          {
+            "file": "04.Lesson55课文讲解.flv",
+            "minutes": 15.6
+          },
+          {
+            "file": "05.Lesson56单词句型讲解.mp4",
+            "minutes": 10.38
+          },
+          {
+            "file": "06.Lesson55&56知识拓展.flv",
+            "minutes": 5.75
+          }
+        ],
+        "core_minutes": 45.77
+      },
+      {
+        "folder": "30.Lesson57-58Anunusualday",
+        "lessons": [
+          57,
+          58
+        ],
+        "files": 6,
+        "minutes": 28.84,
+        "parts": [
+          {
+            "file": "01.Lesson57&58预习.flv",
+            "minutes": 0.52
+          },
+          {
+            "file": "02.Lesson57单词讲解.mp4",
+            "minutes": 3.32
+          },
+          {
+            "file": "03.Lesson57语法讲解-对比一般现在时和现在进行时.flv",
+            "minutes": 5.01
+          },
+          {
+            "file": "04.Lesson57课文讲解.flv",
+            "minutes": 9.09
+          },
+          {
+            "file": "05.Lesson58单词句型讲解.mp4",
+            "minutes": 2.07
+          },
+          {
+            "file": "06.Lesson57&58知识拓展.flv",
+            "minutes": 8.82
+          }
+        ],
+        "core_minutes": 19.49
+      },
+      {
+        "folder": "31.Lesson59-60Isthatall&",
+        "lessons": [
+          59,
+          60
+        ],
+        "files": 6,
+        "minutes": 51.85,
+        "parts": [
+          {
+            "file": "01.Lesson59&60预习.flv",
+            "minutes": 0.8
+          },
+          {
+            "file": "02.Lesson59单词讲解.mp4",
+            "minutes": 10.08
+          },
+          {
+            "file": "03.Lesson59语法讲解-“have”的用法.flv",
+            "minutes": 7.99
+          },
+          {
+            "file": "04.Lesson59课文讲解.flv",
+            "minutes": 12.45
+          },
+          {
+            "file": "05.Lesson60单词句型讲解.mp4",
+            "minutes": 4.88
+          },
+          {
+            "file": "06.Lesson59&60知识拓展.flv",
+            "minutes": 15.65
+          }
+        ],
+        "core_minutes": 35.4
+      },
+      {
+        "folder": "32.Lesson61-62Abadcold",
+        "lessons": [
+          61,
+          62
+        ],
+        "files": 6,
+        "minutes": 61.44,
+        "parts": [
+          {
+            "file": "01.Lesson61&62预习.flv",
+            "minutes": 0.77
+          },
+          {
+            "file": "02.Lesson61单词讲解.mp4",
+            "minutes": 12.37
+          },
+          {
+            "file": "03.Lesson61语法讲解-感官动词.flv",
+            "minutes": 20.33
+          },
+          {
+            "file": "04.Lesson61课文讲解.flv",
+            "minutes": 8.98
+          },
+          {
+            "file": "05.Lesson62单词句型讲解.mp4",
+            "minutes": 13.77
+          },
+          {
+            "file": "06.Lesson61&62知识拓展.flv",
+            "minutes": 5.23
+          }
+        ],
+        "core_minutes": 55.45
+      },
+      {
+        "folder": "33.Lesson63-64Thankyou,doctor",
+        "lessons": [
+          63,
+          64
+        ],
+        "files": 6,
+        "minutes": 41.13,
+        "parts": [
+          {
+            "file": "01.Lesson63&64预习.flv",
+            "minutes": 0.62
+          },
+          {
+            "file": "02.Lesson63单词讲解.mp4",
+            "minutes": 7.53
+          },
+          {
+            "file": "03.Lesson63语法讲解-“must”用法.flv",
+            "minutes": 2.83
+          },
+          {
+            "file": "04.Lesson63课文讲解.flv",
+            "minutes": 22.31
+          },
+          {
+            "file": "05.Lesson64单词句型讲解.mp4",
+            "minutes": 4.97
+          },
+          {
+            "file": "06.Lesson63&64知识拓展.flv",
+            "minutes": 2.88
+          }
+        ],
+        "core_minutes": 37.64
+      },
+      {
+        "folder": "34.Lesson65-66Notababy",
+        "lessons": [
+          65,
+          66
+        ],
+        "files": 6,
+        "minutes": 36.27,
+        "parts": [
+          {
+            "file": "01.Lesson65&66预习.flv",
+            "minutes": 0.59
+          },
+          {
+            "file": "02.Lesson65单词讲解.mp4",
+            "minutes": 5.01
+          },
+          {
+            "file": "03.Lesson65语法讲解-反身代词.flv",
+            "minutes": 10.61
+          },
+          {
+            "file": "04.Lesson65课文讲解.flv",
+            "minutes": 7.73
+          },
+          {
+            "file": "05.Lesson66单词句型讲解.mp4",
+            "minutes": 8.06
+          },
+          {
+            "file": "06.Lesson65&66知识拓展.flv",
+            "minutes": 4.26
+          }
+        ],
+        "core_minutes": 31.41
+      },
+      {
+        "folder": "35.Lesson67-68Theweekend",
+        "lessons": [
+          67,
+          68
+        ],
+        "files": 6,
+        "minutes": 62.13,
+        "parts": [
+          {
+            "file": "01.Lesson67&68预习.flv",
+            "minutes": 0.58
+          },
+          {
+            "file": "02.Lesson67单词讲解.mp4",
+            "minutes": 15.95
+          },
+          {
+            "file": "03.Lesson67语法讲解-一般过去时.flv",
+            "minutes": 22.11
+          },
+          {
+            "file": "04.Lesson67课文讲解.flv",
+            "minutes": 7.65
+          },
+          {
+            "file": "05.Lesson68单词句型讲解.mp4",
+            "minutes": 11.78
+          },
+          {
+            "file": "06.Lesson67&68知识拓展.flv",
+            "minutes": 4.06
+          }
+        ],
+        "core_minutes": 57.49
+      },
+      {
+        "folder": "36.Lesson69-70Thecarrace",
+        "lessons": [
+          69,
+          70
+        ],
+        "files": 6,
+        "minutes": 36.15,
+        "parts": [
+          {
+            "file": "01.Lesson69&70预习.flv",
+            "minutes": 0.6
+          },
+          {
+            "file": "02.Lesson69单词讲解.mp4",
+            "minutes": 12.08
+          },
+          {
+            "file": "03.Lesson69语法讲解-Therebe句型的过去式.flv",
+            "minutes": 7.16
+          },
+          {
+            "file": "04.Lesson69课文讲解.flv",
+            "minutes": 9.92
+          },
+          {
+            "file": "05.Lesson70单词句型讲解.mp4",
+            "minutes": 3.85
+          },
+          {
+            "file": "06.Lesson69&70知识拓展.flv",
+            "minutes": 2.53
+          }
+        ],
+        "core_minutes": 33.01
+      },
+      {
+        "folder": "37.Lesson71-72He'sawful!",
+        "lessons": [
+          71,
+          72
+        ],
+        "files": 6,
+        "minutes": 40.4,
+        "parts": [
+          {
+            "file": "01.Lesson71&72预习.flv",
+            "minutes": 0.63
+          },
+          {
+            "file": "02.Lesson71单词讲解.mp4",
+            "minutes": 6.08
+          },
+          {
+            "file": "03.Lesson71语法讲解-一般过去时态.flv",
+            "minutes": 17.65
+          },
+          {
+            "file": "04.Lesson71课文讲解.flv",
+            "minutes": 7.94
+          },
+          {
+            "file": "05.Lesson72单词句型讲解.mp4",
+            "minutes": 4.43
+          },
+          {
+            "file": "06.Lesson71&72知识拓展.flv",
+            "minutes": 3.67
+          }
+        ],
+        "core_minutes": 36.1
+      },
+      {
+        "folder": "38.Lesson73-74ThewaytoKingStreet",
+        "lessons": [
+          73,
+          74
+        ],
+        "files": 6,
+        "minutes": 64.83,
+        "parts": [
+          {
+            "file": "01.Lesson73&74预习.flv",
+            "minutes": 1.16
+          },
+          {
+            "file": "02.Lesson73单词讲解.mp4",
+            "minutes": 14.25
+          },
+          {
+            "file": "03.Lesson73语法讲解-副词&句子组织的5个步骤.flv",
+            "minutes": 24.08
+          },
+          {
+            "file": "04.Lesson73课文讲解.flv",
+            "minutes": 13.61
+          },
+          {
+            "file": "05.Lesson74单词句型讲解.mp4",
+            "minutes": 4.71
+          },
+          {
+            "file": "06.Lesson73&74知识拓展.flv",
+            "minutes": 7.02
+          }
+        ],
+        "core_minutes": 56.65
+      },
+      {
+        "folder": "39.Lesson75-76Uncomfortableshoes",
+        "lessons": [
+          75,
+          76
+        ],
+        "files": 6,
+        "minutes": 52.6,
+        "parts": [
+          {
+            "file": "01.Lesson75&76预习.flv",
+            "minutes": 0.69
+          },
+          {
+            "file": "02.Lesson75单词讲解.mp4",
+            "minutes": 15.07
+          },
+          {
+            "file": "03.Lesson75语法讲解-动词过去式的不规则变化.flv",
+            "minutes": 10.48
+          },
+          {
+            "file": "04.Lesson75课文讲解.flv",
+            "minutes": 18.63
+          },
+          {
+            "file": "05.Lesson76单词句型讲解.mp4",
+            "minutes": 4.62
+          },
+          {
+            "file": "06.Lesson75&76知识拓展.flv",
+            "minutes": 3.11
+          }
+        ],
+        "core_minutes": 48.8
+      },
+      {
+        "folder": "40.Lesson77-78Terribletoothache",
+        "lessons": [
+          77,
+          78
+        ],
+        "files": 6,
+        "minutes": 31.81,
+        "parts": [
+          {
+            "file": "01.Lesson77&78预习.flv",
+            "minutes": 0.56
+          },
+          {
+            "file": "02.Lesson77单词讲解.mp4",
+            "minutes": 3.46
+          },
+          {
+            "file": "03.Lesson77语法讲解-否定疑问句.flv",
+            "minutes": 11.41
+          },
+          {
+            "file": "04.Lesson77课文讲解.flv",
+            "minutes": 10.51
+          },
+          {
+            "file": "05.Lesson78单词句型讲解.mp4",
+            "minutes": 2.23
+          },
+          {
+            "file": "06.Lesson77&78知识拓展.flv",
+            "minutes": 3.64
+          }
+        ],
+        "core_minutes": 27.61
+      },
+      {
+        "folder": "41.Lesson79-80Carol'sshoppinglist",
+        "lessons": [
+          79,
+          80
+        ],
+        "files": 6,
+        "minutes": 36.06,
+        "parts": [
+          {
+            "file": "01.Lesson79&80预习.flv",
+            "minutes": 0.63
+          },
+          {
+            "file": "02.Lesson79单词讲解.mp4",
+            "minutes": 7.61
+          },
+          {
+            "file": "03.Lesson79语法讲解-have用法.flv",
+            "minutes": 8.81
+          },
+          {
+            "file": "04.Lesson79课文讲解.flv",
+            "minutes": 10.82
+          },
+          {
+            "file": "05.Lesson80单词句型讲解.mp4",
+            "minutes": 5.78
+          },
+          {
+            "file": "06.Lesson79&80知识拓展.flv",
+            "minutes": 2.39
+          }
+        ],
+        "core_minutes": 33.02
+      },
+      {
+        "folder": "42.Lesson81-82Roastbeefandpotatoes",
+        "lessons": [
+          81,
+          82
+        ],
+        "files": 6,
+        "minutes": 30.96,
+        "parts": [
+          {
+            "file": "01.Lesson81&82预习.flv",
+            "minutes": 0.65
+          },
+          {
+            "file": "02.Lesson81单词讲解.mp4",
+            "minutes": 5.46
+          },
+          {
+            "file": "03.Lesson81语法讲解-have用法.flv",
+            "minutes": 4.84
+          },
+          {
+            "file": "04.Lesson81课文讲解.flv",
+            "minutes": 5.47
+          },
+          {
+            "file": "05.Lesson82单词句型讲解.mp4",
+            "minutes": 8.3
+          },
+          {
+            "file": "06.Lesson81&82知识拓展.flv",
+            "minutes": 6.23
+          }
+        ],
+        "core_minutes": 24.07
+      },
+      {
+        "folder": "43.Lesson83-84Goingonholiday",
+        "lessons": [
+          83,
+          84
+        ],
+        "files": 6,
+        "minutes": 42.21,
+        "parts": [
+          {
+            "file": "01.Lesson83&84预习.flv",
+            "minutes": 0.5
+          },
+          {
+            "file": "02.Lesson83单词讲解.mp4",
+            "minutes": 3.15
+          },
+          {
+            "file": "03.Lesson83语法讲解-现在完成时态.flv",
+            "minutes": 19.8
+          },
+          {
+            "file": "04.Lesson83课文讲解.flv",
+            "minutes": 8.23
+          },
+          {
+            "file": "05.Lesson84单词句型讲解.mp4",
+            "minutes": 3.4
+          },
+          {
+            "file": "06.Lesson83&84知识拓展.flv",
+            "minutes": 7.13
+          }
+        ],
+        "core_minutes": 34.58
+      },
+      {
+        "folder": "44.Lesson85-86Parisinthespring",
+        "lessons": [
+          85,
+          86
+        ],
+        "files": 6,
+        "minutes": 61.33,
+        "parts": [
+          {
+            "file": "01.Lesson85&86预习.flv",
+            "minutes": 0.59
+          },
+          {
+            "file": "02.Lesson85单词讲解.mp4",
+            "minutes": 14.22
+          },
+          {
+            "file": "03.Lesson85语法讲解-现在完成&一般过去时态.flv",
+            "minutes": 18.64
+          },
+          {
+            "file": "04.Lesson85课文讲解.flv",
+            "minutes": 20.84
+          },
+          {
+            "file": "05.Lesson86单词句型讲解.mp4",
+            "minutes": 3.39
+          },
+          {
+            "file": "06.Lesson85&86知识拓展.flv",
+            "minutes": 3.64
+          }
+        ],
+        "core_minutes": 57.09
+      },
+      {
+        "folder": "45.Lesson87-88Acarcrash",
+        "lessons": [
+          87,
+          88
+        ],
+        "files": 6,
+        "minutes": 44.55,
+        "parts": [
+          {
+            "file": "01.Lesson87&88预习.flv",
+            "minutes": 0.63
+          },
+          {
+            "file": "02.Lesson87单词讲解.mp4",
+            "minutes": 7.66
+          },
+          {
+            "file": "03.Lesson87语法讲解-现在完成时态.flv",
+            "minutes": 9.58
+          },
+          {
+            "file": "04.Lesson87课文讲解.flv",
+            "minutes": 12.15
+          },
+          {
+            "file": "05.Lesson88单词句型讲解.mp4",
+            "minutes": 11.66
+          },
+          {
+            "file": "06.Lesson87&88知识拓展.flv",
+            "minutes": 2.89
+          }
+        ],
+        "core_minutes": 41.05
+      },
+      {
+        "folder": "46.Lesson89-90Forsale",
+        "lessons": [
+          89,
+          90
+        ],
+        "files": 6,
+        "minutes": 71.31,
+        "parts": [
+          {
+            "file": "01.Lesson89&90预习.flv",
+            "minutes": 0.61
+          },
+          {
+            "file": "02.Lesson89单词讲解.mp4",
+            "minutes": 23.59
+          },
+          {
+            "file": "03.Lesson89语法讲解-现在完成时态.flv",
+            "minutes": 17.02
+          },
+          {
+            "file": "04.Lesson89课文讲解.flv",
+            "minutes": 16.44
+          },
+          {
+            "file": "05.Lesson90单词句型讲解.mp4",
+            "minutes": 4.99
+          },
+          {
+            "file": "06.Lesson89&90知识拓展.flv",
+            "minutes": 8.65
+          }
+        ],
+        "core_minutes": 62.04
+      },
+      {
+        "folder": "47.Lesson91-92PoorIan!",
+        "lessons": [
+          91,
+          92
+        ],
+        "files": 6,
+        "minutes": 46.17,
+        "parts": [
+          {
+            "file": "01.Lesson91&92预习.flv",
+            "minutes": 0.86
+          },
+          {
+            "file": "02.Lesson91单词讲解.mp4",
+            "minutes": 14.17
+          },
+          {
+            "file": "03.Lesson91语法讲解-一般将来时态.flv",
+            "minutes": 11.04
+          },
+          {
+            "file": "04.Lesson91课文讲解.flv",
+            "minutes": 14.06
+          },
+          {
+            "file": "05.Lesson92单词句型讲解.mp4",
+            "minutes": 3.37
+          },
+          {
+            "file": "06.Lesson91&92知识拓展.flv",
+            "minutes": 2.67
+          }
+        ],
+        "core_minutes": 42.64
+      },
+      {
+        "folder": "48.Lesson93-94Ournewneighbour",
+        "lessons": [
+          93,
+          94
+        ],
+        "files": 6,
+        "minutes": 37.84,
+        "parts": [
+          {
+            "file": "01.Lesson93&94预习.flv",
+            "minutes": 0.7
+          },
+          {
+            "file": "02.Lesson93单词讲解.mp4",
+            "minutes": 8.05
+          },
+          {
+            "file": "03.Lesson93语法讲解-句子的种类.flv",
+            "minutes": 8.04
+          },
+          {
+            "file": "04.Lesson93课文讲解.flv",
+            "minutes": 5.02
+          },
+          {
+            "file": "05.Lesson94单词句型讲解.mp4",
+            "minutes": 6.76
+          },
+          {
+            "file": "06.Lesson93&94知识拓展.flv",
+            "minutes": 9.26
+          }
+        ],
+        "core_minutes": 27.87
+      },
+      {
+        "folder": "49.Lesson95-96Tickets,please",
+        "lessons": [
+          95,
+          96
+        ],
+        "files": 6,
+        "minutes": 46.25,
+        "parts": [
+          {
+            "file": "01.Lesson95&96预习.flv",
+            "minutes": 0.81
+          },
+          {
+            "file": "02.Lesson95单词讲解.mp4",
+            "minutes": 9.14
+          },
+          {
+            "file": "03.Lesson95课文讲解.flv",
+            "minutes": 16.35
+          },
+          {
+            "file": "04.Lesson95语法讲解-情态动词&hadbetter.flv",
+            "minutes": 13.57
+          },
+          {
+            "file": "05.Lesson96单词句型讲解.mp4",
+            "minutes": 3.72
+          },
+          {
+            "file": "06.Lesson95&96知识拓展.flv",
+            "minutes": 2.66
+          }
+        ],
+        "core_minutes": 42.78
+      },
+      {
+        "folder": "50.Lesson97-98Asmallbluecase",
+        "lessons": [
+          97,
+          98
+        ],
+        "files": 6,
+        "minutes": 48.85,
+        "parts": [
+          {
+            "file": "01.Lesson97&98预习.flv",
+            "minutes": 1.39
+          },
+          {
+            "file": "02.Lesson97单词讲解.mp4",
+            "minutes": 10.72
+          },
+          {
+            "file": "03.Lesson97语法讲解-物主代词.flv",
+            "minutes": 11.34
+          },
+          {
+            "file": "04.Lesson97课文讲解.flv",
+            "minutes": 16.71
+          },
+          {
+            "file": "05.Lesson98单词句型讲解.mp4",
+            "minutes": 5.25
+          },
+          {
+            "file": "06.Lesson97&98知识拓展.flv",
+            "minutes": 3.43
+          }
+        ],
+        "core_minutes": 44.02
+      },
+      {
+        "folder": "51.Lesson99-100Ow!",
+        "lessons": [
+          99,
+          100
+        ],
+        "files": 6,
+        "minutes": 27.99,
+        "parts": [
+          {
+            "file": "01.Lesson99&100预习.flv",
+            "minutes": 0.68
+          },
+          {
+            "file": "02.Lesson99单词讲解.mp4",
+            "minutes": 5.01
+          },
+          {
+            "file": "03.Lesson99语法讲解-宾语从句.flv",
+            "minutes": 10.81
+          },
+          {
+            "file": "04.Lesson99课文讲解.flv",
+            "minutes": 3.4
+          },
+          {
+            "file": "05.Lesson100单词句型讲解.mp4",
+            "minutes": 4.92
+          },
+          {
+            "file": "06.Lesson99&100知识拓展.flv",
+            "minutes": 3.17
+          }
+        ],
+        "core_minutes": 24.14
+      },
+      {
+        "folder": "52.Lesson101-102AcardfromJimmy",
+        "lessons": [
+          101,
+          102
+        ],
+        "files": 6,
+        "minutes": 59.64,
+        "parts": [
+          {
+            "file": "01.Lesson101&102预习.flv",
+            "minutes": 0.47
+          },
+          {
+            "file": "02.Lesson101单词讲解.mp4",
+            "minutes": 7.66
+          },
+          {
+            "file": "03.Lesson101语法讲解-直接引语&间接引语&反义疑问句.flv",
+            "minutes": 26.39
+          },
+          {
+            "file": "04.Lesson101课文讲解.flv",
+            "minutes": 10.35
+          },
+          {
+            "file": "05.Lesson102单词句型讲解.mp4",
+            "minutes": 2.6
+          },
+          {
+            "file": "06.Lesson101&102知识拓展.flv",
+            "minutes": 12.16
+          }
+        ],
+        "core_minutes": 47.0
+      },
+      {
+        "folder": "53.Lesson103-104TheFrenchtest",
+        "lessons": [
+          103,
+          104
+        ],
+        "files": 6,
+        "minutes": 45.14,
+        "parts": [
+          {
+            "file": "01.Lesson103&104预习.flv",
+            "minutes": 0.44
+          },
+          {
+            "file": "02.Lesson103单词讲解.mp4",
+            "minutes": 15.97
+          },
+          {
+            "file": "03.Lesson103语法讲解-too,very,enough.flv",
+            "minutes": 12.87
+          },
+          {
+            "file": "04.Lesson103课文讲解.flv",
+            "minutes": 7.09
+          },
+          {
+            "file": "05.Lesson104单词句型讲解.mp4",
+            "minutes": 5.72
+          },
+          {
+            "file": "06.Lesson103&104知识拓展.flv",
+            "minutes": 3.04
+          }
+        ],
+        "core_minutes": 41.65
+      },
+      {
+        "folder": "54.Lesson105-106Fullofmistakes",
+        "lessons": [
+          105,
+          106
+        ],
+        "files": 6,
+        "minutes": 46.57,
+        "parts": [
+          {
+            "file": "01.Lesson105&106预习.flv",
+            "minutes": 0.6
+          },
+          {
+            "file": "02.Lesson105单词讲解.mp4",
+            "minutes": 7.22
+          },
+          {
+            "file": "03.Lesson105语法讲解-动词不定式.flv",
+            "minutes": 15.33
+          },
+          {
+            "file": "04.Lesson105课文讲解.flv",
+            "minutes": 9.97
+          },
+          {
+            "file": "05.Lesson106单词句型讲解.mp4",
+            "minutes": 9.87
+          },
+          {
+            "file": "06.Lesson105&106知识拓展.flv",
+            "minutes": 3.57
+          }
+        ],
+        "core_minutes": 42.39
+      },
+      {
+        "folder": "55.Lesson107-108It'stoosmall",
+        "lessons": [
+          107,
+          108
+        ],
+        "files": 6,
+        "minutes": 56.01,
+        "parts": [
+          {
+            "file": "01.Lesson107&108预习.flv",
+            "minutes": 0.64
+          },
+          {
+            "file": "02.Lesson107单词讲解.mp4",
+            "minutes": 6.52
+          },
+          {
+            "file": "03.Lesson107语法讲解-比较级&最高级.flv",
+            "minutes": 19.11
+          },
+          {
+            "file": "04.Lesson107课文讲解.flv",
+            "minutes": 15.41
+          },
+          {
+            "file": "05.Lesson108单词句型讲解.mp4",
+            "minutes": 7.25
+          },
+          {
+            "file": "06.Lesson107&108知识拓展.flv",
+            "minutes": 7.08
+          }
+        ],
+        "core_minutes": 48.29
+      },
+      {
+        "folder": "56.Lesson109-110Agoodidea",
+        "lessons": [
+          109,
+          110
+        ],
+        "files": 6,
+        "minutes": 62.58,
+        "parts": [
+          {
+            "file": "01.Lesson109&110预习.flv",
+            "minutes": 0.8
+          },
+          {
+            "file": "02.Lesson109单词讲解.mp4",
+            "minutes": 6.43
+          },
+          {
+            "file": "03.Lesson109语法讲解-比较级&最高级&little&few.flv",
+            "minutes": 22.55
+          },
+          {
+            "file": "04.Lesson109课文讲解.flv",
+            "minutes": 15.48
+          },
+          {
+            "file": "05.Lesson110单词句型讲解.mp4",
+            "minutes": 6.74
+          },
+          {
+            "file": "06.Lesson109&110知识拓展.flv",
+            "minutes": 10.59
+          }
+        ],
+        "core_minutes": 51.2
+      },
+      {
+        "folder": "57.Lesson111-112Themostexpensivemodel",
+        "lessons": [
+          111,
+          112
+        ],
+        "files": 6,
+        "minutes": 43.55,
+        "parts": [
+          {
+            "file": "01.Lesson111&112预习.flv",
+            "minutes": 0.4
+          },
+          {
+            "file": "02.Lesson111单词讲解.mp4",
+            "minutes": 7.57
+          },
+          {
+            "file": "03.Lesson111语法讲解-比较级&最高级.flv",
+            "minutes": 17.46
+          },
+          {
+            "file": "04.Lesson111课文讲解.flv",
+            "minutes": 11.23
+          },
+          {
+            "file": "05.Lesson112单词句型讲解.mp4",
+            "minutes": 5.03
+          },
+          {
+            "file": "06.Lesson111&112知识拓展.flv",
+            "minutes": 1.86
+          }
+        ],
+        "core_minutes": 41.29
+      },
+      {
+        "folder": "58.Lesson113-114Smallchange",
+        "lessons": [
+          113,
+          114
+        ],
+        "files": 6,
+        "minutes": 65.7,
+        "parts": [
+          {
+            "file": "01.Lesson113&114预习.flv",
+            "minutes": 0.52
+          },
+          {
+            "file": "02.Lesson113单词讲解.mp4",
+            "minutes": 15.2
+          },
+          {
+            "file": "03.Lesson113语法讲解-倒装.flv",
+            "minutes": 18.33
+          },
+          {
+            "file": "04.Lesson113课文讲解.flv",
+            "minutes": 12.88
+          },
+          {
+            "file": "05.Lesson114单词句型讲解.mp4",
+            "minutes": 9.94
+          },
+          {
+            "file": "06.Lesson113&114知识拓展.flv",
+            "minutes": 8.82
+          }
+        ],
+        "core_minutes": 56.35
+      },
+      {
+        "folder": "59.Lesson115-116Knock,knock!",
+        "lessons": [
+          115,
+          116
+        ],
+        "files": 6,
+        "minutes": 39.56,
+        "parts": [
+          {
+            "file": "01.Lesson115&116预习.flv",
+            "minutes": 0.7
+          },
+          {
+            "file": "02.Lesson115单词讲解.mp4",
+            "minutes": 7.42
+          },
+          {
+            "file": "03.Lesson115语法讲解-不定代词.flv",
+            "minutes": 15.14
+          },
+          {
+            "file": "04.Lesson115课文讲解.flv",
+            "minutes": 9.21
+          },
+          {
+            "file": "05.Lesson116单词句型讲解.mp4",
+            "minutes": 3.19
+          },
+          {
+            "file": "06.Lesson115&116知识拓展.flv",
+            "minutes": 3.92
+          }
+        ],
+        "core_minutes": 34.96
+      },
+      {
+        "folder": "60.Lesson117-118Tommy'sbreakfast",
+        "lessons": [
+          117,
+          118
+        ],
+        "files": 6,
+        "minutes": 45.87,
+        "parts": [
+          {
+            "file": "01.Lesson117&118预习.flv",
+            "minutes": 0.67
+          },
+          {
+            "file": "02.Lesson117单词讲解.mp4",
+            "minutes": 2.19
+          },
+          {
+            "file": "03.Lesson117语法讲解-过去进行时&时间状语从句.flv",
+            "minutes": 20.58
+          },
+          {
+            "file": "04.Lesson117课文讲解.flv",
+            "minutes": 16.84
+          },
+          {
+            "file": "05.Lesson118单词句型讲解.mp4",
+            "minutes": 2.94
+          },
+          {
+            "file": "06.Lesson117&118知识拓展.flv",
+            "minutes": 2.66
+          }
+        ],
+        "core_minutes": 42.55
+      },
+      {
+        "folder": "61.Lesson119-120Atruestory",
+        "lessons": [
+          119,
+          120
+        ],
+        "files": 6,
+        "minutes": 62.47,
+        "parts": [
+          {
+            "file": "01.Lesson119&120预习.flv",
+            "minutes": 0.64
+          },
+          {
+            "file": "02.Lesson119单词讲解.mp4",
+            "minutes": 8.31
+          },
+          {
+            "file": "03.Lesson119语法讲解-过去完成时态.flv",
+            "minutes": 18.17
+          },
+          {
+            "file": "04.Lesson119课文讲解.flv",
+            "minutes": 22.06
+          },
+          {
+            "file": "05.Lesson120单词句型讲解.mp4",
+            "minutes": 7.72
+          },
+          {
+            "file": "06.Lesson119&120知识拓展.flv",
+            "minutes": 5.57
+          }
+        ],
+        "core_minutes": 56.26
+      },
+      {
+        "folder": "62.Lesson121-122Themaninahat",
+        "lessons": [
+          121,
+          122
+        ],
+        "files": 6,
+        "minutes": 80.16,
+        "parts": [
+          {
+            "file": "01.Lesson121&122预习.flv",
+            "minutes": 0.94
+          },
+          {
+            "file": "02.Lesson121单词讲解.mp4",
+            "minutes": 6.61
+          },
+          {
+            "file": "03.Lesson121语法讲解-定语从句.flv",
+            "minutes": 36.94
+          },
+          {
+            "file": "04.Lesson121课文讲解.flv",
+            "minutes": 5.09
+          },
+          {
+            "file": "05.Lesson122单词句型讲解.mp4",
+            "minutes": 2.85
+          },
+          {
+            "file": "06.Lesson121&122知识拓展.flv",
+            "minutes": 27.73
+          }
+        ],
+        "core_minutes": 51.49
+      },
+      {
+        "folder": "63.Lesson123-124AtriptoAustralia",
+        "lessons": [
+          123,
+          124
+        ],
+        "files": 6,
+        "minutes": 55.45,
+        "parts": [
+          {
+            "file": "01.Lesson123&124预习.flv",
+            "minutes": 0.73
+          },
+          {
+            "file": "02.Lesson123单词讲解.mp4",
+            "minutes": 11.13
+          },
+          {
+            "file": "03.Lesson123语法讲解-感叹句.flv",
+            "minutes": 12.62
+          },
+          {
+            "file": "04.Lesson123课文讲解.flv",
+            "minutes": 20.03
+          },
+          {
+            "file": "05.Lesson124单词句型讲解.mp4",
+            "minutes": 3.35
+          },
+          {
+            "file": "06.Lesson123&124知识拓展.flv",
+            "minutes": 7.59
+          }
+        ],
+        "core_minutes": 47.13
+      },
+      {
+        "folder": "64.Lesson125-126Teafortwo",
+        "lessons": [
+          125,
+          126
+        ],
+        "files": 6,
+        "minutes": 37.46,
+        "parts": [
+          {
+            "file": "01.Lesson125&126预习.flv",
+            "minutes": 0.58
+          },
+          {
+            "file": "02.Lesson125单词讲解.mp4",
+            "minutes": 9.3
+          },
+          {
+            "file": "03.Lesson125语法讲解-情态动词haveto.flv",
+            "minutes": 8.65
+          },
+          {
+            "file": "04.Lesson125课文讲解.flv",
+            "minutes": 10.17
+          },
+          {
+            "file": "05.Lesson126单词句型讲解.mp4",
+            "minutes": 4.65
+          },
+          {
+            "file": "06.Lesson125&126知识拓展.flv",
+            "minutes": 4.11
+          }
+        ],
+        "core_minutes": 32.77
+      },
+      {
+        "folder": "65.Lesson127-128Afamousactress",
+        "lessons": [
+          127,
+          128
+        ],
+        "files": 6,
+        "minutes": 34.08,
+        "parts": [
+          {
+            "file": "01.Lesson127&128预习.flv",
+            "minutes": 0.68
+          },
+          {
+            "file": "02.Lesson127单词讲解.mp4",
+            "minutes": 5.81
+          },
+          {
+            "file": "03.Lesson127语法讲解-情态动词表推测.flv",
+            "minutes": 9.14
+          },
+          {
+            "file": "04.Lesson127课文讲解.flv",
+            "minutes": 8.36
+          },
+          {
+            "file": "05.Lesson128单词句型讲解.mp4",
+            "minutes": 6.49
+          },
+          {
+            "file": "06.Lesson127&128知识拓展.flv",
+            "minutes": 3.61
+          }
+        ],
+        "core_minutes": 29.8
+      },
+      {
+        "folder": "66.Lesson129-130Seventymilesanhour",
+        "lessons": [
+          129,
+          130
+        ],
+        "files": 6,
+        "minutes": 67.03,
+        "parts": [
+          {
+            "file": "01.Lesson129&130预习.flv",
+            "minutes": 0.57
+          },
+          {
+            "file": "02.Lesson129单词讲解.mp4",
+            "minutes": 12.83
+          },
+          {
+            "file": "03.Lesson129语法讲解-情态动词表推测.flv",
+            "minutes": 26.84
+          },
+          {
+            "file": "04.Lesson129课文讲解.flv",
+            "minutes": 17.6
+          },
+          {
+            "file": "05.Lesson130单词句型讲解.mp4",
+            "minutes": 5.56
+          },
+          {
+            "file": "06.Lesson129&130知识拓展.flv",
+            "minutes": 3.64
+          }
+        ],
+        "core_minutes": 62.83
+      },
+      {
+        "folder": "67.Lesson131-132Don'tbesosure!",
+        "lessons": [
+          131,
+          132
+        ],
+        "files": 6,
+        "minutes": 33.37,
+        "parts": [
+          {
+            "file": "01.Lesson131&132预习.flv",
+            "minutes": 0.58
+          },
+          {
+            "file": "02.Lesson131单词讲解.mp4",
+            "minutes": 2.27
+          },
+          {
+            "file": "03.Lesson131语法讲解-情态动词表推测.flv",
+            "minutes": 5.06
+          },
+          {
+            "file": "04.Lesson131课文讲解.flv",
+            "minutes": 12.07
+          },
+          {
+            "file": "05.Lesson132课文句型讲解.mp4",
+            "minutes": 2.75
+          },
+          {
+            "file": "06.Lesson131&132知识拓展.flv",
+            "minutes": 10.64
+          }
+        ],
+        "core_minutes": 22.15
+      },
+      {
+        "folder": "68.Lesson133-134Sensationalnews!",
+        "lessons": [
+          133,
+          134
+        ],
+        "files": 6,
+        "minutes": 38.6,
+        "parts": [
+          {
+            "file": "01.Lesson133&134预习.flv",
+            "minutes": 1.77
+          },
+          {
+            "file": "02.Lesson133单词讲解.mp4",
+            "minutes": 3.88
+          },
+          {
+            "file": "03.Lesson133语法讲解-宾语从句.flv",
+            "minutes": 15.44
+          },
+          {
+            "file": "04.Lesson133课文讲解.flv",
+            "minutes": 13.82
+          },
+          {
+            "file": "05.Lesson134单词句型讲解.mp4",
+            "minutes": 2.53
+          },
+          {
+            "file": "06.Lesson133&134知识拓展.flv",
+            "minutes": 1.16
+          }
+        ],
+        "core_minutes": 35.67
+      },
+      {
+        "folder": "69.Lesson135-136Thelatestreport",
+        "lessons": [
+          135,
+          136
+        ],
+        "files": 6,
+        "minutes": 51.5,
+        "parts": [
+          {
+            "file": "01.Lesson135&136预习.flv",
+            "minutes": 1.36
+          },
+          {
+            "file": "02.Lesson135单词讲解.mp4",
+            "minutes": 6.88
+          },
+          {
+            "file": "03.Lesson135语法讲解-时态总复习.flv",
+            "minutes": 29.53
+          },
+          {
+            "file": "04.Lesson135课文讲解.flv",
+            "minutes": 9.49
+          },
+          {
+            "file": "05.Lesson136单词句型讲解.mp4",
+            "minutes": 1.78
+          },
+          {
+            "file": "06.Lesson135&136知识拓展.flv",
+            "minutes": 2.46
+          }
+        ],
+        "core_minutes": 47.68
+      },
+      {
+        "folder": "70.Lesson137-138Apleasantdream",
+        "lessons": [
+          137,
+          138
+        ],
+        "files": 6,
+        "minutes": 49.74,
+        "parts": [
+          {
+            "file": "01.Lesson137&138预习.flv",
+            "minutes": 0.96
+          },
+          {
+            "file": "02.Lesson137单词讲解.mp4",
+            "minutes": 5.16
+          },
+          {
+            "file": "03.Lesson137语法讲解-条件状语从句.flv",
+            "minutes": 24.82
+          },
+          {
+            "file": "04.Lesson137课文讲解.flv",
+            "minutes": 9.95
+          },
+          {
+            "file": "05.Lesson138单词句型讲解.mp4",
+            "minutes": 5.01
+          },
+          {
+            "file": "06.Lesson137&138知识拓展.flv",
+            "minutes": 3.85
+          }
+        ],
+        "core_minutes": 44.94
+      },
+      {
+        "folder": "71.Lesson139-140Isthatyou,John&",
+        "lessons": [
+          139,
+          140
+        ],
+        "files": 6,
+        "minutes": 69.81,
+        "parts": [
+          {
+            "file": "01.Lesson139&140预习.flv",
+            "minutes": 0.89
+          },
+          {
+            "file": "02.Lesson139单词讲解.mp4",
+            "minutes": 6.69
+          },
+          {
+            "file": "03.Lesson139语法讲解-宾语从句.flv",
+            "minutes": 34.18
+          },
+          {
+            "file": "04.Lesson139课文讲解.flv",
+            "minutes": 16.71
+          },
+          {
+            "file": "05.Lesson140单词句型讲解.mp4",
+            "minutes": 7.61
+          },
+          {
+            "file": "06.Lesson139&140知识拓展.flv",
+            "minutes": 3.73
+          }
+        ],
+        "core_minutes": 65.19
+      },
+      {
+        "folder": "72.Lesson141-142Sally'sfirsttrainride",
+        "lessons": [
+          141,
+          142
+        ],
+        "files": 6,
+        "minutes": 77.99,
+        "parts": [
+          {
+            "file": "01.Lesson141&142预习.flv",
+            "minutes": 0.59
+          },
+          {
+            "file": "02.Lesson141单词讲解.mp4",
+            "minutes": 24.06
+          },
+          {
+            "file": "03.Lesson141语法讲解-被动语态.flv",
+            "minutes": 22.22
+          },
+          {
+            "file": "04.Lesson141课文讲解.flv",
+            "minutes": 13.18
+          },
+          {
+            "file": "05.Lesson142单词句型讲解.mp4",
+            "minutes": 6.07
+          },
+          {
+            "file": "06.Lesson141&142知识拓展.flv",
+            "minutes": 11.87
+          }
+        ],
+        "core_minutes": 65.53
+      },
+      {
+        "folder": "73.Lesson143-144Awalkthroughthewoods",
+        "lessons": [
+          143,
+          144
+        ],
+        "files": 6,
+        "minutes": 52.77,
+        "parts": [
+          {
+            "file": "01.Lesson143&144预习.flv",
+            "minutes": 0.6
+          },
+          {
+            "file": "02.Lesson143单词讲解.mp4",
+            "minutes": 15.84
+          },
+          {
+            "file": "03.Lesson143语法讲解-被动语态.flv",
+            "minutes": 10.43
+          },
+          {
+            "file": "04.Lesson143课文讲解.flv",
+            "minutes": 15.8
+          },
+          {
+            "file": "05.Lesson144单词句型讲解.mp4",
+            "minutes": 1.44
+          },
+          {
+            "file": "06.Lesson143&144知识拓展.flv",
+            "minutes": 8.65
+          }
+        ],
+        "core_minutes": 43.51
+      }
+    ],
+    "core_stats": {
+      "hours": 54.081,
+      "mean_pair_minutes": 45.07,
+      "median_pair_minutes": 45.13,
+      "max_pair_minutes": 77.9,
+      "min_pair_minutes": 19.49,
+      "pair_count_over45": 36,
+      "pair_count_over60": 8
+    },
+    "teaching_week_core_loads": [
+      {
+        "lessons": "1-4",
+        "core_minutes": 81.87
+      },
+      {
+        "lessons": "5-8",
+        "core_minutes": 122.82
+      },
+      {
+        "lessons": "9-12",
+        "core_minutes": 97.21
+      },
+      {
+        "lessons": "13-16",
+        "core_minutes": 111.7
+      },
+      {
+        "lessons": "17-20",
+        "core_minutes": 84.32
+      },
+      {
+        "lessons": "21-24",
+        "core_minutes": 83.94
+      },
+      {
+        "lessons": "25-28",
+        "core_minutes": 69.6
+      },
+      {
+        "lessons": "29-32",
+        "core_minutes": 99.24
+      },
+      {
+        "lessons": "33-36",
+        "core_minutes": 96.09
+      },
+      {
+        "lessons": "37-40",
+        "core_minutes": 102.14
+      },
+      {
+        "lessons": "41-44",
+        "core_minutes": 98.66
+      },
+      {
+        "lessons": "45-48",
+        "core_minutes": 88.9
+      },
+      {
+        "lessons": "49-52",
+        "core_minutes": 128.57
+      },
+      {
+        "lessons": "53-56",
+        "core_minutes": 96.83
+      },
+      {
+        "lessons": "57-60",
+        "core_minutes": 54.89
+      },
+      {
+        "lessons": "61-64",
+        "core_minutes": 93.09
+      },
+      {
+        "lessons": "65-68",
+        "core_minutes": 88.9
+      },
+      {
+        "lessons": "69-72",
+        "core_minutes": 69.11
+      },
+      {
+        "lessons": "73-76",
+        "core_minutes": 105.45
+      },
+      {
+        "lessons": "77-80",
+        "core_minutes": 60.63
+      },
+      {
+        "lessons": "81-84",
+        "core_minutes": 58.65
+      },
+      {
+        "lessons": "85-88",
+        "core_minutes": 98.14
+      },
+      {
+        "lessons": "89-92",
+        "core_minutes": 104.68
+      },
+      {
+        "lessons": "93-96",
+        "core_minutes": 70.65
+      },
+      {
+        "lessons": "97-100",
+        "core_minutes": 68.16
+      },
+      {
+        "lessons": "101-104",
+        "core_minutes": 88.65
+      },
+      {
+        "lessons": "105-108",
+        "core_minutes": 90.68
+      },
+      {
+        "lessons": "109-112",
+        "core_minutes": 92.49
+      },
+      {
+        "lessons": "113-116",
+        "core_minutes": 91.31
+      },
+      {
+        "lessons": "117-120",
+        "core_minutes": 98.81
+      },
+      {
+        "lessons": "121-124",
+        "core_minutes": 98.62
+      },
+      {
+        "lessons": "125-128",
+        "core_minutes": 62.57
+      },
+      {
+        "lessons": "129-132",
+        "core_minutes": 84.98
+      },
+      {
+        "lessons": "133-136",
+        "core_minutes": 83.35
+      },
+      {
+        "lessons": "137-140",
+        "core_minutes": 110.13
+      },
+      {
+        "lessons": "141-144",
+        "core_minutes": 109.04
+      }
+    ]
+  },
+  "reading_evidence": {
+    "files_read": [
+      "D:\\BaiduNetdiskDownload\\新概念一\\新概念1 教材笔记讲义习题详解\\新概念英语第一册学生用书.docx",
+      "D:\\BaiduNetdiskDownload\\新概念一\\新概念1 教材笔记讲义习题详解\\新概念英语 1（教师用书）.docx",
+      "D:\\BaiduNetdiskDownload\\新概念一\\新概念1 教材笔记讲义习题详解\\新概念一册专属讲义（整合版供打印使用）.docx"
+    ],
+    "notes": [
+      "学生用书目录从Lesson1到144，奇数情境课配偶数句型操练。",
+      "教师用书每教学单元提供约两小时材料，可按每部分45分钟删选操练，先听懂情境再操练。",
+      "霍娜讲义明确72课，预习-单词-课文-语法-偶数课句型-知识拓展；建议先听录音、跟读3-5遍、练习、参照译文复述。",
+      "讲义Lesson111&111为标题笔误，应按学生用书及视频Lesson111-112配对。"
+    ]
+  },
+  "audio": {
+    "odd_text_audio": {
+      "british_mp3": 72,
+      "american_mp3": 72,
+      "lrc_total": 144,
+      "note": "同一72篇奇数课文提供英音美音两套版本，不是144篇不同课文。"
+    },
+    "even_drills": {
+      "files": 144,
+      "unique_sha256": 144,
+      "byte_identical_duplicate_groups": 0,
+      "note": "两目录是偶数课音频版本，按课号选一套使用，不双计课程。"
+    },
+    "vocabulary_mp3": 116
+  },
+  "stages": [
+    {
+      "lessons": [
+        1,
+        48
+      ],
+      "units": 24,
+      "suggested_weeks": 14,
+      "basis": [
+        "L1一般疑问句、字母发音",
+        "L13特殊疑问句、颜色",
+        "L19单复数",
+        "L25 There be",
+        "L31现在进行时",
+        "L39祈使句与双宾语",
+        "L45 can",
+        "L47实义动词疑问否定"
+      ],
+      "output": "自我介绍、问路/购物基础问答、描述房间或图片，能完成替换练习并独立说6至8句。"
+    },
+    {
+      "lessons": [
+        49,
+        96
+      ],
+      "units": 24,
+      "suggested_weeks": 14,
+      "basis": [
+        "L49一般现在时",
+        "L55习惯与三单",
+        "L59购物与have",
+        "L65时间",
+        "L67/L71一般过去",
+        "L83/L89现在完成",
+        "L91一般将来",
+        "L95建议与时间"
+      ],
+      "output": "用现在、过去与将来介绍一天、一个周末和近期计划；对本册范围内现在完成与过去时作基础区分。"
+    },
+    {
+      "lessons": [
+        97,
+        144
+      ],
+      "units": 24,
+      "suggested_weeks": 14,
+      "basis": [
+        "L97物主代词",
+        "L99宾语从句",
+        "L101间接引语",
+        "L107-112比较级/最高级",
+        "L117过去进行",
+        "L119过去完成",
+        "L121定语从句",
+        "L129情态推测",
+        "L133-140宾语从句/条件从句",
+        "L141-144被动语态"
+      ],
+      "output": "用句子连接讲60至90秒小故事、作简单比较、转述消息，能读懂受控短文并纠正自己的主要时态错误。"
+    }
+  ],
+  "recommended_use": {
+    "main": "学生用书+霍娜课程+专属讲义+一套音频",
+    "practice": "偶数课替换操练和练习册；答案完成后查",
+    "reference": "教师用书、练习详解、自学导读、语法手册按问题查",
+    "supplement": "27音标视频/172拼读视频按发音薄弱点选用；16直播语法专题按阶段选；动画及剑桥口语作为可选轻量扩展",
+    "duplicate_handling": "docx/pdf是同标题不同格式，775个PPT是教学素材，不计学习单元；未声称其他文件字节重复。"
+  }
+}
