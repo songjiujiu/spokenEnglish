@@ -10,6 +10,9 @@
 .bp-section-head { display:flex; align-items:center; justify-content:space-between; gap:16px; margin-bottom:15px }
 .bp-section-head h2 { font-size:23px; margin:0 }
 .bp-section-head>span { color:var(--muted); font-size:13px; line-height:1.7 }
+.bp-book3-entry { margin-left:auto; font-size:12px; padding:8px 12px; min-height:38px }
+@media screen and (min-width:900px) { .bp-overview { grid-template-columns:repeat(3,minmax(0,1fr))!important } }
+@media(max-width:580px) { .bp-book3-entry { margin-left:0 } }
 .bp-week-controls { display:grid; grid-template-columns:1fr 1.2fr; gap:16px 20px; padding:22px 24px 16px; background:#eaf0e1; border:1px solid #dce5d1; border-radius:14px 14px 0 0 }
 .bp-select-field { display:flex; flex-direction:column; gap:8px; min-width:0 }
 .bp-select-field label { font-size:13px; font-weight:650; line-height:1.7; color:#547049 }

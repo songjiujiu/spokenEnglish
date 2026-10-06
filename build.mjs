@@ -82,7 +82,7 @@ const scriptSafe = value => value.replace(/<\/script/gi, '<\\/script');
 page = page.replace(/<script src="\/src\/plan-data\.js"><\/script>\s*<script src="\/src\/today-progress\.js"><\/script>\s*<script src="\/src\/book-plan\.js"><\/script>\s*<script src="\/src\/app\.js"><\/script>/, () => '<script>' + scriptSafe(dataScript) + '</script>\n<script>' + scriptSafe(scripts.join('\n')) + '</script>');
 if (/<script\s+src=|<link\s+rel="stylesheet"/.test(page)) throw Error('单文件仍有外部样式或脚本引用');
 await writeFile(path.join(src, 'plan-data.js'), dataScript, 'utf8');
-for (const output of ['两册学习路线与规划.html','初语_学习程序.html']) await writeFile(path.join(root, output), page, 'utf8');
+for (const output of ['三册学习路线与规划.html','两册学习路线与规划.html','初语_学习程序.html']) await writeFile(path.join(root, output), page, 'utf8');
 await mkdir(path.join(root, 'dist'), {recursive:true});
 await writeFile(path.join(root, 'dist/index.html'), page, 'utf8');
 console.log('构建完成：' + plan.phases.length + ' 个阶段、' + plan.weeks.length + ' 周、' + plan.weeks.reduce((sum,week) => sum + week.days.length,0) + ' 天具体任务，每天 45 分钟。');

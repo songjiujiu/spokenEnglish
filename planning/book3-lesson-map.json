@@ -1,0 +1,1874 @@
+{
+  "book": "book3",
+  "sourceNotes": [
+    "第三册资料来自用户指定的 D:/BaiduNetdiskDownload/新概念三。学生用书《新概念3.pdf》275页为课号、正式课名和题目位置的主依据；目录全部60课已视觉核对。教材印刷页码加2即该文件PDF页序号。",
+    "提取《新概念英语第三册课文及翻译.pdf》80页文字，按60课读取开篇及中文结尾，结合《新概念第三册笔记[minxue].pdf》315页的课文解说整理主题；并未逐页校勘全部讲义或试听全部音视频。",
+    "汇编有错配：L7英文开篇误混入其他内容，L47、L51等标题也与学生用书不同。L7以学生用书PDF第40页的残钞鉴别故事核对；课名统一按学生用书目录，禁止将汇编错误自动导入学习任务。笔记中未检出Lesson46标题，不以此认定该课缺失，L46依据学生用书目录及课文汇编内容整理。",
+    "视觉抽读学生用书L1正文后的摘要、作文和句型题（PDF17–18页）、L21书面题（PDF110页）与L60书面题（PDF272页）。L1摘要不超过80词、作文约150词；L21摘要不超过80词、作文不超过250词且四段；L60摘要不超过80词且限末段、作文250–350词。其他课按各自原题要求，不统一套用这些字数。",
+    "每课的focus、canDo、分段阅读提示、三句双语表达和自查标准是本项目依据课文主题设计的练习，不是教材原题或官方能力等级。既有1–102周保持原编号，第三册从第103周追加。",
+    "第三册按一课一周、每10课后复盘一周，共66周；60个教学周与6个复盘周均为每天45分钟、每周6天。教材作文较长时顺延，不要求在一周内强行完成所有配套练习。",
+    "本轮只增量盘点第三册1488个文件；原第一、二册资料在当前根目录下已不存在，保留此前盘点与路线，不将旧盘点日期改作本次实查日期。发布文件只包含索引和原创任务，教材及音视频不打包。"
+  ],
+  "units": [
+    {
+      "start": 1,
+      "end": 1,
+      "title": "A puma at large 逃遁的美洲狮",
+      "focus": "报告、证据与推断；复合句中的修饰关系",
+      "canDo": "根据几条线索说明一项推断，并区分事实与猜测",
+      "parts": [
+        "目击报告与专家开始调查的原因",
+        "搜寻痕迹、来源推断与未解决的结局"
+      ],
+      "phrases": [
+        {
+          "en": "Several neighbours reported a strange noise.",
+          "zh": "几位邻居报告听到了奇怪的声音。"
+        },
+        {
+          "en": "The marks on the ground suggest that an animal passed through.",
+          "zh": "地上的痕迹表明有动物经过。"
+        },
+        {
+          "en": "We still do not know where it came from.",
+          "zh": "我们仍不知道它来自哪里。"
+        }
+      ],
+      "printPageStart": 14,
+      "pdfPageStart": 16,
+      "pdfPageEnd": 19,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/01－A Puma at Large.mp3",
+      "writing": "本课摘要不超过80词；作文依教材提示扩写到约150词。",
+      "check": "能说清“目击报告与专家开始调查的原因”与“搜寻痕迹、来源推断与未解决的结局”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 2,
+      "end": 2,
+      "title": "Thirteen equals one 十三等于一",
+      "focus": "过去叙事与持续动作；对话中的回应",
+      "canDo": "讲清一次维修中的意外，并作出合适回应",
+      "parts": [
+        "教堂钟损坏、夜间突然报时",
+        "牧师发现修钟人及双方的对话"
+      ],
+      "phrases": [
+        {
+          "en": "I have been trying to fix this clock all week.",
+          "zh": "我整个星期都在设法修这只钟。"
+        },
+        {
+          "en": "It started working, but the time was wrong.",
+          "zh": "它开始走了，但时间不对。"
+        },
+        {
+          "en": "At least we know what the problem is now.",
+          "zh": "至少我们现在知道问题出在哪里了。"
+        }
+      ],
+      "printPageStart": 18,
+      "pdfPageStart": 20,
+      "pdfPageEnd": 23,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/02－Thirteen Equals One.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“教堂钟损坏、夜间突然报时”与“牧师发现修钟人及双方的对话”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 3,
+      "end": 3,
+      "title": "An unknown goddess 无名女神",
+      "focus": "考古证据、过去推测与被动描述",
+      "canDo": "介绍一件发现物，说明已知信息与尚未确定之处",
+      "parts": [
+        "古城与神庙的发现、文明线索",
+        "雕像碎片的拼合、外形与身份疑问"
+      ],
+      "phrases": [
+        {
+          "en": "The object was found beneath an old wall.",
+          "zh": "这件物品是在一堵旧墙下面发现的。"
+        },
+        {
+          "en": "It must have been important to the people who made it.",
+          "zh": "它对制作它的人一定很重要。"
+        },
+        {
+          "en": "Its purpose has not yet been established.",
+          "zh": "它的用途尚未确定。"
+        }
+      ],
+      "printPageStart": 22,
+      "pdfPageStart": 24,
+      "pdfPageEnd": 27,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/03－An Unknown Goddess.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“古城与神庙的发现、文明线索”与“雕像碎片的拼合、外形与身份疑问”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 4,
+      "end": 4,
+      "title": "The double life of Alfred Bloggs 阿尔弗雷德·布洛格斯的双重生活",
+      "focus": "职业身份、原因与让步；外表和实际的对比",
+      "canDo": "解释一项职业选择，比较收入、地位和个人感受",
+      "parts": [
+        "体力工作与办公室工作的社会看法",
+        "Alf隐瞒职业的日常做法及最终选择"
+      ],
+      "phrases": [
+        {
+          "en": "The new position pays less but offers more regular hours.",
+          "zh": "新职位收入更低，但工作时间更规律。"
+        },
+        {
+          "en": "She was reluctant to tell her friends about the change.",
+          "zh": "她不太愿意把这一变化告诉朋友。"
+        },
+        {
+          "en": "For her, job satisfaction matters more than status.",
+          "zh": "对她来说，工作满意度比地位更重要。"
+        }
+      ],
+      "printPageStart": 26,
+      "pdfPageStart": 28,
+      "pdfPageEnd": 31,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/04－The Double Life of Alfred Bloggs.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“体力工作与办公室工作的社会看法”与“Alf隐瞒职业的日常做法及最终选择”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 5,
+      "end": 5,
+      "title": "The facts 确切数字",
+      "focus": "信息核实、间接指令与事件因果",
+      "canDo": "说明一次信息核实的过程，交代要求与延误原因",
+      "parts": [
+        "编辑要求记者补充确切数字",
+        "催稿、记者被捕与迟来的解释"
+      ],
+      "phrases": [
+        {
+          "en": "The editor asked me to confirm the figures.",
+          "zh": "编辑让我核实这些数字。"
+        },
+        {
+          "en": "I could not reply until I had checked the original record.",
+          "zh": "核对原始记录后我才能回复。"
+        },
+        {
+          "en": "A precise number is useful only when its source is reliable.",
+          "zh": "只有来源可靠，精确的数字才有用。"
+        }
+      ],
+      "printPageStart": 30,
+      "pdfPageStart": 32,
+      "pdfPageEnd": 35,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/05－The Facts.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“编辑要求记者补充确切数字”与“催稿、记者被捕与迟来的解释”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 6,
+      "end": 6,
+      "title": "Smash-and-grab 砸橱窗抢劫",
+      "focus": "动作顺序、过去进行与背景描写",
+      "canDo": "按时间顺序叙述一起突发事件",
+      "parts": [
+        "商店开门与橱窗布置的平静场景",
+        "车辆闯入、抢劫、店员反应与逃离"
+      ],
+      "phrases": [
+        {
+          "en": "The staff were arranging the display when they heard a crash.",
+          "zh": "员工正在布置展台，突然听到一声撞击。"
+        },
+        {
+          "en": "Within minutes, the street was full of people.",
+          "zh": "几分钟内，街上就挤满了人。"
+        },
+        {
+          "en": "By the time help arrived, the disturbance was over.",
+          "zh": "救援人员赶到时，骚乱已经结束了。"
+        }
+      ],
+      "printPageStart": 34,
+      "pdfPageStart": 36,
+      "pdfPageEnd": 39,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/06－Smash-and-Grab.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“商店开门与橱窗布置的平静场景”与“车辆闯入、抢劫、店员反应与逃离”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 7,
+      "end": 7,
+      "title": "Mutilated ladies 残钞鉴别组",
+      "focus": "意外损坏、补救流程与条件表达",
+      "canDo": "说明物品受损的经过，并描述申请补救所需条件",
+      "parts": [
+        "残钞处理部门的作用",
+        "钱包被误放微波炉、鉴定与赔偿"
+      ],
+      "phrases": [
+        {
+          "en": "I left an important receipt in a pocket before washing the coat.",
+          "zh": "洗外套前，我把一张重要收据忘在口袋里了。"
+        },
+        {
+          "en": "Fortunately, the date and amount could still be read.",
+          "zh": "幸好日期和金额仍能辨认。"
+        },
+        {
+          "en": "The shop agreed to help as long as I could prove the purchase.",
+          "zh": "只要我能证明购买记录，商店就同意提供帮助。"
+        }
+      ],
+      "printPageStart": 38,
+      "pdfPageStart": 40,
+      "pdfPageEnd": 43,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/07－Mutilated Ladies.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“残钞处理部门的作用”与“钱包被误放微波炉、鉴定与赔偿”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 8,
+      "end": 8,
+      "title": "A famous monastery 著名的修道院",
+      "focus": "地点说明、非限定性定语从句与季节对比",
+      "canDo": "介绍一个地方，并比较不同季节的生活",
+      "parts": [
+        "山口、修道院及救援犬的背景",
+        "夏季游人和冬季生活的对比"
+      ],
+      "phrases": [
+        {
+          "en": "The village, which lies beside a mountain pass, receives many visitors.",
+          "zh": "这个村庄位于山口旁，接待许多游客。"
+        },
+        {
+          "en": "In summer, the streets are crowded with walkers.",
+          "zh": "夏天，街上挤满了徒步者。"
+        },
+        {
+          "en": "During winter, the residents enjoy a much quieter life.",
+          "zh": "冬天，居民享受着安静得多的生活。"
+        }
+      ],
+      "printPageStart": 42,
+      "pdfPageStart": 44,
+      "pdfPageEnd": 47,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/08－A Famous Monastery.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“山口、修道院及救援犬的背景”与“夏季游人和冬季生活的对比”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 9,
+      "end": 9,
+      "title": "Flying cats 飞猫",
+      "focus": "观察、研究结果与原因解释",
+      "canDo": "用研究中的信息解释一种现象，避免过度概括",
+      "parts": [
+        "猫的独立性与坠落生还现象",
+        "研究样本、实例与文中解释"
+      ],
+      "phrases": [
+        {
+          "en": "The researchers compared several recorded cases.",
+          "zh": "研究人员比较了几个记录在案的案例。"
+        },
+        {
+          "en": "The results suggest a possible explanation.",
+          "zh": "这些结果提示了一种可能的解释。"
+        },
+        {
+          "en": "One unusual example does not prove a general rule.",
+          "zh": "一个不寻常的例子并不能证明普遍规律。"
+        }
+      ],
+      "printPageStart": 46,
+      "pdfPageStart": 48,
+      "pdfPageEnd": 51,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/09－Flying Cats.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“猫的独立性与坠落生还现象”与“研究样本、实例与文中解释”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 10,
+      "end": 10,
+      "title": "The loss of the Titanic “泰坦尼克”号的沉没",
+      "focus": "预期与实际的反差；时间线与因果",
+      "canDo": "讲清一场事故的背景、关键转折及后果",
+      "parts": [
+        "巨轮规模和被认为安全的原因",
+        "发现冰山、船体受损与撤离后果"
+      ],
+      "phrases": [
+        {
+          "en": "The system was believed to be completely reliable.",
+          "zh": "人们原以为这套系统完全可靠。"
+        },
+        {
+          "en": "However, a small warning revealed a much larger problem.",
+          "zh": "然而，一个小小的警报暴露出了更大的问题。"
+        },
+        {
+          "en": "The delay left too little time for an orderly evacuation.",
+          "zh": "这一耽搁使有序撤离的时间所剩无几。"
+        }
+      ],
+      "printPageStart": 50,
+      "pdfPageStart": 52,
+      "pdfPageEnd": 55,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/10－The Loss of the Titanic.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“巨轮规模和被认为安全的原因”与“发现冰山、船体受损与撤离后果”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 11,
+      "end": 11,
+      "title": "Not guilty 无罪",
+      "focus": "礼貌问答、检查流程与叙事语气",
+      "canDo": "用礼貌语言应对检查，解释物品的用途",
+      "parts": [
+        "海关检查中的怀疑与行李翻查",
+        "小瓶引发的误会、解释与放行"
+      ],
+      "phrases": [
+        {
+          "en": "Would you like me to open this bag?",
+          "zh": "您需要我打开这个包吗？"
+        },
+        {
+          "en": "This bottle contains a homemade cleaning solution.",
+          "zh": "这个瓶子里装的是自制清洁液。"
+        },
+        {
+          "en": "Once I had explained its purpose, the misunderstanding was resolved.",
+          "zh": "我解释了它的用途后，误会便消除了。"
+        }
+      ],
+      "printPageStart": 54,
+      "pdfPageStart": 56,
+      "pdfPageEnd": 59,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/11－Not Guilty.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“海关检查中的怀疑与行李翻查”与“小瓶引发的误会、解释与放行”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 12,
+      "end": 12,
+      "title": "Life on a desert island 荒岛生活",
+      "focus": "两种想象与实际经历的对照",
+      "canDo": "比较想象与现实，并用具体经历支持观点",
+      "parts": [
+        "对荒岛生活的两种相反想象",
+        "两人遇险、在岛上生存及获救"
+      ],
+      "phrases": [
+        {
+          "en": "I had imagined the trip would be either perfect or disastrous.",
+          "zh": "我原以为这次旅行要么完美，要么糟透了。"
+        },
+        {
+          "en": "In reality, we faced difficulties but also enjoyed unexpected moments.",
+          "zh": "实际上，我们遇到了困难，也享受了意外的美好时刻。"
+        },
+        {
+          "en": "The experience was more complicated than either picture suggested.",
+          "zh": "这次经历比那两种想象所暗示的都更复杂。"
+        }
+      ],
+      "printPageStart": 58,
+      "pdfPageStart": 60,
+      "pdfPageEnd": 63,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/12－Life on a Desert Island.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“对荒岛生活的两种相反想象”与“两人遇险、在岛上生存及获救”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 13,
+      "end": 13,
+      "title": "It's only me “是我，别害怕！”",
+      "focus": "过去完成时、时间衔接与误会",
+      "canDo": "讲述一场误会，区分不同人物知道的信息",
+      "parts": [
+        "准备化装服装并试穿",
+        "误判来访者、躲藏及惊吓的结果"
+      ],
+      "phrases": [
+        {
+          "en": "I had put on the costume before the doorbell rang.",
+          "zh": "门铃响之前，我已经穿好了戏服。"
+        },
+        {
+          "en": "Assuming it was my friend, I hid behind the door.",
+          "zh": "我以为来的是朋友，就躲到了门后。"
+        },
+        {
+          "en": "The visitor was frightened before I could explain.",
+          "zh": "我还没来得及解释，来访者就受到了惊吓。"
+        }
+      ],
+      "printPageStart": 62,
+      "pdfPageStart": 64,
+      "pdfPageEnd": 67,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/13－It's Only Me.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“准备化装服装并试穿”与“误判来访者、躲藏及惊吓的结果”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 14,
+      "end": 14,
+      "title": "A noble gangster 贵族歹徒",
+      "focus": "称号与行为的反差；让步和评价",
+      "canDo": "概述一个历史人物，并用行为证据评价称号",
+      "parts": [
+        "保护费现象与历史人物的引入",
+        "雇佣军获利方式及身后荣誉"
+      ],
+      "phrases": [
+        {
+          "en": "He was praised as a hero by some of his neighbours.",
+          "zh": "一些邻居把他称赞为英雄。"
+        },
+        {
+          "en": "Yet the methods he used caused considerable harm.",
+          "zh": "然而，他采用的手段造成了相当大的伤害。"
+        },
+        {
+          "en": "A flattering title should not prevent us from examining the facts.",
+          "zh": "一个好听的称号不应妨碍我们审视事实。"
+        }
+      ],
+      "printPageStart": 66,
+      "pdfPageStart": 68,
+      "pdfPageEnd": 71,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/14－A Noble Gangster.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“保护费现象与历史人物的引入”与“雇佣军获利方式及身后荣誉”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 15,
+      "end": 15,
+      "title": "Fifty pence worth of trouble 五十便士的麻烦",
+      "focus": "小事引发的连锁结果；动作描写",
+      "canDo": "讲述一次小失误如何变成麻烦及最后怎样解决",
+      "parts": [
+        "零花钱习惯与硬币掉落",
+        "伸手取币、被卡、获救与补偿"
+      ],
+      "phrases": [
+        {
+          "en": "I dropped a key through a narrow gap.",
+          "zh": "我把一把钥匙掉进了狭窄的缝隙。"
+        },
+        {
+          "en": "In trying to reach it, I made the problem worse.",
+          "zh": "我试图够到它，结果让问题变得更糟。"
+        },
+        {
+          "en": "A small mistake ended up taking the whole afternoon to solve.",
+          "zh": "一个小错误最后花了整个下午才解决。"
+        }
+      ],
+      "printPageStart": 70,
+      "pdfPageStart": 72,
+      "pdfPageEnd": 75,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/15－Fifty Pence Worth of Trouble.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“零花钱习惯与硬币掉落”与“伸手取币、被卡、获救与补偿”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 16,
+      "end": 16,
+      "title": "Mary had a little lamb 玛丽有一头小羔羊",
+      "focus": "证据变化、推断与过去完成时",
+      "canDo": "叙述失物调查，并根据新证据修正判断",
+      "parts": [
+        "羔羊丢失与寻找线索",
+        "邻居解释、短暂道歉与雨中真相"
+      ],
+      "phrases": [
+        {
+          "en": "The missing bag had been moved before we arrived.",
+          "zh": "我们到达前，那个不见的包就被移动过了。"
+        },
+        {
+          "en": "At first, the explanation seemed convincing.",
+          "zh": "起初，这个解释似乎很有说服力。"
+        },
+        {
+          "en": "New evidence made us reconsider our conclusion.",
+          "zh": "新的证据使我们重新考虑结论。"
+        }
+      ],
+      "printPageStart": 74,
+      "pdfPageStart": 76,
+      "pdfPageEnd": 79,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/16－Mary Had a Little Lamb.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“羔羊丢失与寻找线索”与“邻居解释、短暂道歉与雨中真相”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 17,
+      "end": 17,
+      "title": "The longest suspension bridge in the world 世界上最长的吊桥",
+      "focus": "工程说明、数字与定语从句",
+      "canDo": "清晰介绍一项工程的用途、结构和规模",
+      "parts": [
+        "命名背景与连接的地点",
+        "桥塔、钢缆、承载力和设计特点"
+      ],
+      "phrases": [
+        {
+          "en": "The bridge links two districts that were once difficult to reach.",
+          "zh": "这座桥连接了两个以前交通不便的地区。"
+        },
+        {
+          "en": "Its cables carry the weight of the road below.",
+          "zh": "它的钢缆承托着下方桥面的重量。"
+        },
+        {
+          "en": "What impresses me most is the simplicity of the design.",
+          "zh": "最让我印象深刻的是设计的简洁。"
+        }
+      ],
+      "printPageStart": 78,
+      "pdfPageStart": 80,
+      "pdfPageEnd": 83,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/17－The Longest Suspension Bridge in the World.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“命名背景与连接的地点”与“桥塔、钢缆、承载力和设计特点”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 18,
+      "end": 18,
+      "title": "Electric currents in modern art 现代艺术中的电流",
+      "focus": "感官描写、比喻与个人评价",
+      "canDo": "描述一件展品，并区分观察和个人感受",
+      "parts": [
+        "现代雕塑的普遍性与展览提示",
+        "运动装置、灯光声音及作者反应"
+      ],
+      "phrases": [
+        {
+          "en": "The installation responds to movement in the room.",
+          "zh": "这件装置会对室内的动作作出反应。"
+        },
+        {
+          "en": "Its flashing lights reminded me of a busy crossing.",
+          "zh": "它闪烁的灯光让我想起繁忙的路口。"
+        },
+        {
+          "en": "I found it striking, although I was unsure what it meant.",
+          "zh": "我觉得它很醒目，尽管不确定它表达了什么。"
+        }
+      ],
+      "printPageStart": 82,
+      "pdfPageStart": 84,
+      "pdfPageEnd": 87,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/18－Electric Currents in Modern Art.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“现代雕塑的普遍性与展览提示”与“运动装置、灯光声音及作者反应”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 19,
+      "end": 19,
+      "title": "A very dear cat 一只贵重的宝贝猫",
+      "focus": "条件要求、人物心理与一词多义",
+      "canDo": "讲述一次失而复得的经历，解释人的决定",
+      "parts": [
+        "宠物日常与失踪后的寻找",
+        "匿名信、付款、宠物归来与双关结尾"
+      ],
+      "phrases": [
+        {
+          "en": "The owner was anxious when the dog failed to return.",
+          "zh": "狗没有回来，主人非常着急。"
+        },
+        {
+          "en": "She was willing to spend time and money searching for it.",
+          "zh": "她愿意花时间和金钱寻找它。"
+        },
+        {
+          "en": "Its safe return meant more to her than the expense.",
+          "zh": "对她而言，它平安归来比花费更重要。"
+        }
+      ],
+      "printPageStart": 86,
+      "pdfPageStart": 88,
+      "pdfPageEnd": 91,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/19－A Very Dear Cat.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“宠物日常与失踪后的寻找”与“匿名信、付款、宠物归来与双关结尾”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 20,
+      "end": 20,
+      "title": "Pioneer pilots 飞行员的先驱",
+      "focus": "两条人物时间线与比较",
+      "canDo": "对照两次尝试，讲清准备、挫折和结果",
+      "parts": [
+        "奖金设立与Latham第一次尝试",
+        "Blériot的准备、成功及Latham再次失利"
+      ],
+      "phrases": [
+        {
+          "en": "Both teams were attempting the same difficult journey.",
+          "zh": "两支队伍都在尝试同一段艰难旅程。"
+        },
+        {
+          "en": "One succeeded after careful preparation, while the other faced another setback.",
+          "zh": "一支队伍精心准备后成功了，另一支却再次受挫。"
+        },
+        {
+          "en": "Comparing the two attempts shows why timing mattered.",
+          "zh": "比较这两次尝试可以看出时机为何重要。"
+        }
+      ],
+      "printPageStart": 90,
+      "pdfPageStart": 92,
+      "pdfPageEnd": 95,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/20－Pioneer Pilots.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“奖金设立与Latham第一次尝试”与“Blériot的准备、成功及Latham再次失利”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 21,
+      "end": 21,
+      "title": "Daniel Mendoza 丹尼尔·门多萨",
+      "focus": "人物传记、时间线与盛衰对比",
+      "canDo": "概述一个人的贡献、转折和结局",
+      "parts": [
+        "早期拳击与Mendoza的贡献",
+        "师徒竞争、成名、债务与晚年"
+      ],
+      "phrases": [
+        {
+          "en": "Her approach helped turn a rough game into a disciplined sport.",
+          "zh": "她的方法帮助一项粗放的活动变成了讲究规则的运动。"
+        },
+        {
+          "en": "Success brought her fame but did not solve every problem.",
+          "zh": "成功为她带来了名气，却没有解决所有问题。"
+        },
+        {
+          "en": "Her later difficulties should be considered alongside her achievements.",
+          "zh": "她后来的困难应与她的成就一并看待。"
+        }
+      ],
+      "printPageStart": 106,
+      "pdfPageStart": 108,
+      "pdfPageEnd": 111,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/21－Daniel Mendoza.mp3",
+      "writing": "摘要不超过80词，仅写与Humphries争执后的职业经历；作文不超过250词，按教材要求分四段。",
+      "check": "能说清“早期拳击与Mendoza的贡献”与“师徒竞争、成名、债务与晚年”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 22,
+      "end": 22,
+      "title": "By heart 熟记台词",
+      "focus": "角色对话、预期与机智回应",
+      "canDo": "讲清一段对话中的试探、应对和反转",
+      "parts": [
+        "长期演出与演员对道具信的依赖",
+        "空白信的恶作剧及演员化解方式"
+      ],
+      "phrases": [
+        {
+          "en": "I thought I knew the speech by heart.",
+          "zh": "我以为自己已经把演讲稿背熟了。"
+        },
+        {
+          "en": "When the notes disappeared, I had to improvise.",
+          "zh": "笔记不见后，我只好临场发挥。"
+        },
+        {
+          "en": "A calm response helped me recover from the surprise.",
+          "zh": "冷静的回应帮助我从意外中恢复过来。"
+        }
+      ],
+      "printPageStart": 110,
+      "pdfPageStart": 112,
+      "pdfPageEnd": 115,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/22－By Heart.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“长期演出与演员对道具信的依赖”与“空白信的恶作剧及演员化解方式”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 23,
+      "end": 23,
+      "title": "One man's meat is another man's poison 各有所爱",
+      "focus": "文化差异、举例与让步",
+      "canDo": "尊重地解释不同饮食偏好，并给出例子",
+      "parts": [
+        "不同地区对食物的不同看法",
+        "蜗牛礼物、晚餐邀请与意外逃脱"
+      ],
+      "phrases": [
+        {
+          "en": "What seems delicious to one person may seem unpleasant to another.",
+          "zh": "一个人觉得美味的东西，另一个人可能觉得难以接受。"
+        },
+        {
+          "en": "Our preferences are strongly influenced by what we ate as children.",
+          "zh": "我们的喜好深受童年饮食的影响。"
+        },
+        {
+          "en": "I can respect a tradition without enjoying every dish.",
+          "zh": "即使不是每道菜都喜欢，我仍能尊重一种传统。"
+        }
+      ],
+      "printPageStart": 114,
+      "pdfPageStart": 116,
+      "pdfPageEnd": 119,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/23－One Man's Meat is Another Man's Poison.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“不同地区对食物的不同看法”与“蜗牛礼物、晚餐邀请与意外逃脱”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 24,
+      "end": 24,
+      "title": "A skeleton in the cupboard “家丑”",
+      "focus": "习语字面义与比喻义；悬念和解释",
+      "canDo": "解释一个习语，并讲清意外发现的真相",
+      "parts": [
+        "隐藏秘密的习语及小说中的用法",
+        "客房衣柜中的发现与医学背景解释"
+      ],
+      "phrases": [
+        {
+          "en": "I took the expression literally and misunderstood the story.",
+          "zh": "我按字面理解这个表达，结果误解了故事。"
+        },
+        {
+          "en": "The discovery seemed alarming until its background was explained.",
+          "zh": "在背景得到解释之前，这一发现显得令人不安。"
+        },
+        {
+          "en": "Context can completely change the meaning of a phrase.",
+          "zh": "语境可以彻底改变一个短语的含义。"
+        }
+      ],
+      "printPageStart": 118,
+      "pdfPageStart": 120,
+      "pdfPageEnd": 123,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/24－A Skeleton in the Cupboard.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“隐藏秘密的习语及小说中的用法”与“客房衣柜中的发现与医学背景解释”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 25,
+      "end": 25,
+      "title": "The Cutty Sark “卡蒂萨克”号帆船",
+      "focus": "竞赛时间线与过去假设",
+      "canDo": "说明一次竞赛的关键转折，作出有依据的假设",
+      "parts": [
+        "帆船背景与比赛开始",
+        "失舵、抢修、延误及成绩评价"
+      ],
+      "phrases": [
+        {
+          "en": "The team lost valuable time when a vital part broke.",
+          "zh": "一个关键部件损坏，使队伍损失了宝贵时间。"
+        },
+        {
+          "en": "If the delay had been avoided, the result might have been different.",
+          "zh": "如果能避免延误，结果或许会不同。"
+        },
+        {
+          "en": "Even so, finishing the journey was an impressive achievement.",
+          "zh": "即便如此，完成这段旅程仍是令人赞叹的成就。"
+        }
+      ],
+      "printPageStart": 122,
+      "pdfPageStart": 124,
+      "pdfPageEnd": 127,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/25－The Cutty Sark.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“帆船背景与比赛开始”与“失舵、抢修、延误及成绩评价”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 26,
+      "end": 26,
+      "title": "Wanted: a large biscuit tin 征购大饼干筒",
+      "focus": "广告诱因、让步与出乎预期的结果",
+      "canDo": "分析一次促销的吸引力与意外代价",
+      "parts": [
+        "广告如何利用免费心理",
+        "饼干竞赛、超大参赛作品与成本"
+      ],
+      "phrases": [
+        {
+          "en": "The offer sounded attractive because the entry was free.",
+          "zh": "这项活动听起来很有吸引力，因为报名免费。"
+        },
+        {
+          "en": "The organisers had underestimated how far people would go.",
+          "zh": "组织者低估了人们会做到什么程度。"
+        },
+        {
+          "en": "The campaign cost far more than they had expected.",
+          "zh": "这次活动的花费远超他们的预期。"
+        }
+      ],
+      "printPageStart": 126,
+      "pdfPageStart": 128,
+      "pdfPageEnd": 131,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/26－Wanted a Large Biscuit Tin.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“广告如何利用免费心理”与“饼干竞赛、超大参赛作品与成本”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 27,
+      "end": 27,
+      "title": "Nothing to sell and nothing to buy 不卖也不买",
+      "focus": "抽象观点、例外与价值比较",
+      "canDo": "讨论自由与物质需求，承认观点中的限制",
+      "parts": [
+        "商品、技能与服务价值的比较",
+        "流浪生活作为例外及其代价"
+      ],
+      "phrases": [
+        {
+          "en": "Money can measure a price more easily than a person's contribution.",
+          "zh": "金钱衡量价格比衡量一个人的贡献更容易。"
+        },
+        {
+          "en": "A simpler life may offer freedom, but it also involves uncertainty.",
+          "zh": "更简单的生活可能带来自由，但也伴随着不确定性。"
+        },
+        {
+          "en": "I would hesitate to judge a lifestyle from appearances alone.",
+          "zh": "我不会轻易只凭外表判断一种生活方式。"
+        }
+      ],
+      "printPageStart": 130,
+      "pdfPageStart": 132,
+      "pdfPageEnd": 135,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/27－Nothing to Sell and Nothing to Buy.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“商品、技能与服务价值的比较”与“流浪生活作为例外及其代价”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 28,
+      "end": 28,
+      "title": "Five pounds too dear 五镑也太贵",
+      "focus": "讨价还价、心理变化与反讽",
+      "canDo": "复述一次交易，并解释价值判断如何改变",
+      "parts": [
+        "船上销售与登岸后的推销",
+        "还价成交、离开及发现戒指无价值"
+      ],
+      "phrases": [
+        {
+          "en": "The seller gradually reduced the price.",
+          "zh": "卖家逐渐降低了价格。"
+        },
+        {
+          "en": "I mistook a large discount for evidence of good value.",
+          "zh": "我把大幅折扣误当成了物有所值的证据。"
+        },
+        {
+          "en": "A bargain is only a bargain if the item is worth buying.",
+          "zh": "只有东西值得买，低价才算划算。"
+        }
+      ],
+      "printPageStart": 134,
+      "pdfPageStart": 136,
+      "pdfPageEnd": 139,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/28－Five Pounds Too Dear.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“船上销售与登岸后的推销”与“还价成交、离开及发现戒指无价值”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 29,
+      "end": 29,
+      "title": "Funny or not? 是否可笑？",
+      "focus": "幽默的文化背景、举例与反差",
+      "canDo": "解释一个笑话的笑点和可能不受欢迎的原因",
+      "parts": [
+        "幽默与文化差异、不同类型的笑话",
+        "具体滑稽情境及意外结局"
+      ],
+      "phrases": [
+        {
+          "en": "The joke depends on an unexpected change of perspective.",
+          "zh": "这个笑话依赖一个出乎意料的视角变化。"
+        },
+        {
+          "en": "Some listeners found it amusing, while others felt uncomfortable.",
+          "zh": "一些听众觉得好笑，另一些却觉得不舒服。"
+        },
+        {
+          "en": "Knowing the audience matters as much as choosing the words.",
+          "zh": "了解听众和选择措辞同样重要。"
+        }
+      ],
+      "printPageStart": 138,
+      "pdfPageStart": 140,
+      "pdfPageEnd": 143,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/29－Funny or Not.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“幽默与文化差异、不同类型的笑话”与“具体滑稽情境及意外结局”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 30,
+      "end": 30,
+      "title": "The death of a ghost 幽灵之死",
+      "focus": "传言、事实揭示与过去叙事",
+      "canDo": "重述一则传言如何被事实重新解释",
+      "parts": [
+        "农场夜间工作引发的闹鬼传闻",
+        "隐藏人物的身世、死亡与真相揭示"
+      ],
+      "phrases": [
+        {
+          "en": "People repeated the story until it sounded like a fact.",
+          "zh": "人们反复讲述这个故事，直到它听起来像事实一样。"
+        },
+        {
+          "en": "A later discovery provided a less mysterious explanation.",
+          "zh": "后来的发现提供了一个不那么神秘的解释。"
+        },
+        {
+          "en": "The evidence changed our understanding of the earlier events.",
+          "zh": "证据改变了我们对先前事件的理解。"
+        }
+      ],
+      "printPageStart": 142,
+      "pdfPageStart": 144,
+      "pdfPageEnd": 147,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/30－The Death of a Ghost.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“农场夜间工作引发的闹鬼传闻”与“隐藏人物的身世、死亡与真相揭示”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 31,
+      "end": 31,
+      "title": "A lovable eccentric 可爱的怪人",
+      "focus": "人物概括与事例支持；让步评价",
+      "canDo": "用两个具体事例描述一个人的性格",
+      "parts": [
+        "对真正怪人的概括与Dickie的背景",
+        "反感势利的行为及不同场合的趣事"
+      ],
+      "phrases": [
+        {
+          "en": "He ignored conventions without trying to attract attention.",
+          "zh": "他不拘惯例，却并非为了引人注意。"
+        },
+        {
+          "en": "One incident reveals more about his character than a list of qualities.",
+          "zh": "一个事件比一串性格标签更能说明他的为人。"
+        },
+        {
+          "en": "Although his behaviour was unusual, people valued his generosity.",
+          "zh": "尽管他的行为不同寻常，人们仍看重他的慷慨。"
+        }
+      ],
+      "printPageStart": 146,
+      "pdfPageStart": 148,
+      "pdfPageEnd": 151,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/31－A Lovable Eccentric.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“对真正怪人的概括与Dickie的背景”与“反感势利的行为及不同场合的趣事”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 32,
+      "end": 32,
+      "title": "A lost ship 一艘沉船",
+      "focus": "搜索、证据排除与发现价值",
+      "canDo": "按证据说明最初判断为何错误及新发现的意义",
+      "parts": [
+        "搜寻失败与船长决定再试一次",
+        "打捞物证、识别另一沉船与发现价值"
+      ],
+      "phrases": [
+        {
+          "en": "The first object raised our hopes.",
+          "zh": "第一件打捞上来的物品让我们看到了希望。"
+        },
+        {
+          "en": "Closer examination showed that our initial conclusion was wrong.",
+          "zh": "进一步检查表明，最初的结论是错误的。"
+        },
+        {
+          "en": "What we found was unexpected but valuable in a different way.",
+          "zh": "我们发现的东西出乎意料，却具有另一种价值。"
+        }
+      ],
+      "printPageStart": 150,
+      "pdfPageStart": 152,
+      "pdfPageEnd": 155,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/32－A Lost Ship.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“搜寻失败与船长决定再试一次”与“打捞物证、识别另一沉船与发现价值”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 33,
+      "end": 33,
+      "title": "A day to remember 难忘的一天",
+      "focus": "连锁反应、同时动作与因果衔接",
+      "canDo": "把多件同时发生的事讲成清楚的事件链",
+      "parts": [
+        "日常小事引发连锁麻烦的例子",
+        "道路上的连续事故及最后的混乱"
+      ],
+      "phrases": [
+        {
+          "en": "While I was dealing with one problem, another appeared.",
+          "zh": "我正在处理一个问题时，另一个问题出现了。"
+        },
+        {
+          "en": "A minor delay set off a chain of unexpected events.",
+          "zh": "一次小耽搁引发了一连串意外。"
+        },
+        {
+          "en": "By the end of the day, even the simplest task had become difficult.",
+          "zh": "到一天结束时，连最简单的任务都变得困难了。"
+        }
+      ],
+      "printPageStart": 154,
+      "pdfPageStart": 156,
+      "pdfPageEnd": 159,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/33－A Day to Remember.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“日常小事引发连锁麻烦的例子”与“道路上的连续事故及最后的混乱”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 34,
+      "end": 34,
+      "title": "A happy discovery 幸运的发现",
+      "focus": "知识、观察与发现过程",
+      "canDo": "解释一次发现如何依靠知识而非单纯运气",
+      "parts": [
+        "古董店环境与鉴赏知识的重要性",
+        "Frank查看货箱、识别并买下画作"
+      ],
+      "phrases": [
+        {
+          "en": "Experience helped her notice a detail that others had missed.",
+          "zh": "经验帮助她注意到别人忽略的细节。"
+        },
+        {
+          "en": "She recognised its value before asking the price.",
+          "zh": "询价之前，她已经认出了它的价值。"
+        },
+        {
+          "en": "The discovery involved luck, but it also required knowledge.",
+          "zh": "这次发现有运气成分，但也需要知识。"
+        }
+      ],
+      "printPageStart": 158,
+      "pdfPageStart": 160,
+      "pdfPageEnd": 163,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/34－A Happy Discovery.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“古董店环境与鉴赏知识的重要性”与“Frank查看货箱、识别并买下画作”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 35,
+      "end": 35,
+      "title": "Justice was done 伸张正义",
+      "focus": "抽象概念到具体事例；讽刺结尾",
+      "canDo": "用一个事例解释抽象观点，并限定结论",
+      "parts": [
+        "正义的抽象含义与自然惩罚的说法",
+        "店中呼救、烟囱救援与窃贼身份"
+      ],
+      "phrases": [
+        {
+          "en": "The story illustrates a common idea about fairness.",
+          "zh": "这个故事说明了人们关于公平的一种常见看法。"
+        },
+        {
+          "en": "His own actions led to an outcome he had not intended.",
+          "zh": "他自己的行为造成了他没有预料到的结果。"
+        },
+        {
+          "en": "One striking example is not enough to establish a universal rule.",
+          "zh": "一个鲜明的例子不足以确立普遍规律。"
+        }
+      ],
+      "printPageStart": 162,
+      "pdfPageStart": 164,
+      "pdfPageEnd": 167,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/35－Justice was Done.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“正义的抽象含义与自然惩罚的说法”与“店中呼救、烟囱救援与窃贼身份”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 36,
+      "end": 36,
+      "title": "A chance in a million 百万分之一的机遇",
+      "focus": "巧合、双线经历与时间顺序",
+      "canDo": "讲清两个人物分离与重逢的不同经历",
+      "parts": [
+        "小说巧合与现实偶遇的引入",
+        "兄弟相认、战时失联与各自经历"
+      ],
+      "phrases": [
+        {
+          "en": "For years, each family believed the other had moved away.",
+          "zh": "多年来，两家人都以为对方已经搬走。"
+        },
+        {
+          "en": "A chance meeting brought the two accounts together.",
+          "zh": "一次偶遇把两段经历联系起来了。"
+        },
+        {
+          "en": "The coincidence only makes sense when both histories are known.",
+          "zh": "只有了解双方经历，这个巧合才说得通。"
+        }
+      ],
+      "printPageStart": 166,
+      "pdfPageStart": 168,
+      "pdfPageEnd": 171,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/36－A Chance in a Million.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“小说巧合与现实偶遇的引入”与“兄弟相认、战时失联与各自经历”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 37,
+      "end": 37,
+      "title": "The Westhaven Express 开往威斯特海温的快车",
+      "focus": "预期、抱怨与信息核对",
+      "canDo": "描述一次行程误判，并有条理地澄清问题",
+      "parts": [
+        "对铁路准点的信任与查时刻表",
+        "慢车行程、向站长抱怨和脚注真相"
+      ],
+      "phrases": [
+        {
+          "en": "I planned the journey according to the timetable.",
+          "zh": "我按照时刻表安排了行程。"
+        },
+        {
+          "en": "I had overlooked a small note beside the departure time.",
+          "zh": "我忽略了发车时间旁的一条小注释。"
+        },
+        {
+          "en": "Before making a complaint, I should check all the details.",
+          "zh": "投诉之前，我应该核对所有细节。"
+        }
+      ],
+      "printPageStart": 170,
+      "pdfPageStart": 172,
+      "pdfPageEnd": 175,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/37－The Westhaven Express.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“对铁路准点的信任与查时刻表”与“慢车行程、向站长抱怨和脚注真相”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 38,
+      "end": 38,
+      "title": "The first calendar 最早的日历",
+      "focus": "有限线索、推断与谨慎措辞",
+      "canDo": "解释研究者如何从遗留痕迹提出一种解释",
+      "parts": [
+        "记录现代历史与重建远古的区别",
+        "刻痕、月相关联与早期日历推断"
+      ],
+      "phrases": [
+        {
+          "en": "Only a few traces of the original pattern remain.",
+          "zh": "原来图案的痕迹只留下少许。"
+        },
+        {
+          "en": "Researchers compared them with evidence from other sites.",
+          "zh": "研究人员把它们与其他遗址的证据进行了比较。"
+        },
+        {
+          "en": "The markings may have been used to record recurring events.",
+          "zh": "这些刻痕可能曾用来记录周期性事件。"
+        }
+      ],
+      "printPageStart": 174,
+      "pdfPageStart": 176,
+      "pdfPageEnd": 179,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/38－The First Calendar.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“记录现代历史与重建远古的区别”与“刻痕、月相关联与早期日历推断”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 39,
+      "end": 39,
+      "title": "Nothing to worry about 不必担心",
+      "focus": "风险感受对比、动作与让步",
+      "canDo": "比较同一旅程中不同人的判断，并说明风险",
+      "parts": [
+        "崎岖道路与Bruce的无畏态度",
+        "跨越裂缝、进入水塘及耗尽燃油"
+      ],
+      "phrases": [
+        {
+          "en": "The driver remained confident despite the worsening conditions.",
+          "zh": "尽管路况越来越差，司机仍然信心十足。"
+        },
+        {
+          "en": "We were more concerned about the risks than he was.",
+          "zh": "相比他，我们更担心其中的风险。"
+        },
+        {
+          "en": "Confidence alone could not prevent a practical problem.",
+          "zh": "仅有信心无法阻止实际问题发生。"
+        }
+      ],
+      "printPageStart": 178,
+      "pdfPageStart": 180,
+      "pdfPageEnd": 183,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/39－Nothing to Worry About.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“崎岖道路与Bruce的无畏态度”与“跨越裂缝、进入水塘及耗尽燃油”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 40,
+      "end": 40,
+      "title": "Who's who 真假难辨",
+      "focus": "转述、多方信息差与误会升级",
+      "canDo": "分别说明各方听到什么、相信什么及误会如何解除",
+      "parts": [
+        "学生恶作剧与分别传递的错误消息",
+        "警察和工人冲突、电话核实与真相"
+      ],
+      "phrases": [
+        {
+          "en": "Each side acted on information supplied by the same stranger.",
+          "zh": "双方都根据同一个陌生人提供的信息行事。"
+        },
+        {
+          "en": "Neither realised that the other had also been misled.",
+          "zh": "双方都没意识到对方也受到了误导。"
+        },
+        {
+          "en": "A direct conversation finally exposed the misunderstanding.",
+          "zh": "一次直接沟通终于揭穿了这场误会。"
+        }
+      ],
+      "printPageStart": 182,
+      "pdfPageStart": 184,
+      "pdfPageEnd": 187,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/40－Who's Who.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“学生恶作剧与分别传递的错误消息”与“警察和工人冲突、电话核实与真相”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 41,
+      "end": 41,
+      "title": "Illusions of pastoral peace 宁静田园生活的遐想",
+      "focus": "观点、反驳与城乡比较",
+      "canDo": "提出居住偏好，用具体理由回应另一种选择",
+      "parts": [
+        "作者对田园理想的质疑",
+        "乡村不便、城市优点与个人立场"
+      ],
+      "phrases": [
+        {
+          "en": "Living near nature has obvious attractions.",
+          "zh": "住在大自然附近显然很有吸引力。"
+        },
+        {
+          "en": "For my daily needs, however, reliable transport matters more.",
+          "zh": "然而，就我的日常需求而言，可靠的交通更重要。"
+        },
+        {
+          "en": "My preference depends on practical circumstances rather than an ideal picture.",
+          "zh": "我的偏好取决于实际情况，而不是理想化的图景。"
+        }
+      ],
+      "printPageStart": 192,
+      "pdfPageStart": 194,
+      "pdfPageEnd": 197,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/41－Illusions of Pastoral Peace.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“作者对田园理想的质疑”与“乡村不便、城市优点与个人立场”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 42,
+      "end": 42,
+      "title": "Modern cavemen 现代洞穴人",
+      "focus": "活动动机、准备过程与空间描写",
+      "canDo": "说明一项探险活动的准备、路线和所见",
+      "parts": [
+        "洞穴探险的吸引力与准备要求",
+        "深入洞穴的路线和地下景观"
+      ],
+      "phrases": [
+        {
+          "en": "The expedition required careful preparation and a dependable team.",
+          "zh": "这次探险需要周密准备和可靠的团队。"
+        },
+        {
+          "en": "Beyond the narrow passage, the space opened into a vast chamber.",
+          "zh": "穿过狭窄的通道后，眼前出现了一个巨大的洞室。"
+        },
+        {
+          "en": "The scale of the place was difficult to appreciate from photographs.",
+          "zh": "仅从照片很难感受这个地方的规模。"
+        }
+      ],
+      "printPageStart": 196,
+      "pdfPageStart": 198,
+      "pdfPageEnd": 201,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/42－Modern Cavemen.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“洞穴探险的吸引力与准备要求”与“深入洞穴的路线和地下景观”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 43,
+      "end": 43,
+      "title": "Fully insured 全保险",
+      "focus": "风险和代价、过程说明与意外",
+      "canDo": "讲清一次异常事故的处理过程和风险变化",
+      "parts": [
+        "保险业务与巨型馅饼盘的背景",
+        "盘子沉没、两次打捞及最终上岸"
+      ],
+      "phrases": [
+        {
+          "en": "The larger the risk, the more carefully we need to prepare.",
+          "zh": "风险越大，我们越需要认真准备。"
+        },
+        {
+          "en": "The first attempt failed when the load became unbalanced.",
+          "zh": "第一次尝试因重物失去平衡而失败。"
+        },
+        {
+          "en": "A revised plan allowed the team to complete the operation.",
+          "zh": "修改后的方案让团队完成了这次操作。"
+        }
+      ],
+      "printPageStart": 200,
+      "pdfPageStart": 202,
+      "pdfPageEnd": 205,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/43－Fully Insured.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“保险业务与巨型馅饼盘的背景”与“盘子沉没、两次打捞及最终上岸”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 44,
+      "end": 44,
+      "title": "Speed and comfort 又快捷又舒适",
+      "focus": "多方案比较、评价标准与说服",
+      "canDo": "比较出行方式，并按时间、舒适度等标准解释选择",
+      "parts": [
+        "长途火车旅行的不便",
+        "海空旅行的对比及飞行的优点"
+      ],
+      "phrases": [
+        {
+          "en": "The cheapest option is not always the most convenient.",
+          "zh": "最便宜的选择未必最方便。"
+        },
+        {
+          "en": "I would compare the total travel time as well as the ticket price.",
+          "zh": "除了票价，我还会比较总出行时间。"
+        },
+        {
+          "en": "For this journey, arriving rested is worth the extra cost.",
+          "zh": "就这次行程而言，多花一点钱换来抵达时精力充沛是值得的。"
+        }
+      ],
+      "printPageStart": 204,
+      "pdfPageStart": 206,
+      "pdfPageEnd": 209,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/44－Speed and Comfort.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“长途火车旅行的不便”与“海空旅行的对比及飞行的优点”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 45,
+      "end": 45,
+      "title": "The power of the press 新闻报道的威力",
+      "focus": "媒体影响、让步与代价分析",
+      "canDo": "讨论报道带来的帮助和侵扰，并举例支持",
+      "parts": [
+        "新闻自由及其可能被滥用的影响",
+        "五胞胎家庭受关注后的收益和代价"
+      ],
+      "phrases": [
+        {
+          "en": "Public attention can bring opportunities as well as pressure.",
+          "zh": "公众关注既能带来机会，也会带来压力。"
+        },
+        {
+          "en": "The family gained support but lost much of its privacy.",
+          "zh": "这个家庭得到了支持，却失去了许多隐私。"
+        },
+        {
+          "en": "A responsible report should consider the people affected by it.",
+          "zh": "负责任的报道应考虑受其影响的人。"
+        }
+      ],
+      "printPageStart": 208,
+      "pdfPageStart": 210,
+      "pdfPageEnd": 213,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/45－The Power of the Press.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“新闻自由及其可能被滥用的影响”与“五胞胎家庭受关注后的收益和代价”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 46,
+      "end": 46,
+      "title": "Do it yourself 自己动手",
+      "focus": "概括与实例、计划和失败原因",
+      "canDo": "说明一次动手尝试，并分析何时应寻求帮助",
+      "parts": [
+        "自己动手的风气与个人项目习惯",
+        "拆修割草机、剩余零件与未完成的工作"
+      ],
+      "phrases": [
+        {
+          "en": "I underestimated how difficult it would be to put everything back together.",
+          "zh": "我低估了把所有东西重新装好的难度。"
+        },
+        {
+          "en": "After several attempts, I still had parts left over.",
+          "zh": "尝试几次后，我仍有零件没装上。"
+        },
+        {
+          "en": "Next time, I will decide earlier whether to ask an expert for help.",
+          "zh": "下次我会更早决定是否请专业人员帮忙。"
+        }
+      ],
+      "printPageStart": 212,
+      "pdfPageStart": 214,
+      "pdfPageEnd": 217,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/46－Do It Yourself.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“自己动手的风气与个人项目习惯”与“拆修割草机、剩余零件与未完成的工作”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 47,
+      "end": 47,
+      "title": "Too high a price? 代价太高？",
+      "focus": "问题分类、数据对比与社会代价",
+      "canDo": "说明污染的不同来源，并区分数据与观点",
+      "parts": [
+        "垃圾处理、农业生产及污染代价",
+        "噪声来源、调查数字与安静的缺失"
+      ],
+      "phrases": [
+        {
+          "en": "A low price can hide costs that are paid elsewhere.",
+          "zh": "低价可能掩盖了在别处付出的代价。"
+        },
+        {
+          "en": "The survey describes several sources of unwanted noise.",
+          "zh": "这项调查列出了几种令人不快的噪声来源。"
+        },
+        {
+          "en": "We should examine both the benefit and the wider impact.",
+          "zh": "我们应该同时考察好处和更广泛的影响。"
+        }
+      ],
+      "printPageStart": 216,
+      "pdfPageStart": 218,
+      "pdfPageEnd": 221,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/47－Too High a Price.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“垃圾处理、农业生产及污染代价”与“噪声来源、调查数字与安静的缺失”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 48,
+      "end": 48,
+      "title": "The silent village 沉默的村庄",
+      "focus": "环境描写、态度推断与预期修正",
+      "canDo": "描写一次不受欢迎的到访，并区分观察与猜测",
+      "parts": [
+        "对偏远村庄的想象与前往过程",
+        "村民反应、沉默气氛及离开"
+      ],
+      "phrases": [
+        {
+          "en": "We expected a friendly welcome but received no reply.",
+          "zh": "我们原以为会受到友好欢迎，却没有得到回应。"
+        },
+        {
+          "en": "Their silence made us question our assumptions.",
+          "zh": "他们的沉默让我们反思自己的想当然。"
+        },
+        {
+          "en": "We decided to leave rather than impose on the residents.",
+          "zh": "我们决定离开，以免打扰居民。"
+        }
+      ],
+      "printPageStart": 220,
+      "pdfPageStart": 222,
+      "pdfPageEnd": 225,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/48－The Silent Village.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“对偏远村庄的想象与前往过程”与“村民反应、沉默气氛及离开”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 49,
+      "end": 49,
+      "title": "The ideal servant 理想的仆人",
+      "focus": "人物表象、伏笔与反讽",
+      "canDo": "用细节讲清人物评价怎样被后来的发现改变",
+      "parts": [
+        "姑母的家与对Bessie's工作的信任",
+        "晚宴失态、解雇及酒瓶的发现"
+      ],
+      "phrases": [
+        {
+          "en": "At first, her work seemed beyond criticism.",
+          "zh": "起初，她的工作似乎无可挑剔。"
+        },
+        {
+          "en": "A series of small incidents later suggested a different picture.",
+          "zh": "后来，一连串小事呈现出了另一番景象。"
+        },
+        {
+          "en": "The final discovery explained details we had previously ignored.",
+          "zh": "最后的发现解释了我们先前忽略的细节。"
+        }
+      ],
+      "printPageStart": 224,
+      "pdfPageStart": 226,
+      "pdfPageEnd": 229,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/49－The Ideal Servant.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“姑母的家与对Bessie's工作的信任”与“晚宴失态、解雇及酒瓶的发现”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 50,
+      "end": 50,
+      "title": "New Year resolutions 新年的决心",
+      "focus": "目标、习惯与自我解释",
+      "canDo": "制定可执行的小目标，并解释过去失败的原因",
+      "parts": [
+        "过大的新年目标与反复失败",
+        "作者锻炼和阅读计划的实施及回落"
+      ],
+      "phrases": [
+        {
+          "en": "My original plan was too ambitious to maintain.",
+          "zh": "我最初的计划过于宏大，难以坚持。"
+        },
+        {
+          "en": "I will begin with a small action that fits my normal routine.",
+          "zh": "我会从一项能融入日常安排的小行动开始。"
+        },
+        {
+          "en": "If I miss a day, I will resume instead of abandoning the goal.",
+          "zh": "如果漏掉一天，我会继续，而不会放弃目标。"
+        }
+      ],
+      "printPageStart": 228,
+      "pdfPageStart": 230,
+      "pdfPageEnd": 233,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/50－New Year Resolutions.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“过大的新年目标与反复失败”与“作者锻炼和阅读计划的实施及回落”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 51,
+      "end": 51,
+      "title": "Predicting the future 预测未来",
+      "focus": "技术变化、过去预测与条件推测",
+      "canDo": "评价一项预测哪些准确、哪些超出了当时认识",
+      "parts": [
+        "早期计算机与个人电脑的发展",
+        "历史预测、网络变化与未来可能性"
+      ],
+      "phrases": [
+        {
+          "en": "The prediction was accurate in some respects but missed an important development.",
+          "zh": "这项预测在某些方面准确，却漏掉了一项重要发展。"
+        },
+        {
+          "en": "A trend can be visible long before its consequences are clear.",
+          "zh": "一种趋势可能早已出现，而其后果仍不清楚。"
+        },
+        {
+          "en": "I would present my forecast as a possibility rather than a certainty.",
+          "zh": "我会把预测表述为一种可能，而不是确定的事实。"
+        }
+      ],
+      "printPageStart": 232,
+      "pdfPageStart": 234,
+      "pdfPageEnd": 237,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/51－Predicting the Future.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“早期计算机与个人电脑的发展”与“历史预测、网络变化与未来可能性”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 52,
+      "end": 52,
+      "title": "Mud is mud 实事求是",
+      "focus": "条件设想、恶作剧与反转",
+      "canDo": "讲述一次自作聪明的尝试及其意外结果",
+      "parts": [
+        "奇特瓶中物与来客的疑问",
+        "商店恶作剧、真的商品与付款脱身"
+      ],
+      "phrases": [
+        {
+          "en": "I asked for something I assumed did not exist.",
+          "zh": "我索要了一件自己以为并不存在的东西。"
+        },
+        {
+          "en": "To my surprise, the assistant produced exactly what I had requested.",
+          "zh": "出乎意料，店员拿出了我所要求的东西。"
+        },
+        {
+          "en": "I had to admit that the joke had turned against me.",
+          "zh": "我不得不承认，这个玩笑反而让我吃了亏。"
+        }
+      ],
+      "printPageStart": 236,
+      "pdfPageStart": 238,
+      "pdfPageEnd": 241,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/52－Mud is Mud.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“奇特瓶中物与来客的疑问”与“商店恶作剧、真的商品与付款脱身”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 53,
+      "end": 53,
+      "title": "In the public interest 为了公众的利益",
+      "focus": "制度说明、投诉流程与证据核实",
+      "canDo": "有条理地说明投诉与调查过程，区分指控和证据",
+      "parts": [
+        "监督制度的设立、职责及作用",
+        "具体投诉、否认、调查与纠正"
+      ],
+      "phrases": [
+        {
+          "en": "A complaint should describe specific events rather than make vague accusations.",
+          "zh": "投诉应描述具体事件，而不是作模糊指责。"
+        },
+        {
+          "en": "An independent review helped establish what had happened.",
+          "zh": "独立审查帮助查明了事情的经过。"
+        },
+        {
+          "en": "The conclusion should follow from the evidence collected.",
+          "zh": "结论应以收集到的证据为依据。"
+        }
+      ],
+      "printPageStart": 240,
+      "pdfPageStart": 242,
+      "pdfPageEnd": 245,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/53－In the Public Interest.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“监督制度的设立、职责及作用”与“具体投诉、否认、调查与纠正”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 54,
+      "end": 54,
+      "title": "Instinct or cleverness? 是本能还是机智？",
+      "focus": "观察、假设与出乎预期的对策",
+      "canDo": "描述一次观察，并提出有保留的解释",
+      "parts": [
+        "人对昆虫的感受与花园观察",
+        "阻挡蚂蚁的办法、绕路及反思"
+      ],
+      "phrases": [
+        {
+          "en": "I expected the barrier to solve the problem.",
+          "zh": "我原以为这道障碍能解决问题。"
+        },
+        {
+          "en": "The insects found a route I had not considered.",
+          "zh": "昆虫找到了一条我没有考虑到的路线。"
+        },
+        {
+          "en": "The observation raises a question, but it does not settle the explanation.",
+          "zh": "这次观察提出了一个问题，却未能确定其解释。"
+        }
+      ],
+      "printPageStart": 244,
+      "pdfPageStart": 246,
+      "pdfPageEnd": 249,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/54－Instinct or Cleverness.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“人对昆虫的感受与花园观察”与“阻挡蚂蚁的办法、绕路及反思”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 55,
+      "end": 55,
+      "title": "From the earth: Greetings 来自地球的问候",
+      "focus": "科学条件、尺度与假设性结论",
+      "canDo": "解释一种科学可能性所需的条件，并标明不确定性",
+      "parts": [
+        "寻找行星及适宜生命的条件",
+        "寻找生命的困难、微生物与发现意义"
+      ],
+      "phrases": [
+        {
+          "en": "Finding a suitable environment is only the first step.",
+          "zh": "找到合适的环境只是第一步。"
+        },
+        {
+          "en": "Whether life could exist there depends on several conditions.",
+          "zh": "那里是否可能存在生命，取决于几个条件。"
+        },
+        {
+          "en": "Even a simple form of life would have profound implications.",
+          "zh": "即使是简单的生命形式，也会有深远的意义。"
+        }
+      ],
+      "printPageStart": 248,
+      "pdfPageStart": 250,
+      "pdfPageEnd": 253,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/55－From the Earth Greetings.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“寻找行星及适宜生命的条件”与“寻找生命的困难、微生物与发现意义”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 56,
+      "end": 56,
+      "title": "Our neighbour, the river 河流，我们的邻居",
+      "focus": "关系描写、气氛转变与险情叙事",
+      "canDo": "描述一个地方平日的作用和突发变化",
+      "parts": [
+        "河流在农场生活中的作用与活动",
+        "洪水征兆、邻居木筏与救援"
+      ],
+      "phrases": [
+        {
+          "en": "The river normally supports the life of the whole village.",
+          "zh": "这条河平时支撑着整个村庄的生活。"
+        },
+        {
+          "en": "After days of rain, a familiar landscape became threatening.",
+          "zh": "连日降雨后，熟悉的景色变得险象环生。"
+        },
+        {
+          "en": "The neighbours worked together to bring the stranded family ashore.",
+          "zh": "邻居们齐心协力，把受困的一家人救上了岸。"
+        }
+      ],
+      "printPageStart": 252,
+      "pdfPageStart": 254,
+      "pdfPageEnd": 257,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/56－Our Neighbour, the River.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“河流在农场生活中的作用与活动”与“洪水征兆、邻居木筏与救援”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 57,
+      "end": 57,
+      "title": "Back in the old country 重返故里",
+      "focus": "回忆、现实对照与悬念揭示",
+      "canDo": "连贯讲述重返旧地的经历，解释情感变化",
+      "parts": [
+        "离乡背景与寻找旧村的期待",
+        "路线疑惑、遇见当地人及水库真相"
+      ],
+      "phrases": [
+        {
+          "en": "I expected the place to match the image in my memory.",
+          "zh": "我原以为这个地方会与记忆中的景象一致。"
+        },
+        {
+          "en": "The more I looked, the less familiar it seemed.",
+          "zh": "我越看，越觉得陌生。"
+        },
+        {
+          "en": "Learning what had changed helped me understand my confusion.",
+          "zh": "得知发生了哪些变化，帮助我理解了自己的困惑。"
+        }
+      ],
+      "printPageStart": 256,
+      "pdfPageStart": 258,
+      "pdfPageEnd": 261,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/57－Back in the Old Country.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“离乡背景与寻找旧村的期待”与“路线疑惑、遇见当地人及水库真相”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 58,
+      "end": 58,
+      "title": "A spot of bother 一点小麻烦",
+      "focus": "细节推断、事件调查与轻描淡写",
+      "canDo": "按观察、推断、核实的顺序说明一次异常事件",
+      "parts": [
+        "回家发现门开着与屋内异常",
+        "求助、调查线索及暂住安排"
+      ],
+      "phrases": [
+        {
+          "en": "The open door was the first sign that something was wrong.",
+          "zh": "敞开的门是事情不对劲的第一个迹象。"
+        },
+        {
+          "en": "I described what I had seen without guessing who was responsible.",
+          "zh": "我描述了看到的情况，没有猜测是谁所为。"
+        },
+        {
+          "en": "The officer advised me to stay elsewhere while the matter was investigated.",
+          "zh": "调查期间，警员建议我暂住别处。"
+        }
+      ],
+      "printPageStart": 260,
+      "pdfPageStart": 262,
+      "pdfPageEnd": 265,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/58－A Spot of Bother.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“回家发现门开着与屋内异常”与“求助、调查线索及暂住安排”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 59,
+      "end": 59,
+      "title": "Collecting 收藏",
+      "focus": "分类、动机与益处论证",
+      "canDo": "解释一种爱好，比较无意堆积与有目的收藏",
+      "parts": [
+        "物品积累的原因与整理困难",
+        "有目的收藏带来的知识、交往与满足"
+      ],
+      "phrases": [
+        {
+          "en": "There is a difference between keeping everything and building a collection.",
+          "zh": "什么都留着和有目的地收藏是有区别的。"
+        },
+        {
+          "en": "A clear focus helps me decide what is worth keeping.",
+          "zh": "明确的方向帮助我决定哪些东西值得保留。"
+        },
+        {
+          "en": "The hobby has introduced me to people with similar interests.",
+          "zh": "这个爱好让我认识了志趣相投的人。"
+        }
+      ],
+      "printPageStart": 264,
+      "pdfPageStart": 266,
+      "pdfPageEnd": 269,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/59－Collecting.mp3",
+      "writing": "按本课Summary writing限定的内容、字数和要求写摘要；Composition选择本课题目，按原题字数与分段要求完成。",
+      "check": "能说清“物品积累的原因与整理困难”与“有目的收藏带来的知识、交往与满足”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    },
+    {
+      "start": 60,
+      "end": 60,
+      "title": "Too early and too late 太早和太晚",
+      "focus": "观点与事例结合；时间安排与转述",
+      "canDo": "讨论守时的分寸，用具体事例提出可行建议",
+      "parts": [
+        "守时的重要性及过早、过迟的问题",
+        "女孩乘车、时刻表标记及错失列车"
+      ],
+      "phrases": [
+        {
+          "en": "Leaving no margin for delay makes a simple journey stressful.",
+          "zh": "不给延误留余地，会让简单的行程也充满压力。"
+        },
+        {
+          "en": "Arriving early is useful only if I have checked the correct details.",
+          "zh": "只有核对了正确信息，提前到达才有用。"
+        },
+        {
+          "en": "I now confirm the service and allow time for unexpected changes.",
+          "zh": "我现在会确认班次，并为意外变化留出时间。"
+        }
+      ],
+      "printPageStart": 268,
+      "pdfPageStart": 270,
+      "pdfPageEnd": 273,
+      "audioPath": "新概念三/新概念第3册MP3音频/第三册课文MP3+LRC/英音-(MP3+LRC)/60－Too Early and Too Late.mp3",
+      "writing": "摘要不超过80词，只写末段女孩在车站的经历；作文从教材两个题目中选一个，写250–350词。",
+      "check": "能说清“守时的重要性及过早、过迟的问题”与“女孩乘车、时刻表标记及错失列车”的关系；至少4条信息符合原文，能把本课表达用于自己的例子。"
+    }
+  ]
+}

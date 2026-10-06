@@ -1,0 +1,12 @@
+from pathlib import Path
+p=Path('src/book-plan.js')
+s=p.read_text(encoding='utf-8')
+s=s.replace("    return '两册通用';", "    if (raw === 'book3' || raw === '3' || /第三册|三册/.test(raw)) return '第三册';\n    return '通用资料';")
+s=s.replace('两册路线已完成','三册路线已完成').replace('新概念第一册 · 第二册　每天','新概念第一册 · 第二册 · 第三册　每天').replace('两册全程 · 阶段成果总览','三册全程 · 阶段成果总览').replace("'两册学习路线'","'三册学习路线'")
+s=s.replace('<span>${weeks.length} 周，随时查询</span></div><div class="bp-week-controls">','<span>${weeks.length} 周，随时查询</span><button type="button" class="button secondary bp-book3-entry" data-plan-jump-week="103">查看第三册计划 →</button></div><div class="bp-week-controls">')
+s=s.replace('完成教材摘要与分段写作。</p></article></div>', '完成教材摘要与分段写作。</p></article><article><span>第三册 · 60 课 · 66 周</span><h3>从读懂长文，到有依据地表达</h3><p>第 103–168 周，每周一课。结册练习目标：表达 3–4 分钟，完成 L60 的 250–350 词作文及修改。</p></article></div>')
+s=s.replace('另含 2 周发音起步、2 周两册衔接。','另含 2 周发音起步、2 周一二册衔接。第三册每 10 课后复盘一周。')
+p.write_text(s,encoding='utf-8')
+p=Path('build.mjs');s=p.read_text(encoding='utf-8').replace("['两册学习路线与规划.html','初语_学习程序.html']","['三册学习路线与规划.html','两册学习路线与规划.html','初语_学习程序.html']");p.write_text(s,encoding='utf-8')
+p=Path('package.json');s=p.read_text(encoding='utf-8').replace('新概念英语两册学习路线','新概念英语三册学习路线').replace('node --test tests/today-progress.test.mjs','node --test tests/*.test.mjs');p.write_text(s,encoding='utf-8')
+p=Path('src/index.html');s=p.read_text(encoding='utf-8').replace('新概念英语今日学习：','新概念英语第一至三册今日学习：');p.write_text(s,encoding='utf-8')

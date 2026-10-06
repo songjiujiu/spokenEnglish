@@ -82,10 +82,10 @@ test('a completed sixth day advances to the next week with a rest reminder', () 
   });
 });
 
-test('all 612 planned sessions can be completed exactly once without an out-of-range day', () => {
-  assert.equal(plan.weeks.length, 102);
+test('all planned sessions can be completed exactly once without an out-of-range day', () => {
+  assert.equal(plan.weeks.length, plan.pacing.totalWeeks);
   const expected = plan.weeks.flatMap(week => week.days.map(day => ({ week: week.week, day: day.day, title: day.title })));
-  assert.equal(expected.length, 612);
+  assert.equal(expected.length, plan.pacing.totalWeeks * plan.pacing.daysPerWeek);
   const progress = create(plan.weeks);
   let state = progress.defaultState();
   let restReminders = 0;
@@ -113,9 +113,9 @@ test('all 612 planned sessions can be completed exactly once without an out-of-r
     }
     state = result.state;
   });
-  assert.equal(restReminders, 101);
-  assert.equal(new Set(state.completed).size, 612);
-  assert.equal(state.week, 102);
+  assert.equal(restReminders, plan.weeks.length - 1);
+  assert.equal(new Set(state.completed).size, expected.length);
+  assert.equal(state.week, plan.weeks.at(-1).week);
   assert.equal(state.day, 6);
   for (let attempt = 0; attempt < 3; attempt += 1) {
     assert.deepEqual(plain(progress.next(state)), { state: plain(state), moved: false, finished: true, rest: false });

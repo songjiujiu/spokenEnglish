@@ -3,11 +3,13 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { buildWeeks } from './make-weekly-plan.mjs';
 import { addTodayPlan } from './make-today-plan.mjs';
+import {loadBook3Catalog,buildBook3Plan,book3Resources} from './make-book3-plan.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const inventory = JSON.parse(await readFile(path.join(root, 'planning/materials-inventory.json'), 'utf8'));
 const [book1, book2] = await Promise.all(['book1', 'book2'].map(async book => JSON.parse(await readFile(path.join(root, `planning/${book}-lesson-map.json`), 'utf8'))));
 const phraseMap = JSON.parse(await readFile(path.join(root, 'planning/daily-phrase-map.json'), 'utf8'));
+const book3 = await loadBook3Catalog(root,inventory);
 const resource = (id, book, title, relativePath, role, note) => ({ id, book, title, relativePath, role, note });
 const resources = [
   resource('phonetics', 'book1', '音标入门视频', '新概念一/音标入门视频', '起步与按需回看', '27 个 AVI 视频。前两周先练长短元音、字母常见发音与重音；其他音和连读问题跟随课文逐步补，不要求两周看完。'),
@@ -30,6 +32,7 @@ const resources = [
   resource('b2-live', 'book2', '第二册直播专题', '新概念二/新概念二最新最新直播课', '可选复盘', '现有 9 组视频与 PDF；按文件中的简单句、时态、并列句、被动、从句等主题查找。文件夹名称中的“最新”不作为时效证明。')
 ];
 const canonical = text => text.replaceAll('\\', '/');
+resources.push(...book3Resources);
 for (const item of resources) {
   if (!inventory.files.some(file => canonical(file.relativePath) === item.relativePath || canonical(file.relativePath).startsWith(item.relativePath + '/'))) throw Error(`原目录找不到规划资源：${item.relativePath}`);
 }
@@ -202,32 +205,36 @@ const phaseResults = {
 };
 for (const item of phases) Object.assign(item, phaseResults[item.id]);
 const weeks = addTodayPlan(buildWeeks({phases, firstWeek, book1, book2}), phraseMap);
+const third = buildBook3Plan(book3,cursor);
+phases.push(...third.phases);
+weeks.push(...third.weeks);
+cursor += third.weeks.length;
 
 const plan = {
   version:1, scannedAt:inventory.scannedAt.slice(0,10), sourceRoot:inventory.sourceRoot,
-  summary:{totalFiles:inventory.totalFiles,book1Files:inventory.files.filter(f=>f.book==='book1').length,book2Files:inventory.files.filter(f=>f.book==='book2').length,videoNote:'已盘点 4,123 个文件（约 52.22 GiB）。一册 144 课 / 72 对课，主讲 433 个视频约 65.40 小时；二册 96 课，主讲 291 个视频约 62.16 小时。片段数量不等于课程数量。'},
-  pacing:{dailyMinutes:45,daysPerWeek:6,totalWeeks:cursor-1,description:'按每周两对一册课 / 两课二册、讲解按需选看计算：2 周起步 + 42 周一册 + 2 周衔接 + 56 周二册 = 102 周参考路线，约两年、459 小时。包含 14 个复盘周；这是排课基准，不是完成期限。长课或未能独立输出时顺延，每周第 7 天休息。'},
+  summary:{totalFiles:inventory.totalFiles,...Object.fromEntries(['book1','book2','book3'].map(book=>[book+'Files',inventory.files.filter(f=>f.book===book).length])),videoNote:'第一、二册保留此前盘点，本轮新增第三册1,488个文件索引。三册60课已与教材目录和英音MP3课号核对；未对三册全部视频计时或试听。片段数量不等于课程数量。'},
+  pacing:{dailyMinutes:45,daysPerWeek:6,totalWeeks:cursor-1,description:'2周起步 + 42周一册 + 2周衔接 + 56周二册 + 66周三册 = 168周参考路线、1008个学习日，按每天45分钟计756小时。三册第103–168周，一课一周，每10课后复盘一周；三册共60个教学周和6个复盘周，全程共20个复盘周。这是学习顺序，不是完成期限；未掌握时顺延，第7天休息。'},
   phases, resources, weeks,
-  curriculumSources:[...book1.sourceNotes, ...book2.sourceNotes, ...phraseMap.notes],
+  curriculumSources:[...book1.sourceNotes, ...book2.sourceNotes, ...phraseMap.notes,...book3.sourceNotes],
   rules:[
     '每天 45 分钟到时就停，记录下次从哪里继续。第 7 天休息，偶尔漏学不以双倍时长惩罚性补课。',
     '每天看讲解上限 15 分钟，每周最多 90 分钟；必须保留跟读、主动回忆和自己的口头/书面输出。较难视频可分多天看。',
     '第一册不能把两对课的核心片都默认看完：核心视频每对平均约 45.07 分钟，36 个教学周中有 20 周超过 90 分钟。先按疑点看，未理解的内容移到复盘周，仍超量就整体顺延。',
     '第一册 L5–8、L13–16、L49–52、L137–140 特别留意负担；二册 L1–2 全片约 120 分钟，先学主课文与语法，生词及拓展按需看。二册 L55–56 主片合计约 85 分钟，可主动拆周。',
     '每对/每课最多记录 3 个想记住的表达，写在纸卡或自己的笔记中。隔天、约 3 天和一周后再回忆；积累过多时先复习，暂停新增。',
-    '阶段门槛是本计划的自查建议，不是教材官方等级认证。口语秒数与一册写作词数是训练建议；二册具体摘要字数以每课题目为准。',
+    '阶段门槛是本计划的自查建议，不是教材官方等级认证。口语时长与原创迁移写作词数是训练建议；二、三册教材摘要和作文按各课题目要求。第三册长作文可顺延，先完成与修改再进入下一课。',
     '不要等音标课、172 个拼读视频、所有直播和 PPT 全看完才开教材。主教材 + 一套主精讲 + 一套音频 + 一本练习册足够开始。',
     '每周第 6 天整理三个东西：最能独立说出的表达、仍会错的句型、下周第一项任务。'
   ],
   notes:[
-    '依据：两册目录与教材课号、实际阅读的学生用书/教师用书/讲义样本、主精讲视频的 ffprobe 时长元数据。已确认课号连续；未逐页审读全部文档，也未逐段试听全部视频。',
+    '依据：三册目录、教材课号与实际阅读的课文/讲义内容。一、二册曾抽读教材并盘点主视频时长；第三册核对60课目录、课文汇编及选定教材页。未逐页校勘全部讲义，也未逐段试听全部音视频。',
     '第一册已读学生用书目录、教师用书教学建议、霍娜整合讲义；第二册抽读学生用书及 L1、L24、L48、L72、L96 等逐课讲义，阶段目标结合这些材料设计。',
     '这份规划引用文件路径并概括用途，不搬运教材或视频。原始下载目录保持原状；库存清单与时长审计保存在项目 planning 目录。',
     '资源路径可复制到 Windows 文件资源管理器打开。当前页面不提供这些本地视频的站内播放；FLV、AVI、WMV、RM 等文件请使用支持对应格式的本地播放器。',
     '页面中的周次表示学习顺序；课文输出和自查结果可记在自己的学习笔记中。',
-    '完成两册后的下一步是根据真实听说读写表现补强，再单独规划雅思任务；不从两册完成情况推定雅思分数。'
+    '第一、二册的1–102周保持原编号，第三册从103周接续；浏览或调整到第三册不自动标记此前任务完成。完成三册后根据实际表现补强，不据此推定雅思分数。'
   ]
 };
 await writeFile(path.join(root, 'src/study-plan-data.json'), JSON.stringify(plan, null, 2)+'\n');
-console.log(`已生成两册规划：${phases.length} 个阶段，${weeks.length} 周、${weeks.reduce((sum,week)=>sum+week.days.length,0)} 天具体任务。`);
+console.log(`已生成三册规划：${phases.length} 个阶段，${weeks.length} 周、${weeks.reduce((sum,week)=>sum+week.days.length,0)} 天具体任务。`);
 

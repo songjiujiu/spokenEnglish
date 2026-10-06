@@ -5,7 +5,7 @@
 ## 打开
 
 - 本地服务：在项目目录运行 `npm run dev`，访问 http://127.0.0.1:8765 。
-- 独立文件：双击 `初语_学习程序.html` 或 `两册学习路线与规划.html`。
+- 独立文件：双击 `初语_学习程序.html` 或 `三册学习路线与规划.html`；旧文件名仍可使用。
 - 静态部署：运行 `npm run build`，上传 `dist/index.html` 到站点目录。
 
 ## 怎么学
@@ -21,9 +21,13 @@
 
 ## 完整路线
 
-完整周计划保留全部 102 周、612 个学习日。每周写清课目、做到哪里、学完能做的事、作品与过关标准；每阶段展示听懂、开口、写出的成果。
+完整周计划保留全部 168 周、1008 个学习日。每周写清课目、做到哪里、学完能做的事、作品与过关标准；每阶段展示听懂、开口、写出的成果。
 
-2 周起步 + 第一册 42 周 + 2 周衔接 + 第二册 56 周，包含 14 个复盘周。第 7 天休息，长课或尚未掌握的内容可以顺延。
+2 周起步 + 第一册 42 周 + 2 周衔接 + 第二册 56 周 + 第三册 66 周，包含 20 个复盘周。第 7 天休息，长课或尚未掌握的内容可以顺延。
+
+第三册从第 103 周开始：60 课每课一周，每 10 课再安排一周复盘。打开“完整周计划”，点击“查看第三册计划”即可查询，不会改变今日进度；选择具体一天的“学这一天”才会调整位置。
+
+第三册每课按初听、精读上半、精读下半、理解与摘要、口述与作文初稿、修改与自查拆成六天。任务标注教材 PDF 页码、对应录音、三句原创表达和完成标准。六个阶段依次训练事件叙述、经历比较、提炼观点、复杂叙事、现实问题讨论和独立长篇表达。篇幅按本课教材题目要求；较长作文可顺延。
 
 ## 进度保存
 
@@ -37,7 +41,9 @@
 - 完整数据：`src/study-plan-data.json`；浏览器数据：`src/plan-data.js`。
 - 生成入口：`scripts/make-study-plan.mjs`；周计划：`scripts/make-weekly-plan.mjs`；今日内容：`scripts/make-today-plan.mjs`。
 - 逐课依据与原创表达：`planning/book1-lesson-map.json`、`planning/book2-lesson-map.json`、`planning/daily-phrase-map.json`。
+- 第三册内容源：`planning/book3-curriculum.tsv`；生成规则：`scripts/make-book3-plan.mjs`；生成的课目映射与阅读记录：`planning/book3-lesson-map.json`、`planning/book3-audit.json`。
+- 单独更新第三册资料盘点：`node scripts/scan-materials.mjs D:\BaiduNetdiskDownload book3`。当前资料根目录未找到一、二册文件夹，保留它们之前的盘点和原有计划。
 - 修改规划后运行 `node scripts/make-study-plan.mjs`，再运行 `npm run build`。
 - 进度规则测试：`npm test`。
 
-构建生成两个独立 HTML 与静态部署文件 `dist/index.html`。旧版源码、说明与测试保存在 `archive/before-route-only/`。
+构建生成三个独立 HTML 与静态部署文件 `dist/index.html`。第三册追加在原有 102 周之后，保留原学习日内容和完成记录。旧版源码、说明与测试保存在 `archive/before-route-only/`。
